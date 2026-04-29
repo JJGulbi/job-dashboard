@@ -1,0 +1,739 @@
+[
+  {
+    "name": "GPPAC",
+    "url": "https://www.gppac.net/vacancies",
+    "tags": [
+      "peace",
+      "civil society",
+      "international"
+    ]
+  },
+  {
+    "name": "ICLEI",
+    "url": "https://iclei.org/jobs/",
+    "tags": [
+      "sustainability",
+      "local government",
+      "urban"
+    ]
+  },
+  {
+    "name": "Oxfam",
+    "url": "https://www.oxfam.org/en/take-action/jobs",
+    "tags": [
+      "development",
+      "humanitarian",
+      "ingo"
+    ]
+  },
+  {
+    "name": "REN21",
+    "url": "https://www.ren21.net/about-us/jobs/",
+    "tags": [
+      "energy",
+      "policy"
+    ]
+  },
+  {
+    "name": "EEAS",
+    "url": "https://www.eeas.europa.eu/eeas/vacancies_en",
+    "tags": [
+      "eu",
+      "diplomacy",
+      "governance"
+    ]
+  },
+  {
+    "name": "ILO",
+    "url": "https://jobs.ilo.org/",
+    "tags": [
+      "labour",
+      "un",
+      "social justice"
+    ]
+  },
+  {
+    "name": "EU ACT",
+    "url": "https://eu-act.info/job-offers",
+    "tags": [
+      "eu",
+      "rule of law"
+    ]
+  },
+  {
+    "name": "EU Fundamental Rights Agency",
+    "url": "https://fra.europa.eu/en/about-fra/recruitment/vacancies",
+    "tags": [
+      "human rights",
+      "eu"
+    ]
+  },
+  {
+    "name": "OSCE",
+    "url": "https://jobs.osce.org/vacancies",
+    "tags": [
+      "security",
+      "democracy",
+      "governance",
+      "international"
+    ]
+  },
+  {
+    "name": "World Bank Group",
+    "url": "https://jobs.worldbank.org/",
+    "tags": [
+      "development",
+      "governance",
+      "international"
+    ]
+  },
+  {
+    "name": "ICC Germany",
+    "url": "https://www.iccgermany.de/jobs/",
+    "tags": [
+      "trade",
+      "international",
+      "germany"
+    ]
+  },
+  {
+    "name": "EUISS",
+    "url": "https://www.iss.europa.eu/opportunities",
+    "tags": [
+      "security",
+      "eu",
+      "research"
+    ]
+  },
+  {
+    "name": "EPLO",
+    "url": "https://eplo.org/get-involved/job-vacancies-internships/",
+    "tags": [
+      "peace",
+      "civil society",
+      "eu"
+    ]
+  },
+  {
+    "name": "Heinrich Böll Stiftung",
+    "url": "https://www.boell.de/de/jobs-der-heinrich-boell-stiftung",
+    "tags": [
+      "foundation",
+      "democracy",
+      "digital",
+      "germany"
+    ]
+  },
+  {
+    "name": "Konrad Adenauer Stiftung",
+    "url": "https://www.kas.de/en/stellenangebote",
+    "tags": [
+      "foundation",
+      "governance",
+      "international",
+      "germany"
+    ]
+  },
+  {
+    "name": "Willy Brandt Stiftung",
+    "url": "https://willy-brandt.de/en/the-foundation/organisation/vacancies/",
+    "tags": [
+      "foundation",
+      "peace",
+      "germany"
+    ]
+  },
+  {
+    "name": "Friedrich Ebert Stiftung",
+    "url": "https://www.fes.de/stellenangebote",
+    "tags": [
+      "foundation",
+      "democracy",
+      "participation",
+      "germany"
+    ]
+  },
+  {
+    "name": "BMW Herbert Quandt Foundation",
+    "url": "https://bmw-foundation.org/en/careers/",
+    "tags": [
+      "foundation",
+      "sdgs",
+      "leadership"
+    ]
+  },
+  {
+    "name": "Berghof Stiftung",
+    "url": "https://berghof-foundation.org/about/opportunities/jobs",
+    "tags": [
+      "peace",
+      "conflict",
+      "transformation"
+    ]
+  },
+  {
+    "name": "Stiftung Entwicklung und Frieden",
+    "url": "https://www.sef-bonn.org/aktuelles.html",
+    "tags": [
+      "peace",
+      "development",
+      "germany"
+    ]
+  },
+  {
+    "name": "SWP",
+    "url": "https://www.swp-berlin.org/karriere",
+    "tags": [
+      "think tank",
+      "security",
+      "foreign policy",
+      "berlin"
+    ]
+  },
+  {
+    "name": "Robert Bosch Stiftung",
+    "url": "https://www.bosch-stiftung.de/en/careers",
+    "tags": [
+      "foundation",
+      "education",
+      "international",
+      "germany"
+    ]
+  },
+  {
+    "name": "Bertelsmann Stiftung",
+    "url": "https://www.bertelsmann-stiftung.de/en/careers",
+    "tags": [
+      "foundation",
+      "democracy",
+      "participation",
+      "education"
+    ]
+  },
+  {
+    "name": "Stiftung Mercator",
+    "url": "https://www.stiftung-mercator.de/en/jobs/",
+    "tags": [
+      "foundation",
+      "education",
+      "europe",
+      "culture"
+    ]
+  },
+  {
+    "name": "SOMO",
+    "url": "https://www.somo.nl/about-somo/work-at-somo/",
+    "tags": [
+      "research",
+      "multinationals",
+      "sustainability"
+    ]
+  },
+  {
+    "name": "ISSAT / DCAF",
+    "url": "https://issat.dcaf.ch/Share/Jobs",
+    "tags": [
+      "security",
+      "rule of law",
+      "international"
+    ]
+  },
+  {
+    "name": "GPPi",
+    "url": "https://www.gppi.net/about/jobs-internships",
+    "tags": [
+      "think tank",
+      "governance",
+      "berlin"
+    ]
+  },
+  {
+    "name": "International Crisis Group",
+    "url": "https://jobs.crisisgroup.org/",
+    "tags": [
+      "conflict",
+      "analysis",
+      "international"
+    ]
+  },
+  {
+    "name": "HSFK",
+    "url": "https://www.hsfk.de/karriere/freie-stellen",
+    "tags": [
+      "peace",
+      "research",
+      "frankfurt"
+    ]
+  },
+  {
+    "name": "SIPRI",
+    "url": "https://sipri.org/about/vacancies",
+    "tags": [
+      "peace",
+      "security",
+      "research",
+      "stockholm"
+    ]
+  },
+  {
+    "name": "HCSS",
+    "url": "https://hcss.nl/jobs",
+    "tags": [
+      "strategy",
+      "security",
+      "the hague"
+    ]
+  },
+  {
+    "name": "IPI",
+    "url": "https://www.ipinst.org/about/employment",
+    "tags": [
+      "peace",
+      "security",
+      "un",
+      "new york"
+    ]
+  },
+  {
+    "name": "Freedom Fund",
+    "url": "https://freedomfund.org/about/careers/",
+    "tags": [
+      "human rights",
+      "anti-slavery",
+      "international"
+    ]
+  },
+  {
+    "name": "ICCT",
+    "url": "https://icct.nl/about/careers/",
+    "tags": [
+      "counter-terrorism",
+      "policy",
+      "the hague"
+    ]
+  },
+  {
+    "name": "Clingendael",
+    "url": "https://www.clingendael.org/careers",
+    "tags": [
+      "think tank",
+      "international relations",
+      "the hague"
+    ]
+  },
+  {
+    "name": "Greenpeace International",
+    "url": "https://workfor.international.greenpeace.org/",
+    "tags": [
+      "environment",
+      "advocacy",
+      "international"
+    ]
+  },
+  {
+    "name": "IFIT",
+    "url": "https://www.ifit-transitions.org/about/vacancies",
+    "tags": [
+      "fragile states",
+      "transitions",
+      "peace"
+    ]
+  },
+  {
+    "name": "Kindernothilfe",
+    "url": "https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt",
+    "tags": [
+      "development",
+      "children",
+      "germany"
+    ]
+  },
+  {
+    "name": "Search for Common Ground",
+    "url": "https://www.sfcg.org/careers/",
+    "tags": [
+      "peacebuilding",
+      "international",
+      "civil society"
+    ]
+  },
+  {
+    "name": "Mercy Corps",
+    "url": "https://www.mercycorps.org/careers",
+    "tags": [
+      "humanitarian",
+      "development",
+      "international"
+    ]
+  },
+  {
+    "name": "HD Centre",
+    "url": "https://www.hdcentre.org/about/vacancies/",
+    "tags": [
+      "mediation",
+      "peace",
+      "humanitarian"
+    ]
+  },
+  {
+    "name": "Transparency International",
+    "url": "https://www.transparency.org/en/career-tender-opportunities",
+    "tags": [
+      "anti-corruption",
+      "governance",
+      "civil society"
+    ]
+  },
+  {
+    "name": "CityLAB Berlin",
+    "url": "https://citylab-berlin.org/jobs/",
+    "tags": [
+      "civic tech",
+      "urban",
+      "berlin",
+      "participation"
+    ]
+  },
+  {
+    "name": "GoVocal",
+    "url": "https://govocal.com/careers",
+    "tags": [
+      "civic tech",
+      "participation platform",
+      "belgium"
+    ]
+  },
+  {
+    "name": "Cap Collectif",
+    "url": "https://cap-collectif.com/en/jobs/",
+    "tags": [
+      "civic tech",
+      "participation",
+      "france"
+    ]
+  },
+  {
+    "name": "Commonplace",
+    "url": "https://commonplace.is/careers",
+    "tags": [
+      "civic tech",
+      "participation",
+      "uk"
+    ]
+  },
+  {
+    "name": "Particify",
+    "url": "https://particify.de/jobs/",
+    "tags": [
+      "civic tech",
+      "participation",
+      "germany"
+    ]
+  },
+  {
+    "name": "mySociety",
+    "url": "https://www.mysociety.org/jobs/",
+    "tags": [
+      "civic tech",
+      "digital",
+      "uk"
+    ]
+  },
+  {
+    "name": "Open Knowledge Foundation",
+    "url": "https://okfn.org/en/jobs/",
+    "tags": [
+      "open data",
+      "transparency",
+      "international"
+    ]
+  },
+  {
+    "name": "OKFDE",
+    "url": "https://okfn.de/jobs/",
+    "tags": [
+      "open data",
+      "civic tech",
+      "germany",
+      "berlin"
+    ]
+  },
+  {
+    "name": "Democratic Society",
+    "url": "https://www.demsoc.org/about/jobs/",
+    "tags": [
+      "participation",
+      "democracy",
+      "eu"
+    ]
+  },
+  {
+    "name": "International IDEA",
+    "url": "https://www.idea.int/careers",
+    "tags": [
+      "democracy",
+      "elections",
+      "international"
+    ]
+  },
+  {
+    "name": "NDI",
+    "url": "https://www.ndi.org/careers",
+    "tags": [
+      "democracy",
+      "digital",
+      "international"
+    ]
+  },
+  {
+    "name": "Open Government Partnership",
+    "url": "https://www.opengovpartnership.org/careers",
+    "tags": [
+      "open government",
+      "participation",
+      "international"
+    ]
+  },
+  {
+    "name": "AlgorithmWatch",
+    "url": "https://algorithmwatch.org/en/jobs/",
+    "tags": [
+      "digital rights",
+      "algorithms",
+      "berlin"
+    ]
+  },
+  {
+    "name": "Access Info Europe",
+    "url": "https://www.access-info.org/about/jobs/",
+    "tags": [
+      "transparency",
+      "digital rights",
+      "europe"
+    ]
+  },
+  {
+    "name": "Missions Publiques",
+    "url": "https://missionspubliques.com/en/join-us/",
+    "tags": [
+      "deliberation",
+      "citizens assembly",
+      "participation"
+    ]
+  },
+  {
+    "name": "newDemocracy Foundation",
+    "url": "https://www.newdemocracy.com.au/about/",
+    "tags": [
+      "deliberation",
+      "citizens assembly",
+      "democracy"
+    ]
+  },
+  {
+    "name": "DemocracyNext",
+    "url": "https://demnext.org/jobs/",
+    "tags": [
+      "deliberation",
+      "citizens assembly",
+      "copenhagen"
+    ]
+  },
+  {
+    "name": "Access Now",
+    "url": "https://www.accessnow.org/careers/",
+    "tags": [
+      "digital rights",
+      "human rights",
+      "international"
+    ]
+  },
+  {
+    "name": "Engine Room",
+    "url": "https://www.theengineroom.org/jobs/",
+    "tags": [
+      "digital",
+      "civil society",
+      "tools"
+    ]
+  },
+  {
+    "name": "Mozilla Foundation",
+    "url": "https://foundation.mozilla.org/en/careers/",
+    "tags": [
+      "digital rights",
+      "open internet",
+      "international"
+    ]
+  },
+  {
+    "name": "GIZ",
+    "url": "https://jobs.giz.de/index.php",
+    "tags": [
+      "development",
+      "governance",
+      "germany",
+      "global"
+    ]
+  },
+  {
+    "name": "UNDP",
+    "url": "https://jobs.undp.org/cj_view_jobs.cfm",
+    "tags": [
+      "un",
+      "development",
+      "governance",
+      "global"
+    ]
+  },
+  {
+    "name": "Westminster Foundation for Democracy",
+    "url": "https://www.wfd.org/about/careers",
+    "tags": [
+      "democracy",
+      "governance",
+      "uk"
+    ]
+  },
+  {
+    "name": "IDB",
+    "url": "https://www.iadb.org/en/careers",
+    "tags": [
+      "development",
+      "latam",
+      "international"
+    ]
+  },
+  {
+    "name": "Article 19",
+    "url": "https://www.article19.org/about-us/work-with-us/jobs/",
+    "tags": [
+      "freedom of expression",
+      "human rights",
+      "global"
+    ]
+  },
+  {
+    "name": "DAI",
+    "url": "https://www.dai.com/careers",
+    "tags": [
+      "development",
+      "governance",
+      "international"
+    ]
+  },
+  {
+    "name": "Igarapé Institute",
+    "url": "https://igarape.org.br/en/about/work-with-us/",
+    "tags": [
+      "security",
+      "justice",
+      "brazil",
+      "latam"
+    ]
+  },
+  {
+    "name": "Luminate",
+    "url": "https://luminategroup.com/careers",
+    "tags": [
+      "civic tech",
+      "media",
+      "international"
+    ]
+  },
+  {
+    "name": "Chatham House",
+    "url": "https://www.chathamhouse.org/about-us/careers",
+    "tags": [
+      "think tank",
+      "international affairs",
+      "london"
+    ]
+  },
+  {
+    "name": "ECFR",
+    "url": "https://ecfr.eu/about/jobs/",
+    "tags": [
+      "think tank",
+      "eu",
+      "foreign policy",
+      "berlin"
+    ]
+  },
+  {
+    "name": "Open Society Foundations",
+    "url": "https://www.opensocietyfoundations.org/careers",
+    "tags": [
+      "democracy",
+      "justice",
+      "open government",
+      "global"
+    ]
+  },
+  {
+    "name": "Nesta",
+    "url": "https://www.nesta.org.uk/careers/",
+    "tags": [
+      "social innovation",
+      "civic tech",
+      "uk"
+    ]
+  },
+  {
+    "name": "Friends of Europe",
+    "url": "https://www.friendsofeurope.org/about-us/jobs/",
+    "tags": [
+      "eu",
+      "democracy",
+      "participation",
+      "brussels"
+    ]
+  },
+  {
+    "name": "Ashoka",
+    "url": "https://www.ashoka.org/en-us/careers",
+    "tags": [
+      "social innovation",
+      "civil society",
+      "global"
+    ]
+  },
+  {
+    "name": "DG REFORM",
+    "url": "https://reform-support.ec.europa.eu/careers_en",
+    "tags": [
+      "eu",
+      "governance",
+      "reform",
+      "brussels"
+    ]
+  },
+  {
+    "name": "Committee of the Regions",
+    "url": "https://cor.europa.eu/en/about/jobs",
+    "tags": [
+      "eu",
+      "regional",
+      "local government",
+      "brussels"
+    ]
+  },
+  {
+    "name": "Hivos",
+    "url": "https://www.hivos.org/careers/",
+    "tags": [
+      "development",
+      "digital rights",
+      "the hague"
+    ]
+  },
+  {
+    "name": "PAX Netherlands",
+    "url": "https://paxforpeace.nl/about-us/jobs/",
+    "tags": [
+      "peace",
+      "security",
+      "netherlands"
+    ]
+  }
+]
