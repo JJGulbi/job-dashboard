@@ -1,1 +1,5369 @@
-{"scraped_at":"2026-01-01T00:00:00","total":0,"new_count":0,"jobs":[]}
+{
+  "scraped_at": "2026-04-29T20:16:24.556785",
+  "total": 326,
+  "new_count": 326,
+  "jobs": [
+    {
+      "id": "f5bcf4bf693e",
+      "title": "Open Positions at ICLEI World Secretariat",
+      "org": "ICLEI",
+      "org_tags": [
+        "sustainability",
+        "local government",
+        "urban"
+      ],
+      "url": "https://iclei.org/jobs/#n-tab-1",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "911507072d24",
+      "title": "Terms of Reference",
+      "org": "ICLEI",
+      "org_tags": [
+        "sustainability",
+        "local government",
+        "urban"
+      ],
+      "url": "https://iclei.org/jobs/#n-tab-2",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "679f2f82a64d",
+      "title": "Open Positions at Regional Offices",
+      "org": "ICLEI",
+      "org_tags": [
+        "sustainability",
+        "local government",
+        "urban"
+      ],
+      "url": "https://iclei.org/jobs/#n-tab-3",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "184e6856cea8",
+      "title": "See our open positions",
+      "org": "ICLEI",
+      "org_tags": [
+        "sustainability",
+        "local government",
+        "urban"
+      ],
+      "url": "https://icleicanada.org/about-iclei/careers/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "848d0144c3e0",
+      "title": "See our open positions",
+      "org": "ICLEI",
+      "org_tags": [
+        "sustainability",
+        "local government",
+        "urban"
+      ],
+      "url": "http://eastasia.iclei.org/careers/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "56a1ca484173",
+      "title": "See our open positions",
+      "org": "ICLEI",
+      "org_tags": [
+        "sustainability",
+        "local government",
+        "urban"
+      ],
+      "url": "https://iclei-europe.org/jobs/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "af601e5a33e3",
+      "title": "See our open positions",
+      "org": "ICLEI",
+      "org_tags": [
+        "sustainability",
+        "local government",
+        "urban"
+      ],
+      "url": "https://icleiseas.org/index.php/category/careers-opportunities/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "77758fc68e6b",
+      "title": "See our open positions",
+      "org": "ICLEI",
+      "org_tags": [
+        "sustainability",
+        "local government",
+        "urban"
+      ],
+      "url": "https://icleiusa.org/about/job-opportunities/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "e45445384951",
+      "title": "Skip to main content",
+      "org": "Oxfam",
+      "org_tags": [
+        "development",
+        "humanitarian",
+        "ingo"
+      ],
+      "url": "https://www.oxfam.org/en/take-action/jobs#main-content",
+      "location": "global",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "b7e17e710463",
+      "title": "Current vacancies for Oxfam International Secretariat",
+      "org": "Oxfam",
+      "org_tags": [
+        "development",
+        "humanitarian",
+        "ingo"
+      ],
+      "url": "https://oxfam.current-vacancies.com/Careers/Oxfam-Vacancies-3360",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "9b6f4486853b",
+      "title": "Job opportunities with Oxfam Affiliates",
+      "org": "Oxfam",
+      "org_tags": [
+        "development",
+        "humanitarian",
+        "ingo"
+      ],
+      "url": "https://www.oxfam.org/en/take-action/jobs/affiliates",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "421d0f94639f",
+      "title": "EU Project position (256)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=contract_type%3AEU%20Project%20position",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "cff1f8f111d4",
+      "title": "International position (55)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=contract_type%3AInternational%20position",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "0b579e0826e2",
+      "title": "Communication (149)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=job_profile%3ACommunication",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "60937c64c573",
+      "title": "Financial (132)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=job_profile%3AFinancial",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "c9fd4dd5dd45",
+      "title": "Human Resources/Administration (211)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=job_profile%3AHuman%20Resources/Administration",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "a8b381bdd7a3",
+      "title": "Legal (41)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=job_profile%3ALegal",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "927be4806840",
+      "title": "Other (757)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=job_profile%3AOther",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "453cf039ede7",
+      "title": "Political (322)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=job_profile%3APolitical",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "00e91e19cb3f",
+      "title": "Secretary/Clerk (186)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=job_profile%3ASecretary/Clerk",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "66b79362300c",
+      "title": "Security (36)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=job_profile%3ASecurity",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "e99a25cf243b",
+      "title": "Afghanistan (30)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AAfghanistan",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "7a25cdeb4097",
+      "title": "Africa (9)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AAfrica",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "731d37cc1b77",
+      "title": "African Union (AU) (6)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AAfrican%20Union%20%28AU%29",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "7dd7135624e3",
+      "title": "Albania (65)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AAlbania",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "77f34fd04ad4",
+      "title": "Algeria (13)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AAlgeria",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "967d0e7fb83a",
+      "title": "Andorra (1)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AAndorra",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "ac5a7c18ba11",
+      "title": "Angola (4)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AAngola",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "79466dd58d78",
+      "title": "Aotearoa New Zealand (10)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AAotearoa%20New%20Zealand",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "4ab993a877df",
+      "title": "Argentina (8)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AArgentina",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "429ca861f0fc",
+      "title": "Armenia (35)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AArmenia",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "12161e337738",
+      "title": "Aruba (1)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AAruba",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "185b165c893a",
+      "title": "Asia (3)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AAsia",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "76d82c6c4065",
+      "title": "Association of Southeast Asian Nations (ASEAN) (10)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AAssociation%20of%20Southeast%20Asian%20Nations%20%28ASEAN%29",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "1377f9ed2776",
+      "title": "Australia (5)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AAustralia",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "de68cde4b1fb",
+      "title": "Azerbaijan (2)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AAzerbaijan",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "a7b32cae28db",
+      "title": "Bahamas (2)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABahamas",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "cae030a4a415",
+      "title": "Bahrain (9)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABahrain",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "053af3a5736f",
+      "title": "Bangladesh (8)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABangladesh",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "4453df207476",
+      "title": "Barbados (11)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABarbados",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "ecca470d49af",
+      "title": "Belarus (4)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABelarus",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "4d0c61d7c923",
+      "title": "Belize (2)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABelize",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "8d2fe20b8c31",
+      "title": "Benin (1)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABenin",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "f46beb7ecb66",
+      "title": "Bolivia (7)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABolivia",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "e599118d2d47",
+      "title": "Bonaire (1)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABonaire",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "def58e6f8c07",
+      "title": "Bosnia and Her (1)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABosnia%20and%20Her",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "99929b9da972",
+      "title": "Bosnia and Herzegovina (38)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABosnia%20and%20Herzegovina",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "a92a6f71223e",
+      "title": "Botswana (5)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABotswana",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "73f3c5bf0a96",
+      "title": "Brazil (22)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABrazil",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "e3e6fef2cfd4",
+      "title": "Brunei Darussalam (4)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABrunei%20Darussalam",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "98f194e21cf5",
+      "title": "Burkina Faso (3)",
+      "org": "EEAS",
+      "org_tags": [
+        "eu",
+        "diplomacy",
+        "governance"
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABurkina%20Faso",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "7fff6b98521f",
+      "title": "Skip to main content",
+      "org": "ILO",
+      "org_tags": [
+        "labour",
+        "un",
+        "social justice"
+      ],
+      "url": "https://jobs.ilo.org/#content",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "5cfef37288cb",
+      "title": "Job Categories",
+      "org": "ILO",
+      "org_tags": [
+        "labour",
+        "un",
+        "social justice"
+      ],
+      "url": "https://jobs.ilo.org/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "67aa084a6a13",
+      "title": "International",
+      "org": "ILO",
+      "org_tags": [
+        "labour",
+        "un",
+        "social justice"
+      ],
+      "url": "https://jobs.ilo.org/go/International/2843001/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "370d7ea55ecf",
+      "title": "Development Cooperation",
+      "org": "ILO",
+      "org_tags": [
+        "labour",
+        "un",
+        "social justice"
+      ],
+      "url": "https://jobs.ilo.org/go/Development-Cooperation/2842701/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "41069dd98181",
+      "title": "Temporary",
+      "org": "ILO",
+      "org_tags": [
+        "labour",
+        "un",
+        "social justice"
+      ],
+      "url": "https://jobs.ilo.org/go/Temporary/2843901/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "62c0bebacc08",
+      "title": "Junior Professional Officers",
+      "org": "ILO",
+      "org_tags": [
+        "labour",
+        "un",
+        "social justice"
+      ],
+      "url": "https://jobs.ilo.org/go/Junior-Professional-Officers/2843301/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "08ab18a64c43",
+      "title": "Internships",
+      "org": "ILO",
+      "org_tags": [
+        "labour",
+        "un",
+        "social justice"
+      ],
+      "url": "https://jobs.ilo.org/go/Internships/9589701/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "6eb0513f7c2a",
+      "title": "All Jobs",
+      "org": "ILO",
+      "org_tags": [
+        "labour",
+        "un",
+        "social justice"
+      ],
+      "url": "https://jobs.ilo.org/go/All-Jobs/2842101/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "151d55a1f4c7",
+      "title": "Working at the ILO",
+      "org": "ILO",
+      "org_tags": [
+        "labour",
+        "un",
+        "social justice"
+      ],
+      "url": "https://jobs.ilo.org/content/Working-at-the-ILO/?locale=en_GB",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "e033d2839cec",
+      "title": "English (United Kingdom)",
+      "org": "ILO",
+      "org_tags": [
+        "labour",
+        "un",
+        "social justice"
+      ],
+      "url": "https://jobs.ilo.org/?locale=en_GB",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "5b64795a755f",
+      "title": "Español (España)",
+      "org": "ILO",
+      "org_tags": [
+        "labour",
+        "un",
+        "social justice"
+      ],
+      "url": "https://jobs.ilo.org/?locale=es_ES",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "287eb2e65a22",
+      "title": "Français (France)",
+      "org": "ILO",
+      "org_tags": [
+        "labour",
+        "un",
+        "social justice"
+      ],
+      "url": "https://jobs.ilo.org/?locale=fr_FR",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "6ef9cb06db9d",
+      "title": "Apply Now",
+      "org": "ILO",
+      "org_tags": [
+        "labour",
+        "un",
+        "social justice"
+      ],
+      "url": "https://jobs.ilo.org/content/Internships-for-persons-with-disabilities/?locale=en_GB",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "b1127d595ee6",
+      "title": "Follow this link to reach our Job Search page to search for available jobs in a more accessible format.",
+      "org": "ILO",
+      "org_tags": [
+        "labour",
+        "un",
+        "social justice"
+      ],
+      "url": "https://jobs.ilo.org/search/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "ff7efcca6475",
+      "title": "Privacy Policy",
+      "org": "ILO",
+      "org_tags": [
+        "labour",
+        "un",
+        "social justice"
+      ],
+      "url": "http://www.ilo.org/global/privacy-policy/lang--en/index.htm",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "850e144a68ed",
+      "title": "In Twitter by EUACTProject",
+      "org": "EU ACT",
+      "org_tags": [
+        "eu",
+        "rule of law"
+      ],
+      "url": "https://twitter.com/EUACTProject",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "c0f5d9eb4b7d",
+      "title": "Settings",
+      "org": "OSCE",
+      "org_tags": [
+        "security",
+        "democracy",
+        "governance",
+        "international"
+      ],
+      "url": "https://jobs.osce.org/vacancies",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "56bdf11766ac",
+      "title": "How to apply",
+      "org": "OSCE",
+      "org_tags": [
+        "security",
+        "democracy",
+        "governance",
+        "international"
+      ],
+      "url": "https://jobs.osce.org/how-to-apply",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "948f4d698429",
+      "title": "Working for the OSCE",
+      "org": "OSCE",
+      "org_tags": [
+        "security",
+        "democracy",
+        "governance",
+        "international"
+      ],
+      "url": "https://jobs.osce.org/working-for-osce",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "8fa0f81a3ea7",
+      "title": "Webinars",
+      "org": "OSCE",
+      "org_tags": [
+        "security",
+        "democracy",
+        "governance",
+        "international"
+      ],
+      "url": "https://jobs.osce.org/webinars",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "a607ae9e373f",
+      "title": "‹ Go back",
+      "org": "OSCE",
+      "org_tags": [
+        "security",
+        "democracy",
+        "governance",
+        "international"
+      ],
+      "url": "https://jobs.osce.org/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "4a367f582bb7",
+      "title": "Local Consultant for CSO Capacity Building_(SSA)",
+      "org": "OSCE",
+      "org_tags": [
+        "security",
+        "democracy",
+        "governance",
+        "international"
+      ],
+      "url": "https://vacancies.osce.org/jobs/local-consultant-for-cso-capacity-building_-ssa-4684",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "14b3232faa50",
+      "title": "Consultant, Anti‑Corruption Communications / Експерт з антикорупційних комунікацій",
+      "org": "OSCE",
+      "org_tags": [
+        "security",
+        "democracy",
+        "governance",
+        "international"
+      ],
+      "url": "https://vacancies.osce.org/jobs/consultant-anti%E2%80%91corruption-communications-%D0%B5%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82-%D0%B7-%D0%B0%D0%BD%D1%82%D0%B8%D0%BA%D0%BE%D1%80%D1%83%D0%BF%D1%86%D1%96%D0%B9%D0%BD%D0%B8%D1%85-%D0%BA%D0%BE%D0%BC%D1%83%D0%BD%D1%96%D0%BA%D0%B0%D1%86%D1%96%D0%B9-4675",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "f743bd42b2aa",
+      "title": "National Expert for mapping key digital tools for citizen participation in local governance",
+      "org": "OSCE",
+      "org_tags": [
+        "security",
+        "democracy",
+        "governance",
+        "international"
+      ],
+      "url": "https://vacancies.osce.org/jobs/national-expert-for-mapping-key-digital-tools-for-citizen-participation-in-local-governance-4668",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "13d2b4e5afb1",
+      "title": "National Consultant on Mountain Regions Development (SSA)",
+      "org": "OSCE",
+      "org_tags": [
+        "security",
+        "democracy",
+        "governance",
+        "international"
+      ],
+      "url": "https://vacancies.osce.org/jobs/national-consultant-on-mountain-regions-development-ssa-4682",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "81d2b0d9b43a",
+      "title": "National consultant to support green economy and sustainable development in Kyrgyzstan (SSA) (Roster Call)",
+      "org": "OSCE",
+      "org_tags": [
+        "security",
+        "democracy",
+        "governance",
+        "international"
+      ],
+      "url": "https://vacancies.osce.org/jobs/national-consultant-to-support-green-economy-and-sustainable-development-in-kyrgyzstan-ssa-roster-call-4677",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "4c50ff2623b1",
+      "title": "National Coordinator (SSA)",
+      "org": "OSCE",
+      "org_tags": [
+        "security",
+        "democracy",
+        "governance",
+        "international"
+      ],
+      "url": "https://vacancies.osce.org/jobs/national-coordinator-ssa-4666",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "6fbc8f74c84c",
+      "title": "Counter-Terrorism Officer (S)",
+      "org": "OSCE",
+      "org_tags": [
+        "security",
+        "democracy",
+        "governance",
+        "international"
+      ],
+      "url": "https://vacancies.osce.org/jobs/counter-terrorism-officer-s-4671",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "0732229b66b4",
+      "title": "Operational Support Officer (S)",
+      "org": "OSCE",
+      "org_tags": [
+        "security",
+        "democracy",
+        "governance",
+        "international"
+      ],
+      "url": "https://vacancies.osce.org/jobs/operational-support-officer-s-4672",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "93a533faa6c8",
+      "title": "Deputy Head, Human Dimension Department (S4)",
+      "org": "OSCE",
+      "org_tags": [
+        "security",
+        "democracy",
+        "governance",
+        "international"
+      ],
+      "url": "https://vacancies.osce.org/jobs/deputy-head-human-dimension-department-s4-4670",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "a5613a2289e1",
+      "title": "International Intern, Rule of Law",
+      "org": "OSCE",
+      "org_tags": [
+        "security",
+        "democracy",
+        "governance",
+        "international"
+      ],
+      "url": "https://vacancies.osce.org/jobs/international-intern-rule-of-law-4680",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "32b089ee9012",
+      "title": "National Intern, Rule of Law",
+      "org": "OSCE",
+      "org_tags": [
+        "security",
+        "democracy",
+        "governance",
+        "international"
+      ],
+      "url": "https://vacancies.osce.org/jobs/national-intern-rule-of-law-4679",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "fcc74ae9f175",
+      "title": "National Consultant for Development of Financial Independence and Budgetary Autonomy Framework (SSA)",
+      "org": "OSCE",
+      "org_tags": [
+        "security",
+        "democracy",
+        "governance",
+        "international"
+      ],
+      "url": "https://vacancies.osce.org/jobs/national-consultant-for-development-of-financial-independence-and-budgetary-autonomy-framework-ssa-4669",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "f658ed601826",
+      "title": "View all New Jobs",
+      "org": "OSCE",
+      "org_tags": [
+        "security",
+        "democracy",
+        "governance",
+        "international"
+      ],
+      "url": "https://vacancies.osce.org/latest-jobs",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "cd7c69f50231",
+      "title": "🔍KOS - OSCE Mission in Kosovo, Prishtine / Pristina",
+      "org": "OSCE",
+      "org_tags": [
+        "security",
+        "democracy",
+        "governance",
+        "international"
+      ],
+      "url": "https://vacancies.osce.org/jobs/4684/other-jobs-matching/location-only",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "8f7cf3c80598",
+      "title": "Human Resources Associate (G6)",
+      "org": "OSCE",
+      "org_tags": [
+        "security",
+        "democracy",
+        "governance",
+        "international"
+      ],
+      "url": "https://vacancies.osce.org/jobs/human-resources-associate-g6-4678",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "8da3e8db5a39",
+      "title": "🔍MOL - OSCE Mission to Moldova, Chisinau",
+      "org": "OSCE",
+      "org_tags": [
+        "security",
+        "democracy",
+        "governance",
+        "international"
+      ],
+      "url": "https://vacancies.osce.org/jobs/4678/other-jobs-matching/location-only",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "7efd1d654245",
+      "title": "Local Expert on Policy Evaluation and Development (Holocaust Remembrance and a Culture of Tolerance)",
+      "org": "OSCE",
+      "org_tags": [
+        "security",
+        "democracy",
+        "governance",
+        "international"
+      ],
+      "url": "https://vacancies.osce.org/jobs/local-expert-on-policy-evaluation-and-development-holocaust-remembrance-and-a-culture-of-tolerance-4665",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "8ec3786670d8",
+      "title": "🔍MOL - OSCE Mission to Moldova, Chisinau",
+      "org": "OSCE",
+      "org_tags": [
+        "security",
+        "democracy",
+        "governance",
+        "international"
+      ],
+      "url": "https://vacancies.osce.org/jobs/4665/other-jobs-matching/location-only",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "17f28374ddd9",
+      "title": "Associate Programme Officer, Roma and Sinti Issues (S)",
+      "org": "OSCE",
+      "org_tags": [
+        "security",
+        "democracy",
+        "governance",
+        "international"
+      ],
+      "url": "https://vacancies.osce.org/jobs/associate-programme-officer-roma-and-sinti-issues-s-4643",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "b3a9ef5e718b",
+      "title": "🔍ODI - Office for Democratic Institutions and Human Rights (ODIHR), Warsaw",
+      "org": "OSCE",
+      "org_tags": [
+        "security",
+        "democracy",
+        "governance",
+        "international"
+      ],
+      "url": "https://vacancies.osce.org/jobs/4643/other-jobs-matching/location-only",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "068e2ac743cb",
+      "title": "Go to Profile",
+      "org": "OSCE",
+      "org_tags": [
+        "security",
+        "democracy",
+        "governance",
+        "international"
+      ],
+      "url": "https://talent.osce.org/careersection/profile.ftl?lang=en",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "2a3c61bf1d25",
+      "title": "My Submissions",
+      "org": "OSCE",
+      "org_tags": [
+        "security",
+        "democracy",
+        "governance",
+        "international"
+      ],
+      "url": "https://talent.osce.org/careersection/mysubmissions.ftl?lang=en",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "bce7b75b7a00",
+      "title": "Recruiter Campaign",
+      "org": "OSCE",
+      "org_tags": [
+        "security",
+        "democracy",
+        "governance",
+        "international"
+      ],
+      "url": "https://jobs.osce.org/upgrade/campaigns/create",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "ad4941d7832a",
+      "title": "Sponsoring & Engagement",
+      "org": "ICC Germany",
+      "org_tags": [
+        "trade",
+        "international",
+        "germany"
+      ],
+      "url": "https://www.iccgermany.de/mitglieder/vorteile-fuer-mitglieder/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "cbabba1cf15a",
+      "title": "ICC Commission on Trade and Investment Policy",
+      "org": "ICC Germany",
+      "org_tags": [
+        "trade",
+        "international",
+        "germany"
+      ],
+      "url": "https://iccwbo.org/policy-commission/",
+      "location": "global",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "03f708845873",
+      "title": "Klimafinanzierung",
+      "org": "ICC Germany",
+      "org_tags": [
+        "trade",
+        "international",
+        "germany"
+      ],
+      "url": "https://iccwbo.org/news-publications/policies-reports/targeted-regulatory-reforms-offer-opportunity-to-boost-climate-finance-flows/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "f95a2d59fd94",
+      "title": "Ich bin an einer Kommissionsmitgliedschaft interessiert",
+      "org": "ICC Germany",
+      "org_tags": [
+        "trade",
+        "international",
+        "germany"
+      ],
+      "url": "https://www.iccgermany.de/jobs/#become-member",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "6f98b162a024",
+      "title": "Anmelden",
+      "org": "ICC Germany",
+      "org_tags": [
+        "trade",
+        "international",
+        "germany"
+      ],
+      "url": "https://www.iccgermany.de/jobs/#newsletter-popup",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "bca1ed148b4c",
+      "title": "Establishment of a pool of experts – SCOPE project",
+      "org": "EUISS",
+      "org_tags": [
+        "security",
+        "eu",
+        "research"
+      ],
+      "url": "https://www.iss.europa.eu/about-us/opportunities/establishment-pool-experts-scope-project",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "b77e6762c211",
+      "title": "EU Global Threats Programme",
+      "org": "EUISS",
+      "org_tags": [
+        "security",
+        "eu",
+        "research"
+      ],
+      "url": "https://global-threats.europa.eu/index_en",
+      "location": "Global",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "80602ff9fedf",
+      "title": "Project Manager",
+      "org": "EUISS",
+      "org_tags": [
+        "security",
+        "eu",
+        "research"
+      ],
+      "url": "https://www.iss.europa.eu/about-us/opportunities/project-manager",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "1b4429da7be0",
+      "title": "Policy Analyst – Transatlantic Relations / EU-NATO Relations",
+      "org": "EUISS",
+      "org_tags": [
+        "security",
+        "eu",
+        "research"
+      ],
+      "url": "https://www.iss.europa.eu/about-us/opportunities/policy-analyst-transatlantic-relations-eu-nato-relations",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "2426600ca413",
+      "title": "Policy Analyst – Economic Security and Technology",
+      "org": "EUISS",
+      "org_tags": [
+        "security",
+        "eu",
+        "research"
+      ],
+      "url": "https://www.iss.europa.eu/about-us/opportunities/policy-analyst-economic-security-and-technology",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "8b1dbc0b4a09",
+      "title": "EUISS traineeships 2025-2026 (re-opening of selected profiles)",
+      "org": "EUISS",
+      "org_tags": [
+        "security",
+        "eu",
+        "research"
+      ],
+      "url": "https://www.iss.europa.eu/about-us/opportunities/euiss-traineeships-2025-2026-re-opening-selected-profiles",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "0ef73c72ba39",
+      "title": "Administration and Events Coordinator",
+      "org": "EUISS",
+      "org_tags": [
+        "security",
+        "eu",
+        "research"
+      ],
+      "url": "https://www.iss.europa.eu/about-us/opportunities/administration-and-events-coordinator",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "849e9bd91210",
+      "title": "Head of people and organisation",
+      "org": "EUISS",
+      "org_tags": [
+        "security",
+        "eu",
+        "research"
+      ],
+      "url": "https://www.iss.europa.eu/about-us/opportunities/head-people-and-organisation",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "2e624fd5fcee",
+      "title": "Finance Assistant - EU projects (deadline: 3 July 2025)",
+      "org": "EUISS",
+      "org_tags": [
+        "security",
+        "eu",
+        "research"
+      ],
+      "url": "https://www.iss.europa.eu/about-us/opportunities/finance-assistant-eu-projects-deadline-3-july-2025",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "90a683dc4eb0",
+      "title": "Policy analyst – Western Balkans and Eastern neighbourhood",
+      "org": "EUISS",
+      "org_tags": [
+        "security",
+        "eu",
+        "research"
+      ],
+      "url": "https://www.iss.europa.eu/about-us/opportunities/policy-analyst-western-balkans-and-eastern-neighbourhood",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "fb0d322fc323",
+      "title": "Project Officer - Cyber Diplomacy",
+      "org": "EUISS",
+      "org_tags": [
+        "security",
+        "eu",
+        "research"
+      ],
+      "url": "https://www.iss.europa.eu/about-us/opportunities/project-officer-cyber-diplomacy",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "1284fb45c4d9",
+      "title": "Senior Policy Analyst for Common Security and Defence Policy (CSDP)",
+      "org": "EUISS",
+      "org_tags": [
+        "security",
+        "eu",
+        "research"
+      ],
+      "url": "https://www.iss.europa.eu/about-us/opportunities/senior-policy-analyst-common-security-and-defence-policy-csdp",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "c1586a999198",
+      "title": "Direkt zum Inhalt",
+      "org": "Heinrich Böll Stiftung",
+      "org_tags": [
+        "foundation",
+        "democracy",
+        "digital",
+        "germany"
+      ],
+      "url": "https://www.boell.de/de/jobs-der-heinrich-boell-stiftung#main-content",
+      "location": "Berlin",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "4a03723215de",
+      "title": "weiter lesen",
+      "org": "Heinrich Böll Stiftung",
+      "org_tags": [
+        "foundation",
+        "democracy",
+        "digital",
+        "germany"
+      ],
+      "url": "https://www.boell.de/de/jobs-der-heinrich-boell-stiftung",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "c1364c42f2d7",
+      "title": "nach oben",
+      "org": "Heinrich Böll Stiftung",
+      "org_tags": [
+        "foundation",
+        "democracy",
+        "digital",
+        "germany"
+      ],
+      "url": "https://www.boell.de/de/jobs-der-heinrich-boell-stiftung#top-of-page",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "171d2dee55de",
+      "title": "Zum Jobportal",
+      "org": "Friedrich Ebert Stiftung",
+      "org_tags": [
+        "foundation",
+        "democracy",
+        "participation",
+        "germany"
+      ],
+      "url": "https://jobs.fes.de/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "f2341ab75904",
+      "title": "Benefits",
+      "org": "BMW Herbert Quandt Foundation",
+      "org_tags": [
+        "foundation",
+        "sdgs",
+        "leadership"
+      ],
+      "url": "https://bmw-foundation.org/en/careers/#benefits",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "0929e4755102",
+      "title": "Open Positions",
+      "org": "BMW Herbert Quandt Foundation",
+      "org_tags": [
+        "foundation",
+        "sdgs",
+        "leadership"
+      ],
+      "url": "https://bmw-foundation.org/en/careers/#open-positions",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "b27a9a6a6fc3",
+      "title": "recruiting@bmw-foundation.org",
+      "org": "BMW Herbert Quandt Foundation",
+      "org_tags": [
+        "foundation",
+        "sdgs",
+        "leadership"
+      ],
+      "url": "mailto:recruiting@bmw-foundation.org",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "315c78bcae4e",
+      "title": "Data Privacy Policy",
+      "org": "BMW Herbert Quandt Foundation",
+      "org_tags": [
+        "foundation",
+        "sdgs",
+        "leadership"
+      ],
+      "url": "https://bmw-foundation.org/privacy-and-legal",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "57fd6f46c0cb",
+      "title": "LinkedIn",
+      "org": "Berghof Stiftung",
+      "org_tags": [
+        "peace",
+        "conflict",
+        "transformation"
+      ],
+      "url": "javascript:ftLiShare('https%3A%2F%2Fberghof-foundation.org%2Fabout%2Fopportunities%2Fjobs')",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "d55d970eb73a",
+      "title": "Facebook",
+      "org": "Berghof Stiftung",
+      "org_tags": [
+        "peace",
+        "conflict",
+        "transformation"
+      ],
+      "url": "javascript:ftFbShare('https%3A%2F%2Fberghof-foundation.org%2Fabout%2Fopportunities%2Fjobs')",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "9e9c607b7546",
+      "title": "Hide Details",
+      "org": "Berghof Stiftung",
+      "org_tags": [
+        "peace",
+        "conflict",
+        "transformation"
+      ],
+      "url": "https://berghof-foundation.org/about/opportunities/jobs",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "0b0d31114335",
+      "title": "privacy policy",
+      "org": "Berghof Stiftung",
+      "org_tags": [
+        "peace",
+        "conflict",
+        "transformation"
+      ],
+      "url": "https://berghof-foundation.org/privacy-cookies",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "6a44ff8fcfc2",
+      "title": "Veranstaltungsmanager:in (d/m/w)",
+      "org": "SWP",
+      "org_tags": [
+        "think tank",
+        "security",
+        "foreign policy",
+        "berlin"
+      ],
+      "url": "https://www.swp-berlin.org/karriere/stellenangebot/veranstaltungsmanagerin",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "564d71b7bad1",
+      "title": "Facebook Facebook",
+      "org": "Bertelsmann Stiftung",
+      "org_tags": [
+        "foundation",
+        "democracy",
+        "participation",
+        "education"
+      ],
+      "url": "https://www.facebook.com/sharer.php?u=https://www.bertelsmann-stiftung.de/en/careers",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "bce729b23d8f",
+      "title": "x.com x.com",
+      "org": "Bertelsmann Stiftung",
+      "org_tags": [
+        "foundation",
+        "democracy",
+        "participation",
+        "education"
+      ],
+      "url": "https://twitter.com/share?url=https://www.bertelsmann-stiftung.de/en/careers&text=Careers&via=BertelsmannSt",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "1e61140cd93c",
+      "title": "LinkedIn LinkedIn",
+      "org": "Bertelsmann Stiftung",
+      "org_tags": [
+        "foundation",
+        "democracy",
+        "participation",
+        "education"
+      ],
+      "url": "https://www.linkedin.com/shareArticle?url=https://www.bertelsmann-stiftung.de/en/careers&title=Careers",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "78f6c200ba1e",
+      "title": "Reddit Reddit",
+      "org": "Bertelsmann Stiftung",
+      "org_tags": [
+        "foundation",
+        "democracy",
+        "participation",
+        "education"
+      ],
+      "url": "https://reddit.com/submit?url=https://www.bertelsmann-stiftung.de/en/careers&title=Careers",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "d441342c9e60",
+      "title": "Pinterest Pinterest",
+      "org": "Bertelsmann Stiftung",
+      "org_tags": [
+        "foundation",
+        "democracy",
+        "participation",
+        "education"
+      ],
+      "url": "https://pinterest.com/pin/create/bookmarklet/?media=[post-img]&url=https://www.bertelsmann-stiftung.de/en/careers&is_video=[is_video]&description=Careers",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "836822d1b0c0",
+      "title": "WhatsApp WhatsApp",
+      "org": "Bertelsmann Stiftung",
+      "org_tags": [
+        "foundation",
+        "democracy",
+        "participation",
+        "education"
+      ],
+      "url": "https://api.whatsapp.com/send?text=Careers%20https://www.bertelsmann-stiftung.de/en/careers",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "253a455b652b",
+      "title": "Xing Xing",
+      "org": "Bertelsmann Stiftung",
+      "org_tags": [
+        "foundation",
+        "democracy",
+        "participation",
+        "education"
+      ],
+      "url": "https://www.xing.com/spi/shares/new?url=https://www.bertelsmann-stiftung.de/en/careers",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "49d9a736d615",
+      "title": "E-Mail E-Mail",
+      "org": "Bertelsmann Stiftung",
+      "org_tags": [
+        "foundation",
+        "democracy",
+        "participation",
+        "education"
+      ],
+      "url": "mailto:?subject=Ich%20m%C3%B6chte%20eine%20Seite%20der%20Bertelsmann-Stiftung%20mit%20Ihnen%20teilen%21&body=https://www.bertelsmann-stiftung.de/en/careers",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "f23240e94ed4",
+      "title": "Job List",
+      "org": "Bertelsmann Stiftung",
+      "org_tags": [
+        "foundation",
+        "democracy",
+        "participation",
+        "education"
+      ],
+      "url": "https://jobsearch.createyourowncareer.com/BertelsmannStiftung/go/BertelsmannStiftung_offene_Stellen/3933301/?locale=de_DE",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "384994ebe1ed",
+      "title": "unsolicited applications",
+      "org": "Bertelsmann Stiftung",
+      "org_tags": [
+        "foundation",
+        "democracy",
+        "participation",
+        "education"
+      ],
+      "url": "https://jobsearch.createyourowncareer.com/BertelsmannStiftung/job/G%C3%BCtersloh-Initiativbewerbung-Professionals-%28mwd%29-f%C3%BCr-die-Bertelsmann-Stiftung-NW-33335/533600201/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "6573280d583b",
+      "title": "Anette Stein",
+      "org": "Bertelsmann Stiftung",
+      "org_tags": [
+        "foundation",
+        "democracy",
+        "participation",
+        "education"
+      ],
+      "url": "https://www.bertelsmann-stiftung.de/en/careers/this-is-where-id-like-to-work",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "f3e8e7b8976d",
+      "title": "Junior Professionals Program",
+      "org": "Bertelsmann Stiftung",
+      "org_tags": [
+        "foundation",
+        "democracy",
+        "participation",
+        "education"
+      ],
+      "url": "https://www.bertelsmann-stiftung.de/en/careers/junior-professionals",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "ad0ad1e2cfae",
+      "title": "bewerbung@bertelsmann-stiftung.de",
+      "org": "Bertelsmann Stiftung",
+      "org_tags": [
+        "foundation",
+        "democracy",
+        "participation",
+        "education"
+      ],
+      "url": "https://www.bertelsmann-stiftung.de/en/careers",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "4220a739c4aa",
+      "title": "Jobs List",
+      "org": "Bertelsmann Stiftung",
+      "org_tags": [
+        "foundation",
+        "democracy",
+        "participation",
+        "education"
+      ],
+      "url": "https://jobsearch.createyourowncareer.com/BertelsmannStiftung/?locale=en_GB",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "c20b05541f00",
+      "title": "Load content",
+      "org": "Stiftung Mercator",
+      "org_tags": [
+        "foundation",
+        "education",
+        "europe",
+        "culture"
+      ],
+      "url": "https://www.stiftung-mercator.de/en/jobs/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "ef24cdaecafb",
+      "title": "Learn more",
+      "org": "HCSS",
+      "org_tags": [
+        "strategy",
+        "security",
+        "the hague"
+      ],
+      "url": "https://hcss.nl/job/hcss-cyberschool-internship/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "7de6f2dcf305",
+      "title": "Learn more",
+      "org": "HCSS",
+      "org_tags": [
+        "strategy",
+        "security",
+        "the hague"
+      ],
+      "url": "https://hcss.nl/job/hcss-datalab-internship-start-may-2025-open-until-april/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "fc125a87ffba",
+      "title": "Learn more",
+      "org": "HCSS",
+      "org_tags": [
+        "strategy",
+        "security",
+        "the hague"
+      ],
+      "url": "https://hcss.nl/job/vacature-strategisch-analist-senior-2026/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "cd5d48ad9f23",
+      "title": "Scroll to top Scroll to top Scroll to top",
+      "org": "HCSS",
+      "org_tags": [
+        "strategy",
+        "security",
+        "the hague"
+      ],
+      "url": "https://hcss.nl/jobs#top",
+      "location": "The Hague",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "57fc5324cb03",
+      "title": "Privacy policy",
+      "org": "HCSS",
+      "org_tags": [
+        "strategy",
+        "security",
+        "the hague"
+      ],
+      "url": "https://hcss.nl/disclaimer-privacy/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "9db8c822d989",
+      "title": "View details",
+      "org": "HCSS",
+      "org_tags": [
+        "strategy",
+        "security",
+        "the hague"
+      ],
+      "url": "https://hcss.nl/jobs",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "04ef81391eb9",
+      "title": "Privacy Policy",
+      "org": "IPI",
+      "org_tags": [
+        "peace",
+        "security",
+        "un",
+        "new york"
+      ],
+      "url": "https://www.ipinst.org/privacy-policy/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "5749b85dbf22",
+      "title": "Skip to content",
+      "org": "Freedom Fund",
+      "org_tags": [
+        "human rights",
+        "anti-slavery",
+        "international"
+      ],
+      "url": "https://freedomfund.org/about/careers/#main",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "22b854f4df7b",
+      "title": "Privacy policy",
+      "org": "Greenpeace International",
+      "org_tags": [
+        "environment",
+        "advocacy",
+        "international"
+      ],
+      "url": "https://www.greenpeace.org/international/privacy/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "1935a685e705",
+      "title": "Jobs & Karriere",
+      "org": "Kindernothilfe",
+      "org_tags": [
+        "development",
+        "children",
+        "germany"
+      ],
+      "url": "https://www.kindernothilfe.de/jobs-und-karriere",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "42314a2e1d03",
+      "title": "Stellenmarkt",
+      "org": "Kindernothilfe",
+      "org_tags": [
+        "development",
+        "children",
+        "germany"
+      ],
+      "url": "https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "2db5a4b7ed9b",
+      "title": "Skip to main content",
+      "org": "Mercy Corps",
+      "org_tags": [
+        "humanitarian",
+        "development",
+        "international"
+      ],
+      "url": "https://www.mercycorps.org/careers#main",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "75c05e53fab7",
+      "title": "International and administrative offices",
+      "org": "Mercy Corps",
+      "org_tags": [
+        "humanitarian",
+        "development",
+        "international"
+      ],
+      "url": "https://jobs.jobvite.com/mercycorps/jobs?t=Part-Time-%7C-Full-Time-%7C-Temp-%7C-Pipeline&r=Field-%7C-Administrative%20Offices",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "909a5792032c",
+      "title": "Country-specific Job Boards",
+      "org": "Mercy Corps",
+      "org_tags": [
+        "humanitarian",
+        "development",
+        "international"
+      ],
+      "url": "https://www.mercycorps.org/careers/national",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "dc476eff816c",
+      "title": "Consultancies",
+      "org": "Mercy Corps",
+      "org_tags": [
+        "humanitarian",
+        "development",
+        "international"
+      ],
+      "url": "http://jobs.jobvite.com/mercycorps?t=Consultant",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "af52825aea6a",
+      "title": "Talent Database",
+      "org": "Mercy Corps",
+      "org_tags": [
+        "humanitarian",
+        "development",
+        "international"
+      ],
+      "url": "https://www.mercycorps.org/careers/talent-database",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "0960a017f32f",
+      "title": "careers@mercycorps.org",
+      "org": "Mercy Corps",
+      "org_tags": [
+        "humanitarian",
+        "development",
+        "international"
+      ],
+      "url": "mailto:careers@mercycorps.org",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "2f813d7e5021",
+      "title": "Learn more",
+      "org": "Mercy Corps",
+      "org_tags": [
+        "humanitarian",
+        "development",
+        "international"
+      ],
+      "url": "https://www.mercycorps.org/careers/benefits",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "3fa4100155ef",
+      "title": "Shorouq Aburazzouq Program Manager - Climate Resilience and Policy Advocacy",
+      "org": "Mercy Corps",
+      "org_tags": [
+        "humanitarian",
+        "development",
+        "international"
+      ],
+      "url": "https://www.mercycorps.org/who-we-are/our-team/shorouq-aburazzouq",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "0da241238655",
+      "title": "Glory Sunarto Program Manager",
+      "org": "Mercy Corps",
+      "org_tags": [
+        "humanitarian",
+        "development",
+        "international"
+      ],
+      "url": "https://www.mercycorps.org/who-we-are/our-team/glory-sunarto",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "702befdcd9d4",
+      "title": "Ndubisi Anyanwu Nigeria Country Director",
+      "org": "Mercy Corps",
+      "org_tags": [
+        "humanitarian",
+        "development",
+        "international"
+      ],
+      "url": "https://www.mercycorps.org/who-we-are/our-team/ndubisi-anyanwu",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "f1ae1e03ffa0",
+      "title": "Skip to main content",
+      "org": "Transparency International",
+      "org_tags": [
+        "anti-corruption",
+        "governance",
+        "civil society"
+      ],
+      "url": "https://www.transparency.org/en/career-tender-opportunities#content",
+      "location": "Global",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "939b2429e666",
+      "title": "Research Coordinator - Global Corruption Barometer - Pacific (m/f/d)",
+      "org": "Transparency International",
+      "org_tags": [
+        "anti-corruption",
+        "governance",
+        "civil society"
+      ],
+      "url": "https://transparency.softgarden.io/job/64373688?l=en",
+      "location": "Global",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "190990040d7c",
+      "title": "Technical support for Integrity Watch Platforms (SAFE Democracy Project) (m/f/d)",
+      "org": "Transparency International",
+      "org_tags": [
+        "anti-corruption",
+        "governance",
+        "civil society"
+      ],
+      "url": "https://images.transparencycdn.org/images/Technical-Support-for-Integrity-Watch-Platforms-SAFE-Democracy-Project.pdf",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "e4d49c9984af",
+      "title": "Rechtsreferendariat (m/f/d)",
+      "org": "Transparency International",
+      "org_tags": [
+        "anti-corruption",
+        "governance",
+        "civil society"
+      ],
+      "url": "https://transparency.softgarden.io/job/13075477?l=en",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "1811e4350779",
+      "title": "Download 'Gender and diversity policy' [PDF]",
+      "org": "Transparency International",
+      "org_tags": [
+        "anti-corruption",
+        "governance",
+        "civil society"
+      ],
+      "url": "https://files.transparencycdn.org/images/Gender-and-diversity-policy.pdf",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "63d807d85101",
+      "title": "Download 'Relocation Allowance policy' [PDF]",
+      "org": "Transparency International",
+      "org_tags": [
+        "anti-corruption",
+        "governance",
+        "civil society"
+      ],
+      "url": "https://files.transparencycdn.org/images/Relocation-Allowance-policy.pdf",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "ab3e5fc815d3",
+      "title": "Privacy Policy",
+      "org": "Transparency International",
+      "org_tags": [
+        "anti-corruption",
+        "governance",
+        "civil society"
+      ],
+      "url": "https://www.transparency.org/en/privacy",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "61a6dcdffa87",
+      "title": "Zum Inhalt springen",
+      "org": "CityLAB Berlin",
+      "org_tags": [
+        "civic tech",
+        "urban",
+        "berlin",
+        "participation"
+      ],
+      "url": "https://citylab-berlin.org/jobs/#content",
+      "location": "Berlin",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "1a05b1646161",
+      "title": "Stellenangebote",
+      "org": "CityLAB Berlin",
+      "org_tags": [
+        "civic tech",
+        "urban",
+        "berlin",
+        "participation"
+      ],
+      "url": "https://citylab-berlin.org/de/jobs/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "09d05e3cbe28",
+      "title": "Privacy Policy",
+      "org": "GoVocal",
+      "org_tags": [
+        "civic tech",
+        "participation platform",
+        "belgium"
+      ],
+      "url": "https://govocal.com/careers",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "63d1963d720d",
+      "title": "Open Call for Tech Journalists and Storytellers",
+      "org": "Open Knowledge Foundation",
+      "org_tags": [
+        "open data",
+        "transparency",
+        "international"
+      ],
+      "url": "https://okfn.org/en/jobs/tech-journalists-storytellers/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "ed1463fb3450",
+      "title": "Skip to main content",
+      "org": "International IDEA",
+      "org_tags": [
+        "democracy",
+        "elections",
+        "international"
+      ],
+      "url": "https://www.idea.int/careers#main",
+      "location": "global",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "d4751f9c73ff",
+      "title": "Careers Portal",
+      "org": "International IDEA",
+      "org_tags": [
+        "democracy",
+        "elections",
+        "international"
+      ],
+      "url": "https://careers.idea.int/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "6a38a139e27c",
+      "title": "Gender Equality and Inclusion Policy",
+      "org": "International IDEA",
+      "org_tags": [
+        "democracy",
+        "elections",
+        "international"
+      ],
+      "url": "https://www.idea.int/sites/default/files/2026-04/2026-International-IDEA-APPROVED-Gender-Equality-and-Inclusion-Policy.pdf",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "a69d8bb8954d",
+      "title": "Cookies Policy",
+      "org": "International IDEA",
+      "org_tags": [
+        "democracy",
+        "elections",
+        "international"
+      ],
+      "url": "https://www.idea.int/cookies",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "27d2288bde10",
+      "title": "Privacy Policy",
+      "org": "International IDEA",
+      "org_tags": [
+        "democracy",
+        "elections",
+        "international"
+      ],
+      "url": "https://www.idea.int/privacy-policy",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "59decb9d6067",
+      "title": "Skip to Main Content",
+      "org": "NDI",
+      "org_tags": [
+        "democracy",
+        "digital",
+        "international"
+      ],
+      "url": "https://www.ndi.org/careers#main",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "f4d2e523921c",
+      "title": "Current Openings",
+      "org": "NDI",
+      "org_tags": [
+        "democracy",
+        "digital",
+        "international"
+      ],
+      "url": "https://ats.rippling.com/ndi_careers/jobs",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "70b3b5f2e667",
+      "title": "Headquarters Leadership",
+      "org": "NDI",
+      "org_tags": [
+        "democracy",
+        "digital",
+        "international"
+      ],
+      "url": "https://www.ndi.org/staff",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "6abd717ebf09",
+      "title": "Benefits",
+      "org": "NDI",
+      "org_tags": [
+        "democracy",
+        "digital",
+        "international"
+      ],
+      "url": "https://www.ndi.org/careers#benefits",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "6ec98c87f145",
+      "title": "Consultant Registry",
+      "org": "NDI",
+      "org_tags": [
+        "democracy",
+        "digital",
+        "international"
+      ],
+      "url": "https://ats.rippling.com/ndi-consultant-talent-community/jobs",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "51e674955b84",
+      "title": "Current Openings",
+      "org": "NDI",
+      "org_tags": [
+        "democracy",
+        "digital",
+        "international"
+      ],
+      "url": "https://recruiting.ultipro.com/NAT1051NDEM/JobBoard/79dbb2b6-6a4f-4628-a401-e37889b022fc",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "6b5f729a95b2",
+      "title": "Consultant Registry",
+      "org": "NDI",
+      "org_tags": [
+        "democracy",
+        "digital",
+        "international"
+      ],
+      "url": "https://recruiting.ultipro.com/NAT1051NDEM/JobBoard/79dbb2b6-6a4f-4628-a401-e37889b022fc/OpportunityDetail?opportunityId=ec1a1a1a-2442-4680-89c1-24f46ab51d5e",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "70e7abf72a88",
+      "title": "Auf Deutsch lesen",
+      "org": "AlgorithmWatch",
+      "org_tags": [
+        "digital rights",
+        "algorithms",
+        "berlin"
+      ],
+      "url": "https://algorithmwatch.org/de/jobs/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "68b87b9d3393",
+      "title": "Deputy Team Lead for our Engagement Team (with a focus on campaigning)",
+      "org": "AlgorithmWatch",
+      "org_tags": [
+        "digital rights",
+        "algorithms",
+        "berlin"
+      ],
+      "url": "https://algorithmwatch.org/de/job-opening-algorithmwatch-sucht-eine-stellvertretende-leitung-des-teams-engagement-schwerpunkt-campaigning/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "1d6ea49aefde",
+      "title": "jobs@algorithmwatch.org",
+      "org": "AlgorithmWatch",
+      "org_tags": [
+        "digital rights",
+        "algorithms",
+        "berlin"
+      ],
+      "url": "mailto:jobs@algorithmwatch.org",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "bd6f5e9b9ef0",
+      "title": "contact form",
+      "org": "AlgorithmWatch",
+      "org_tags": [
+        "digital rights",
+        "algorithms",
+        "berlin"
+      ],
+      "url": "https://aw-algorithmwatch-ggmbh.jobs.personio.de/job/1335329?language=de&display=de#apply",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "5f47ab0ab7af",
+      "title": "privacy policy.",
+      "org": "AlgorithmWatch",
+      "org_tags": [
+        "digital rights",
+        "algorithms",
+        "berlin"
+      ],
+      "url": "https://algorithmwatch.org/en/privacy/#jobapplications",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "34d7534b3085",
+      "title": "privacy policy",
+      "org": "AlgorithmWatch",
+      "org_tags": [
+        "digital rights",
+        "algorithms",
+        "berlin"
+      ],
+      "url": "https://algorithmwatch.org/en/privacy/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "3187c1c26ed8",
+      "title": "Skip to content",
+      "org": "Engine Room",
+      "org_tags": [
+        "digital",
+        "civil society",
+        "tools"
+      ],
+      "url": "https://www.theengineroom.org/jobs/#primary",
+      "location": "remote",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "60fdb2fadd08",
+      "title": "application process FAQ",
+      "org": "Engine Room",
+      "org_tags": [
+        "digital",
+        "civil society",
+        "tools"
+      ],
+      "url": "https://www.theengineroom.org/jobs/application-faqs/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "467860016825",
+      "title": "Associate for Resilient Tech",
+      "org": "Engine Room",
+      "org_tags": [
+        "digital",
+        "civil society",
+        "tools"
+      ],
+      "url": "https://www.theengineroom.org/join-our-team-were-looking-for-an-associate-for-resilient-tech-2/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "00527eb65ef5",
+      "title": "Zum Suchergebnis",
+      "org": "GIZ",
+      "org_tags": [
+        "development",
+        "governance",
+        "germany",
+        "global"
+      ],
+      "url": "https://jobs.giz.de/index.php#skip-to-search-result-heading",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "becf5c92d1cd",
+      "title": "Teilen über LinkedIn",
+      "org": "GIZ",
+      "org_tags": [
+        "development",
+        "governance",
+        "germany",
+        "global"
+      ],
+      "url": "https://www.linkedin.com/shareArticle?mini=true&url=ZZZZZ_JS_LINK_TO_SHARE_ZZZZZ&title=ZZZZZ_JS_JOBAD_TITLE_ENCODED_ZZZZZ",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "874d5f355e13",
+      "title": "Teilen über WhatsApp",
+      "org": "GIZ",
+      "org_tags": [
+        "development",
+        "governance",
+        "germany",
+        "global"
+      ],
+      "url": "https://wa.me/?text=ZZZZZ_JS_JOBAD_TITLE_ENCODED_ZZZZZ%20ZZZZZ_JS_LINK_TO_SHARE_ZZZZZ",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "726bdd58bc59",
+      "title": "Individual Consultancies (ICs).",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://jobs.undp.org/cj_view_consultancies.cfm",
+      "location": "remote",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "a20044f9d4ff",
+      "title": "Job Title Asistente de Proyecto en Planeación y Manejo Integral de ANP - Jalpan, Querétaro Post level NPSA-4 Apply by Apr-29-26 Agency UNDP Location Mexico",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33618",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "dc18bbe262b9",
+      "title": "Job Title Coordonateur (trice) projet Emobilité (Ouvert à tous les candidats) Post level NPSA-9 Apply by Apr-29-26 Agency UNDP Location Dakar, Senegal",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33777",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "6f6ae874f48b",
+      "title": "Job Title Asistente de Proyecto en Gestión y Seguimiento de Programas de Subsidio en ANP Post level NPSA-4 Apply by May-1-26 Agency UNDP Location Mexico",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33688",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "204df7ef963e",
+      "title": "Job Title Asociado/a de Comunicaciones [Open to internal and external applicants] Post level NPSA-6 Apply by May-4-26 Agency UNDP Location Bogota, Colombia",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33734",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "c45726784a64",
+      "title": "Job Title Auxiliar Técnico en SIG [Open to internal and external applicants] Post level NPSA-4 Apply by May-4-26 Agency UNDP Location Bogota, Colombia",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33741",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "3c2bee5c0589",
+      "title": "Job Title Project Associate [Open to internal and external applications] Post level NPSA-7 Apply by May-4-26 Agency UNDP Location Port Moresby, Papua New Guinea",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33500",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "c1bcd69c7304",
+      "title": "Job Title Chauffeur Post level G2 Apply by May-4-26 Agency UNOCHA Location Port-au-Prince, Haiti",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33558",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "7a0e4a5c255b",
+      "title": "Job Title Programme de Stages du PNUD Djibouti Post level Apply by May-6-26 Agency UNDP Location Djibouti, Djibouti",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32349",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "6c78a560a2d9",
+      "title": "Job Title Auxiliar Administrativo NPSA4 - Roster Post level NPSA-4 Apply by May-6-26 Agency UNDP Location Multiple",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33563",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "42592dffd1e6",
+      "title": "Job Title Asociado/a administrativo/a y financiero/a NPSA 6- Roster Post level NPSA-6 Apply by May-6-26 Agency UNDP Location Bogota, Colombia",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33561",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "e29098ba425f",
+      "title": "Job Title Project Engineer (Part-time 50%) [Open to internal and external applicants] Post level NPSA-8 Apply by May-6-26 Agency UNDP Location Male, Maldives",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33770",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "24172927dfe0",
+      "title": "Job Title Field Office Manager Post level NPSA-9 Apply by May-10-26 Agency UNDP Location Kassala, Sudan",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33648",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "d2660ba173e7",
+      "title": "Job Title Administrative Associate (Open to internal and external applicants) Post level NPSA-7 Apply by May-10-26 Agency UNDP Location Cox's Bazaar, Bangladesh",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33700",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "0f38feee73e7",
+      "title": "Job Title Chargé Nationale des Affaires Humanitaires/Programme - UNOCHA - Nationals only Post level NOB Apply by May-11-26 Agency UNOCHA Location Dakar, Senegal",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33673",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "65cab72cda9b",
+      "title": "Job Title Asociado/a en Monitoreo y Evaluación NPSA6 - ROSTER - Tier 3 Post level NPSA-6 Apply by May-13-26 Agency UNDP Location Bogota, Colombia",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33781",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "4d75a92be77d",
+      "title": "Job Title Programme/project Intern Post level IN Apply by Jun-30-26 Agency UNDP Location Paramaribo, Suriname",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33344",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "e11ffd351602",
+      "title": "Job Title Digital Platform Coordinator, Short-Term Post level NPSA-9 Apply by Apr-30-26 Agency UNDP Location Chisinau, Moldova",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32987",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "ee9f5de13859",
+      "title": "Job Title Service Operations Assistant, Short-Term Post level NPSA-5 Apply by Apr-30-26 Agency UNDP Location Chisinau, Moldova",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33139",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "ef6ca86cedcf",
+      "title": "Job Title Communications Analyst [Open to internal and external applicants] Post level NPSA-8 Apply by Apr-30-26 Agency UNDP Location Chisinau, Moldova",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33156",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "4c05fb94743e",
+      "title": "Job Title Legal Analyst, Short-Term Post level NPSA-9 Apply by Apr-30-26 Agency UNDP Location Chisinau, Moldova",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33408",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "02c35eea8024",
+      "title": "Job Title Multimedia Content Creator (short-term assignment) Post level IPSA-9 Apply by May-5-26 Agency UNDP Location Home Based",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33536",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "1b24f7622fc0",
+      "title": "Job Title Business Processes Analyst, Short-Term Post level NPSA-9 Apply by May-6-26 Agency UNDP Location Chisinau, Moldova",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33572",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "5d35f36ca30b",
+      "title": "Job Title National Project Manager [Open to internal and external applicants] Post level Apply by May-6-26 Agency UNDP Location Ulan Bator, Mongolia",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33582",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "e7c24f84a5a3",
+      "title": "Job Title Procurement Officer Post level NPSA-9 Apply by May-8-26 Agency UNDP Location Ankara, Türkiye",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33672",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "e25f260b4c42",
+      "title": "Job Title Project Manager (Open to internal and external applicants) Post level NPSA-10 Apply by May-11-26 Agency UNDP Location Dhaka, Bangladesh",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33701",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "46353698091e",
+      "title": "Job Title IT Project Analyst [Open to internal and external applicants] Post level NPSA-9 Apply by Apr-29-26 Agency UNDP Location Chisinau, Moldova",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33215",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "4835e4ee6f7a",
+      "title": "Job Title Project Analyst (Open to Internal and External Applicants) Post level NPSA-8 Apply by Apr-29-26 Agency UNDP Location Beira, Mozambique",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33590",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "65a1e5967805",
+      "title": "Job Title Project Coordinator - Fez, Morocco (Open to Internal and External applicants) Post level NPSA-8 Apply by May-1-26 Agency UNDP Location Morocco",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33679",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "ee2d6a5a98ba",
+      "title": "Job Title Asistente Jurídico en Proyectos de Cooperación Post level NPSA-4 Apply by May-3-26 Agency UNDP Location Mexico",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33341",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "52215b649678",
+      "title": "Job Title Coordinateur en police de proximité (Open to All Applicants) Post level NPSA-9 Apply by May-3-26 Agency UNDP Location Tunisia",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33496",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "8f66d5943ec4",
+      "title": "Job Title Asociado de Casos ante el Sistema Interamericano de Derechos Humanos Post level NPSA-6 Apply by May-3-26 Agency UNDP Location Mexico",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33728",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "48d7ad1df872",
+      "title": "Job Title Analista de Mecanismos de Cooperación Económica Post level NPSA-9 Apply by May-3-26 Agency UNDP Location Mexico",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33736",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "dd1b95dc8b22",
+      "title": "Job Title Analyste en développement des compétences Post level NPSA-9 Apply by May-4-26 Agency UNDP Location Tunisia",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33419",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "3e2b4e2c1261",
+      "title": "Job Title Project Manager [Open to internal and external applicants] Post level NPSA-9 Apply by May-11-26 Agency UNDP Location Dhaka, Bangladesh",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33695",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "41c216462044",
+      "title": "Job Title Project Analyst, Short-Term Post level NPSA-8 Apply by May-11-26 Agency UNDP Location Chisinau, Moldova",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33705",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "8c2de1f38a64",
+      "title": "Job Title Inclusive Governance and Gender Equality Intern Post level IN Apply by May-13-26 Agency UNDP Location Luanda, Angola",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33773",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "c0d5851c91cd",
+      "title": "Job Title Governance Specialist (Open to all applicants) Post level NPSA-11 Apply by May-13-26 Agency UNDP Location Gaborone, Botswana",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33510",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "44fd5b520759",
+      "title": "Job Title Pasantía en Producción Audiovisual y Fotografía Post level IN Apply by Apr-29-26 Agency UNDP Location Panama City, Panama",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33192",
+      "location": "New York",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "cdfc320811c1",
+      "title": "Job Title Pasantía en Comunicación/Redacción Post level IN Apply by Apr-29-26 Agency UNDP Location Panama City, Panama",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33193",
+      "location": "New York",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "d9bd0f45c5f9",
+      "title": "Corporate",
+      "org": "DAI",
+      "org_tags": [
+        "development",
+        "governance",
+        "international"
+      ],
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5745ed7b-7f8d-47a9-9161-d975aa7f3314&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "d67e617ca82d",
+      "title": "View vacancies",
+      "org": "Luminate",
+      "org_tags": [
+        "civic tech",
+        "media",
+        "international"
+      ],
+      "url": "https://luminate.bamboohr.com/jobs",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "6a899755ac42",
+      "title": "privacy policy",
+      "org": "Luminate",
+      "org_tags": [
+        "civic tech",
+        "media",
+        "international"
+      ],
+      "url": "https://luminategroup.com/privacy-policy",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "5a51f92620d3",
+      "title": "Skip to content",
+      "org": "ECFR",
+      "org_tags": [
+        "think tank",
+        "eu",
+        "foreign policy",
+        "berlin"
+      ],
+      "url": "https://ecfr.eu/about/jobs/#content",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "e27014a23b79",
+      "title": "LinkedIn",
+      "org": "ECFR",
+      "org_tags": [
+        "think tank",
+        "eu",
+        "foreign policy",
+        "berlin"
+      ],
+      "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fecfr.eu%2Fjobs%2F&title=Jobs&summary=&source=https%3A%2F%2Fecfr.eu",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "5603562715fe",
+      "title": "WhatsApp",
+      "org": "ECFR",
+      "org_tags": [
+        "think tank",
+        "eu",
+        "foreign policy",
+        "berlin"
+      ],
+      "url": "https://api.whatsapp.com/send/?text=https%3A%2F%2Fecfr.eu%2Fjobs%2F",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "01b252b668d5",
+      "title": "Skip to main content",
+      "org": "Committee of the Regions",
+      "org_tags": [
+        "eu",
+        "regional",
+        "local government",
+        "brussels"
+      ],
+      "url": "https://cor.europa.eu/en/about/jobs#main-content",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "c4faa8b35644",
+      "title": "Translator in the Spanish Translation Sector",
+      "org": "Committee of the Regions",
+      "org_tags": [
+        "eu",
+        "regional",
+        "local government",
+        "brussels"
+      ],
+      "url": "https://cor.europa.eu/en/about/work-us/jobs/translator-spanish-translation-sector",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "c5fcbbde20c6",
+      "title": "HR Legal Officer",
+      "org": "Committee of the Regions",
+      "org_tags": [
+        "eu",
+        "regional",
+        "local government",
+        "brussels"
+      ],
+      "url": "https://cor.europa.eu/en/about/work-us/jobs/hr-legal-officer",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "184ec32fde87",
+      "title": "Assistant in the Translation Management Unit",
+      "org": "Committee of the Regions",
+      "org_tags": [
+        "eu",
+        "regional",
+        "local government",
+        "brussels"
+      ],
+      "url": "https://cor.europa.eu/en/about/work-us/jobs/assistant-translation-management-unit",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "5e3c9ff64626",
+      "title": "Secretary-General (M/F)",
+      "org": "Committee of the Regions",
+      "org_tags": [
+        "eu",
+        "regional",
+        "local government",
+        "brussels"
+      ],
+      "url": "https://cor.europa.eu/en/about/work-us/jobs/secretary-general-mf",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "b0379a20de01",
+      "title": "recruitment@cor.europa.eu",
+      "org": "Committee of the Regions",
+      "org_tags": [
+        "eu",
+        "regional",
+        "local government",
+        "brussels"
+      ],
+      "url": "mailto:recruitment@cor.europa.eu",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "972995d78753",
+      "title": "Learn more",
+      "org": "Committee of the Regions",
+      "org_tags": [
+        "eu",
+        "regional",
+        "local government",
+        "brussels"
+      ],
+      "url": "https://cor.europa.eu/en/about/work-us/recruitment-process",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "b696aba1c3d8",
+      "title": "recruitment-official@cor.europa.eu",
+      "org": "Committee of the Regions",
+      "org_tags": [
+        "eu",
+        "regional",
+        "local government",
+        "brussels"
+      ],
+      "url": "mailto:recruitment-official@cor.europa.eu",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "6895d4044636",
+      "title": "Facebook",
+      "org": "Committee of the Regions",
+      "org_tags": [
+        "eu",
+        "regional",
+        "local government",
+        "brussels"
+      ],
+      "url": "https://www.facebook.com/share.php?u=https://www.cor.europa.eu/en/about/work-us/jobs&title=Jobs",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "24b244ce2eb0",
+      "title": "Linkedin",
+      "org": "Committee of the Regions",
+      "org_tags": [
+        "eu",
+        "regional",
+        "local government",
+        "brussels"
+      ],
+      "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.cor.europa.eu/en/about/work-us/jobs&title=Jobs",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "b6b23ed61bcc",
+      "title": "Whatsapp",
+      "org": "Committee of the Regions",
+      "org_tags": [
+        "eu",
+        "regional",
+        "local government",
+        "brussels"
+      ],
+      "url": "https://wa.me/?text=https://www.cor.europa.eu/en/about/work-us/jobs",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "9b3ddc88f09b",
+      "title": "Back to top",
+      "org": "Committee of the Regions",
+      "org_tags": [
+        "eu",
+        "regional",
+        "local government",
+        "brussels"
+      ],
+      "url": "https://cor.europa.eu/en/about/jobs#page-top",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "874a010b9033",
+      "title": "Project Manager (f/m/d) for EU Project TRILOGY",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://mbi-berlin.softgarden.io/job/64268483?l=de",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "842991130d3f",
+      "title": "Referent:in Weltmädchenindex (d/w/m)",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://jobs.plan.de/Referentin-Weltmaedchenindex-dwm-de-j1303.html",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "6e6c35866cd9",
+      "title": "freie Autor*­innen",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.queer.de/detail.php?article_id=57743",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "1f30c0cbaf27",
+      "title": "Leitung der Fachstelle Jugendmedienschutz",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://jugendschutz-brandenburg.de/wir-suchen-leitung-der-fachstelle-jugendmedienschutz/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "e3b482973374",
+      "title": "Honorarkräfte / Guides für die Bildungsarbeit",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.schwulesmuseum.de/jobs/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "274de2c22a9c",
+      "title": "Referent/in für Europaangelegenheiten und Internationales (m/w/d)",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.karriereportal-stellen.berlin.de/Referentin-fuer-Europaangelegenheiten-und-Internationales--de-j65782.html",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "3cbe7cf3db57",
+      "title": "Wissenschaftlicher Mitarbeiter mit Schwerpunkt Beratung und Prozessbegleitung (m/w/d)",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.kobranet.de/wp-content/uploads/Stellenausschreibung_Schuefi_2026-final_V1.pdf",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "736736724a59",
+      "title": "Referent*in (d/m/w) Klima-Kommunikations-Kongress",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.deutsches-klima-konsortium.de/news/stellenausschreibungreferentin-d-m-w-klima-kommunikations-kongress-ab-01-06-26-gesucht/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "33a0290600a2",
+      "title": "Pressereferent*in (m/w/d)",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.gruene-bundestag.de/karriere/stellenanzeige/pressereferentin-mwd-in-der-pressestelle/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "0d8fba600ba7",
+      "title": "kom­mu­na­le Gleich­stel­lungs­be­auf­trag­te",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://oranienburg.de/Rathaus-Service/Stadtverwaltung/Stellenausschreibungen/index.php?object=tx,2967.5647.1&NavID=2967.63&La=1",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "4c58b3d438e7",
+      "title": "Kuration (m/w/d/k) Kulturelle Bildung",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://kbbjobs.softgarden.io/job/64304808?l=de",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "5db323519553",
+      "title": "Referent:in der Abteilungsleitung zur Umsetzung der gesamtstädtischen Steuerung im Politikfeld Soziales (m/w/d)",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.karriereportal-stellen.berlin.de/Referentin-der-Abteilungsleitung-zur-Umsetzung-der-gesamts-de-j66845.html",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "c5355b4ab3bc",
+      "title": "Wissenschaftler:in (d/m/w) für das Projekt »UPTAKE«",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.swp-berlin.org/karriere/stellenangebot/wissenschaftlerin-d-m-w-fuer-das-projekt-uptake",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "17ea548af29d",
+      "title": "Fachreferent/in (m/w/d) Innovationsfonds",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/karriere/stellenausschreibungen/stellenausschreibung_2250240.jsp",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "dda593c9364a",
+      "title": "Politische:r Kampaigner:in für Energie- und Klimapolitik",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://jobs.greenpeace.de/o/politischer-kampaignerin-fur-energie-und-klimapolitik",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "0f0d5be91ecf",
+      "title": "Referent*in (m/w/d) Besondere Schutzbedarfe und psychosoziale Versorgung",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.baff-zentren.org/aktuelles/fachstelle-fuer-besondere-schutzbedarfe-sucht-verstaerkung/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "82212ece7836",
+      "title": "Projektmitarbeiter*in für das Stadtteilzentrum Marie-Li",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.pfh-berlin.de/de/artikelseite/sozialpaedagogin-sozialarbeiterin-mwd-stadtteilzentrum-marie-li",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "ca5bb83f8302",
+      "title": "Spartenleitung (m/w/d) Bildende Künste des Berliner Künstlerprogramms",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://karriere.daad.de/job/Berlin-Referentenposition-%28mwd%29-Leitung-Bildende-K%C3%BCnste-Berliner-K%C3%BCnstlerprogramm-10117/1358957657/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "98f1832ad3c6",
+      "title": "Referent (m/w/d) für Kommunikation",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://recruitingapp-2649.umantis.com/Vacancies/3795/Description/1",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "994623ca7918",
+      "title": "Trai­nee­ship Pro­gramm­ma­nage­ment",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.wuebben-stiftung-wissenschaft.org/traineeship",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "bab062dad97e",
+      "title": "Referent/in der Abteilungsleitung im Bereich der Verkehrspolitik (m/w/d)",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.karriereportal-stellen.berlin.de/Referentin-der-Abteilungsleitung-im-Bereich-der-Verkehrspo-de-j66117.html",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "3b3cb4ad2b31",
+      "title": "Public Affairs Manager:in",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://recruitingapp-5262.de.umantis.com/Vacancies/497/Description/1",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "5c619c5d69a6",
+      "title": "Fortbildungsreferent/in „Implementierung/Umsetzung von Ganztagsfortbildungsangeboten für Fachkräfte im bewegten Ganztag“ (Land Brandenburg) (m/w/d)",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.karriereportal-stellen.berlin.de/Fortbildungsreferentin-ImplementierungUmsetzung-von-Ganzta-de-j66165.html",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "b6bd8d1b537b",
+      "title": "Fortbildungsreferent/in „Weiterentwicklung der Trägerqualität sowie Personalmanagement und -entwicklung in den Arbeitsfeldern der Kinder- und Jugendhilfe“ (Land Brandenburg) (m/w/d)",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.karriereportal-stellen.berlin.de/Fortbildungsreferentin-Weiterentwicklung-der-Traegerqualit-de-j66152.html",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "4b7e8fd776e0",
+      "title": "Fortbildungsreferent/in „Sicherstellung und Abstimmung von eigenen und regionalen Fortbildungsangeboten insbesondere für die örtlichen Träger der öffentlichen Kinder- und Jugendhilfe“ (m/w/d)",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.karriereportal-stellen.berlin.de/Fortbildungsreferentin-Sicherstellung-und-Abstimmung-von-e-de-j66170.html",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "6c35108b93c0",
+      "title": "Wissenschaftliches Volontariat (m/w/d)",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.kaethe-kollwitz.berlin/aktuelles/wir-erweitern-unser-team-2/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "069b9b6d0f41",
+      "title": "Referent/in (m/w/d)",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.dioezesanrat-berlin.de/stelle",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "36d54eab41ab",
+      "title": "wissenschaftliche*r Referent*in an der Schnittstelle Popkultur x Politik",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://d-popkultur.de/inhalte/stellenausschreibungen/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "6bb970cc6a1d",
+      "title": "stv. Abteilungsleitung Presse- & Öffentlichkeitsarbeit (gn)",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://karriere-bundesverband.vdk.de/?id=b5419f",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "086f1e64b64a",
+      "title": "Wissenschaftsmanager:in (w/m/d) für Berufungsverfahren",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.medicalschool-berlin.de/karriere-ausschreibungen-professuren/wissenschaftsmanager-in-w-m-d-fuer-berufungsverfahren",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "905e20856be1",
+      "title": "Prize Led Programme Manager",
+      "org": "CharityJob",
+      "org_tags": [],
+      "url": "https://www.charityjob.co.uk/jobs/dogs-trust/prize-led-programme-manager/1066258?tsId=6",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "CharityJob",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "2a4e6314739f",
+      "title": "Senior Delivery / Programme Operations Manager",
+      "org": "CharityJob",
+      "org_tags": [],
+      "url": "https://www.charityjob.co.uk/jobs/the-money-charity/senior-delivery-programme-operations-manager/1066185?tsId=6",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "CharityJob",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "9a160133aedb",
+      "title": "Project Worker",
+      "org": "CharityJob",
+      "org_tags": [],
+      "url": "https://www.charityjob.co.uk/jobs/single-homeless-project/project-worker/1066211?tsId=6",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "CharityJob",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "c6cb49765263",
+      "title": "Project Manager",
+      "org": "CharityJob",
+      "org_tags": [],
+      "url": "https://www.charityjob.co.uk/jobs/church-of-england/project-manager/1065911?tsId=6",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "CharityJob",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "d4defe0fc78e",
+      "title": "Research Programme Manager",
+      "org": "CharityJob",
+      "org_tags": [],
+      "url": "https://www.charityjob.co.uk/jobs/anna-freud/research-programme-manager/1065567?tsId=6",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "CharityJob",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "9616dfe3871c",
+      "title": "Research Manager (DRPLA Programme) - Maternity Cover",
+      "org": "CharityJob",
+      "org_tags": [],
+      "url": "https://www.charityjob.co.uk/jobs/ataxia-uk/research-manager-drpla-programme-maternity-cover/1065958?tsId=6",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "CharityJob",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "6501c39a9a67",
+      "title": "Project Support Officer",
+      "org": "CharityJob",
+      "org_tags": [],
+      "url": "https://www.charityjob.co.uk/jobs/royal-british-legion/project-support-officer/1066304?tsId=6",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "CharityJob",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "08353c43647c",
+      "title": "Programme Development Manager",
+      "org": "CharityJob",
+      "org_tags": [],
+      "url": "https://www.charityjob.co.uk/jobs/habitat-for-humanity-great-britain/programme-development-manager/1066342?tsId=2",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "CharityJob",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "9cf73d3cd34e",
+      "title": "Project Manager",
+      "org": "CharityJob",
+      "org_tags": [],
+      "url": "https://www.charityjob.co.uk/jobs/institute-of-physics/project-manager/1065162?tsId=2",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "CharityJob",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "a225126c45e8",
+      "title": "Culture & Climate Project Manager",
+      "org": "CharityJob",
+      "org_tags": [],
+      "url": "https://www.charityjob.co.uk/jobs/julie-s-bicycle-/culture-climate-project-manager/1066322?tsId=2",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "CharityJob",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "d867aa66d54d",
+      "title": "Programme Manager, Youth & Universities",
+      "org": "CharityJob",
+      "org_tags": [],
+      "url": "https://www.charityjob.co.uk/jobs/the-faith-belief-forum-/programme-manager-youth-universities/1063976?tsId=2",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "CharityJob",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "f69990484a46",
+      "title": "Project Manager",
+      "org": "CharityJob",
+      "org_tags": [],
+      "url": "https://www.charityjob.co.uk/jobs/asthma-lung-uk/project-manager/1065909?tsId=2",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "CharityJob",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "e7eddd253eb0",
+      "title": "Senior Programs Manager",
+      "org": "CharityJob",
+      "org_tags": [],
+      "url": "https://www.charityjob.co.uk/jobs/epic-foundation-uk-ltd/senior-programs-manager/1064016?tsId=2",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "CharityJob",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "d26cc89355cc",
+      "title": "Grants & Programmes Manager",
+      "org": "CharityJob",
+      "org_tags": [],
+      "url": "https://www.charityjob.co.uk/jobs/battersea-dogs-cats-home/grants-programmes-manager/1064935?tsId=2",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "CharityJob",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "8651fb879f8e",
+      "title": "Website and Digital Projects Manager",
+      "org": "CharityJob",
+      "org_tags": [],
+      "url": "https://www.charityjob.co.uk/jobs/sue-ryder/website-and-digital-projects-manager/1066244?tsId=2",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "CharityJob",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "33f11db9a518",
+      "title": "Top Employers",
+      "org": "Euractiv",
+      "org_tags": [],
+      "url": "https://jobs.euractiv.com/top-employers/",
+      "location": "Brussels",
+      "snippet": "",
+      "posted": "",
+      "source": "Euractiv",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "82dd57299e7e",
+      "title": "Job Market News",
+      "org": "Euractiv",
+      "org_tags": [],
+      "url": "https://jobs.euractiv.com/blog/",
+      "location": "Brussels",
+      "snippet": "",
+      "posted": "",
+      "source": "Euractiv",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "0eb5913874d8",
+      "title": "Packages",
+      "org": "Euractiv",
+      "org_tags": [],
+      "url": "https://jobs.euractiv.com/post-a-job/",
+      "location": "Brussels",
+      "snippet": "",
+      "posted": "",
+      "source": "Euractiv",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "26eaab370f82",
+      "title": "Contact Us",
+      "org": "Euractiv",
+      "org_tags": [],
+      "url": "https://jobs.euractiv.com/contact-us/",
+      "location": "Brussels",
+      "snippet": "",
+      "posted": "",
+      "source": "Euractiv",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "fb566531dbb2",
+      "title": "Sign up for newsletter",
+      "org": "Euractiv",
+      "org_tags": [],
+      "url": "https://www.euractiv.com/jobletter-newsletter/",
+      "location": "Brussels",
+      "snippet": "",
+      "posted": "",
+      "source": "Euractiv",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "8dcbf1be2888",
+      "title": "Head of EU Affairs",
+      "org": "Euractiv",
+      "org_tags": [],
+      "url": "https://jobs.euractiv.com/jobs/head-of-eu-affairs/",
+      "location": "Brussels",
+      "snippet": "",
+      "posted": "",
+      "source": "Euractiv",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "8ef7bdbaeb4d",
+      "title": "Assistant accountant (m/f/d)",
+      "org": "Euractiv",
+      "org_tags": [],
+      "url": "https://jobs.euractiv.com/jobs/assistant-accountant-m-f-d/",
+      "location": "Brussels",
+      "snippet": "",
+      "posted": "",
+      "source": "Euractiv",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "6e0521e99307",
+      "title": "Public Affairs Senior Policy Officer",
+      "org": "Euractiv",
+      "org_tags": [],
+      "url": "https://jobs.euractiv.com/jobs/public-affairs-senior-policy-officer/",
+      "location": "Brussels",
+      "snippet": "",
+      "posted": "",
+      "source": "Euractiv",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "4f23d76f446b",
+      "title": "Senior Policy Advisor to support its Clean Economy Programme",
+      "org": "Euractiv",
+      "org_tags": [],
+      "url": "https://jobs.euractiv.com/jobs/senior-policy-advisor-to-support-its-clean-economy-programme/",
+      "location": "Brussels",
+      "snippet": "",
+      "posted": "",
+      "source": "Euractiv",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "aaed7604f769",
+      "title": "Project Officer – Energy & Buildings",
+      "org": "Euractiv",
+      "org_tags": [],
+      "url": "https://jobs.euractiv.com/jobs/project-officer-energy-buildings/",
+      "location": "Brussels",
+      "snippet": "",
+      "posted": "",
+      "source": "Euractiv",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "232bbb693817",
+      "title": "Expert Group Coordinators",
+      "org": "Euractiv",
+      "org_tags": [],
+      "url": "https://jobs.euractiv.com/jobs/expert-group-coordinators/",
+      "location": "Brussels",
+      "snippet": "",
+      "posted": "",
+      "source": "Euractiv",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "b51433c1aadd",
+      "title": "More jobs",
+      "org": "Euractiv",
+      "org_tags": [],
+      "url": "https://jobs.euractiv.com/browse-jobs/",
+      "location": "Brussels",
+      "snippet": "",
+      "posted": "",
+      "source": "Euractiv",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "1c6abb4583ac",
+      "title": "From the desk of a recruiter: How to land a job in the EU Bubble",
+      "org": "Euractiv",
+      "org_tags": [],
+      "url": "https://jobs.euractiv.com/from-the-desk-of-a-recruiter-how-to-land-a-job-in-the-eu-bubble/",
+      "location": "Brussels",
+      "snippet": "",
+      "posted": "",
+      "source": "Euractiv",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "e2bdb9feb34d",
+      "title": "How to Build a Career in the Brussels Bubble Beyond Internships",
+      "org": "Euractiv",
+      "org_tags": [],
+      "url": "https://jobs.euractiv.com/how-to-build-a-career-in-the-brussels-bubble-beyond-internships/",
+      "location": "Brussels",
+      "snippet": "",
+      "posted": "",
+      "source": "Euractiv",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "a71e14655dd6",
+      "title": "10 ways to make your CV stand out in the Brussels Bubble",
+      "org": "Euractiv",
+      "org_tags": [],
+      "url": "https://jobs.euractiv.com/10-ways-to-make-your-cv-stand-out-in-the-brussels-bubble/",
+      "location": "Brussels",
+      "snippet": "",
+      "posted": "",
+      "source": "Euractiv",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "5ecd9710f04b",
+      "title": "The Hidden Job Market of Brussels: 3,000 European Associations Powering Europe’s Policy Ecosystem",
+      "org": "Euractiv",
+      "org_tags": [],
+      "url": "https://jobs.euractiv.com/the-hidden-job-market-of-brussels-3000-european-associations-powering-europes-policy-ecosystem/",
+      "location": "Brussels",
+      "snippet": "",
+      "posted": "",
+      "source": "Euractiv",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "dc4a4d972fc9",
+      "title": "Jobs in Brussels",
+      "org": "Euractiv",
+      "org_tags": [],
+      "url": "https://jobs.euractiv.com/browse-jobs/?job_name=&job_city%5B%5D=brussels",
+      "location": "Brussels",
+      "snippet": "",
+      "posted": "",
+      "source": "Euractiv",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "736e6925cf5b",
+      "title": "Jobs @ Euractiv",
+      "org": "Euractiv",
+      "org_tags": [],
+      "url": "https://jobs.euractiv.com/author/euractiv/",
+      "location": "Brussels",
+      "snippet": "",
+      "posted": "",
+      "source": "Euractiv",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "10022453d249",
+      "title": "My Account",
+      "org": "Euractiv",
+      "org_tags": [],
+      "url": "https://jobs.euractiv.com/dashboard/",
+      "location": "Brussels",
+      "snippet": "",
+      "posted": "",
+      "source": "Euractiv",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "8ce5a002df29",
+      "title": "Categories",
+      "org": "Euractiv",
+      "org_tags": [],
+      "url": "https://jobs.euractiv.com/browse-categories/",
+      "location": "Brussels",
+      "snippet": "",
+      "posted": "",
+      "source": "Euractiv",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "3e3f94ea9f06",
+      "title": "Post your job",
+      "org": "Euractiv",
+      "org_tags": [],
+      "url": "https://jobs.euractiv.com/dashboard/?user_tab=e-profile",
+      "location": "Brussels",
+      "snippet": "",
+      "posted": "",
+      "source": "Euractiv",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "4065ae64769b",
+      "title": "Privacy Policy",
+      "org": "Euractiv",
+      "org_tags": [],
+      "url": "https://www.euractiv.com/privacy/",
+      "location": "Brussels",
+      "snippet": "",
+      "posted": "",
+      "source": "Euractiv",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "c2b5b4180a7c",
+      "title": "Cookie Policy",
+      "org": "Euractiv",
+      "org_tags": [],
+      "url": "https://www.euractiv.com/about-euractiv/euractiv-com-cookie-policy/",
+      "location": "Brussels",
+      "snippet": "",
+      "posted": "",
+      "source": "Euractiv",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "2fd62e0bdf73",
+      "title": "Lost Password",
+      "org": "Euractiv",
+      "org_tags": [],
+      "url": "https://jobs.euractiv.com/",
+      "location": "Brussels",
+      "snippet": "",
+      "posted": "",
+      "source": "Euractiv",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "3e5f9f2bd3ec",
+      "title": "SENIOR GOVERNANCE ADVISOR, Addis Ababa, Ethiopia",
+      "org": "UNjobs",
+      "org_tags": [],
+      "url": "https://unjobs.org/vacancies/1772640416276",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "UNjobs",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "f6f6a0e02ea3",
+      "title": "Principal Consultant- GSD, Chennai, India",
+      "org": "UNjobs",
+      "org_tags": [],
+      "url": "https://unjobs.org/vacancies/1770135503154",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "UNjobs",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    },
+    {
+      "id": "e163bde2b79a",
+      "title": "Call for Public Sector Governance Experts, Philippines",
+      "org": "UNjobs",
+      "org_tags": [],
+      "url": "https://unjobs.org/vacancies/1765628581241",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "UNjobs",
+      "is_new": true,
+      "scraped_at": "2026-04-29T20:16:24.556785"
+    }
+  ]
+}
