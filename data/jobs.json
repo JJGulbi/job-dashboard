@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-21T09:34:18.065851",
-  "total": 338,
-  "new_count": 2,
+  "scraped_at": "2026-06-22T11:32:24.550716",
+  "total": 297,
+  "new_count": 7,
   "jobs": [
     {
       "id": "f5bcf4bf693e",
@@ -18,7 +18,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "911507072d24",
@@ -35,7 +35,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "679f2f82a64d",
@@ -52,7 +52,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "22b41353ba28",
@@ -69,7 +69,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "184e6856cea8",
@@ -86,7 +86,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "848d0144c3e0",
@@ -103,7 +103,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "56a1ca484173",
@@ -120,7 +120,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "af601e5a33e3",
@@ -137,7 +137,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "77758fc68e6b",
@@ -154,7 +154,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "e45445384951",
@@ -171,7 +171,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "b7e17e710463",
@@ -188,7 +188,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "9b6f4486853b",
@@ -205,687 +205,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "be5ffb0fab3c",
-      "title": "EU Project position (261)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=contract_type%3AEU%20Project%20position",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "4ae6aef4ff9a",
-      "title": "International position (57)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=contract_type%3AInternational%20position",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "192b9716026b",
-      "title": "Communication (153)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=job_profile%3ACommunication",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "4fbb4ba62445",
-      "title": "Financial (137)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=job_profile%3AFinancial",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "2f8b2523d45c",
-      "title": "Human Resources/Administration (218)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=job_profile%3AHuman%20Resources/Administration",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "a8b381bdd7a3",
-      "title": "Legal (41)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=job_profile%3ALegal",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "f9ee215df292",
-      "title": "Other (803)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=job_profile%3AOther",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "bd7750ad2a90",
-      "title": "Political (333)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=job_profile%3APolitical",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "05342ef60621",
-      "title": "Secretary/Clerk (195)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=job_profile%3ASecretary/Clerk",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "d3e08b155835",
-      "title": "Security (38)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=job_profile%3ASecurity",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "ac8363702b6f",
-      "title": "Afghanistan (31)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AAfghanistan",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "7a25cdeb4097",
-      "title": "Africa (9)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AAfrica",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "731d37cc1b77",
-      "title": "African Union (AU) (6)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AAfrican%20Union%20%28AU%29",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "42bfae6aae32",
-      "title": "Albania (66)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AAlbania",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "77f34fd04ad4",
-      "title": "Algeria (13)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AAlgeria",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "967d0e7fb83a",
-      "title": "Andorra (1)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AAndorra",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "ac5a7c18ba11",
-      "title": "Angola (4)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AAngola",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "435a118b8bec",
-      "title": "Aotearoa New Zealand (11)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AAotearoa%20New%20Zealand",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "4ab993a877df",
-      "title": "Argentina (8)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AArgentina",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "07939f3b1770",
-      "title": "Armenia (37)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AArmenia",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "12161e337738",
-      "title": "Aruba (1)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AAruba",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "185b165c893a",
-      "title": "Asia (3)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AAsia",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "76d82c6c4065",
-      "title": "Association of Southeast Asian Nations (ASEAN) (10)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AAssociation%20of%20Southeast%20Asian%20Nations%20%28ASEAN%29",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "1377f9ed2776",
-      "title": "Australia (5)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AAustralia",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "de68cde4b1fb",
-      "title": "Azerbaijan (2)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3AAzerbaijan",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "a7b32cae28db",
-      "title": "Bahamas (2)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABahamas",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "cae030a4a415",
-      "title": "Bahrain (9)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABahrain",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "053af3a5736f",
-      "title": "Bangladesh (8)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABangladesh",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "1a4a859ef148",
-      "title": "Barbados (14)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABarbados",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "ecca470d49af",
-      "title": "Belarus (4)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABelarus",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "4d0c61d7c923",
-      "title": "Belize (2)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABelize",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "8d2fe20b8c31",
-      "title": "Benin (1)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABenin",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "f46beb7ecb66",
-      "title": "Bolivia (7)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABolivia",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "e599118d2d47",
-      "title": "Bonaire (1)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABonaire",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "def58e6f8c07",
-      "title": "Bosnia and Her (1)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABosnia%20and%20Her",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "4d7fff1f6539",
-      "title": "Bosnia and Herzegovina (41)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABosnia%20and%20Herzegovina",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "282599d2dce8",
-      "title": "Botswana (6)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABotswana",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "19275e1ad2ef",
-      "title": "Brazil (23)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABrazil",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "e3e6fef2cfd4",
-      "title": "Brunei Darussalam (4)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABrunei%20Darussalam",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "98f194e21cf5",
-      "title": "Burkina Faso (3)",
-      "org": "EEAS",
-      "org_tags": [
-        "eu",
-        "diplomacy",
-        "governance"
-      ],
-      "url": "https://www.eeas.europa.eu/eeas/vacancies_en?f%5B0%5D=vacancy_site%3ABurkina%20Faso",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "7fff6b98521f",
@@ -902,7 +222,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "5cfef37288cb",
@@ -919,7 +239,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "67aa084a6a13",
@@ -936,7 +256,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "370d7ea55ecf",
@@ -953,7 +273,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "41069dd98181",
@@ -970,7 +290,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "62c0bebacc08",
@@ -987,7 +307,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "08ab18a64c43",
@@ -1004,7 +324,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "6eb0513f7c2a",
@@ -1021,7 +341,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "151d55a1f4c7",
@@ -1038,7 +358,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "e033d2839cec",
@@ -1055,7 +375,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "5b64795a755f",
@@ -1072,7 +392,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "287eb2e65a22",
@@ -1089,7 +409,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "6ef9cb06db9d",
@@ -1106,7 +426,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "b1127d595ee6",
@@ -1123,7 +443,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "ff7efcca6475",
@@ -1140,7 +460,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "850e144a68ed",
@@ -1156,7 +476,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "c0f5d9eb4b7d",
@@ -1174,7 +494,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "56bdf11766ac",
@@ -1192,7 +512,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "948f4d698429",
@@ -1210,7 +530,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "8fa0f81a3ea7",
@@ -1228,7 +548,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "a607ae9e373f",
@@ -1246,7 +566,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "47a0fc7240d5",
@@ -1264,7 +584,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "6ee407be56e5",
@@ -1282,7 +602,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "bb864af15e2d",
@@ -1300,7 +620,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "f6109f7caa4e",
@@ -1318,7 +638,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "fab3b6a16320",
@@ -1336,7 +656,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "17fd1e9d97b1",
@@ -1354,7 +674,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "f658ed601826",
@@ -1372,7 +692,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "2351711dee08",
@@ -1390,7 +710,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "55743c9b1fd5",
@@ -1408,7 +728,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "24138565c248",
@@ -1426,7 +746,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "081913df41f7",
@@ -1444,7 +764,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "98687d73296b",
@@ -1462,7 +782,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "464b7500e897",
@@ -1480,7 +800,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "6639ca611c1e",
@@ -1498,7 +818,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "8c5edc083ab7",
@@ -1516,7 +836,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "9d2c974731f1",
@@ -1534,7 +854,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "cd504e25fadb",
@@ -1552,7 +872,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "068e2ac743cb",
@@ -1570,7 +890,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "2a3c61bf1d25",
@@ -1588,7 +908,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "bce7b75b7a00",
@@ -1606,7 +926,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "ad4941d7832a",
@@ -1623,7 +943,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "cbabba1cf15a",
@@ -1640,7 +960,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "03f708845873",
@@ -1657,7 +977,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "f95a2d59fd94",
@@ -1674,7 +994,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "6f98b162a024",
@@ -1691,7 +1011,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "bca1ed148b4c",
@@ -1708,7 +1028,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "b77e6762c211",
@@ -1725,7 +1045,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "91aad08a3ae6",
@@ -1742,7 +1062,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "ca6ea90931a7",
@@ -1759,7 +1079,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "80602ff9fedf",
@@ -1776,7 +1096,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "1b4429da7be0",
@@ -1793,7 +1113,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "2426600ca413",
@@ -1810,7 +1130,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "8b1dbc0b4a09",
@@ -1827,7 +1147,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "0ef73c72ba39",
@@ -1844,7 +1164,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "849e9bd91210",
@@ -1861,7 +1181,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "2e624fd5fcee",
@@ -1878,7 +1198,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "90a683dc4eb0",
@@ -1895,7 +1215,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "171d2dee55de",
@@ -1913,7 +1233,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "f2341ab75904",
@@ -1930,7 +1250,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "0929e4755102",
@@ -1947,7 +1267,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "b27a9a6a6fc3",
@@ -1964,7 +1284,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "315c78bcae4e",
@@ -1981,7 +1301,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "57fd6f46c0cb",
@@ -1998,7 +1318,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "d55d970eb73a",
@@ -2015,7 +1335,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "9e9c607b7546",
@@ -2032,7 +1352,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "0b0d31114335",
@@ -2049,7 +1369,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "564d71b7bad1",
@@ -2067,7 +1387,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "bce729b23d8f",
@@ -2085,7 +1405,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "1e61140cd93c",
@@ -2103,7 +1423,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "78f6c200ba1e",
@@ -2121,7 +1441,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "d441342c9e60",
@@ -2139,7 +1459,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "836822d1b0c0",
@@ -2157,7 +1477,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "253a455b652b",
@@ -2175,7 +1495,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "49d9a736d615",
@@ -2193,7 +1513,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "f23240e94ed4",
@@ -2211,7 +1531,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "6573280d583b",
@@ -2229,7 +1549,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "f3e8e7b8976d",
@@ -2247,7 +1567,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "ad0ad1e2cfae",
@@ -2265,7 +1585,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "4220a739c4aa",
@@ -2283,7 +1603,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "aa905d58364e",
@@ -2301,7 +1621,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "ad2312213372",
@@ -2318,7 +1638,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "c940813ef8f0",
@@ -2335,7 +1655,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "cd5d48ad9f23",
@@ -2352,7 +1672,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "57fc5324cb03",
@@ -2369,7 +1689,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "9db8c822d989",
@@ -2386,7 +1706,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "04ef81391eb9",
@@ -2404,7 +1724,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "5749b85dbf22",
@@ -2421,7 +1741,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "b0eaf56308c4",
@@ -2438,7 +1758,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "22b854f4df7b",
@@ -2455,7 +1775,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "1935a685e705",
@@ -2472,7 +1792,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "42314a2e1d03",
@@ -2489,7 +1809,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "2db5a4b7ed9b",
@@ -2506,7 +1826,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "75c05e53fab7",
@@ -2523,7 +1843,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "909a5792032c",
@@ -2540,7 +1860,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "dc476eff816c",
@@ -2557,7 +1877,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "af52825aea6a",
@@ -2574,7 +1894,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "0960a017f32f",
@@ -2591,7 +1911,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "2f813d7e5021",
@@ -2608,7 +1928,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "3fa4100155ef",
@@ -2625,7 +1945,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "0da241238655",
@@ -2642,7 +1962,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "702befdcd9d4",
@@ -2659,7 +1979,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "f1ae1e03ffa0",
@@ -2676,7 +1996,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "8ade6e68984c",
@@ -2693,7 +2013,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "88191442d9a7",
@@ -2710,7 +2030,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "e0c990c2f264",
@@ -2727,7 +2047,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "45a2fb026106",
@@ -2744,7 +2064,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "8e57b8eb6715",
@@ -2761,7 +2081,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "e4d49c9984af",
@@ -2778,7 +2098,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "1811e4350779",
@@ -2795,7 +2115,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "63d807d85101",
@@ -2812,7 +2132,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "ab3e5fc815d3",
@@ -2829,7 +2149,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "09d05e3cbe28",
@@ -2846,7 +2166,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "63d1963d720d",
@@ -2863,7 +2183,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "ed1463fb3450",
@@ -2880,7 +2200,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "d4751f9c73ff",
@@ -2897,7 +2217,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "6a38a139e27c",
@@ -2914,7 +2234,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "a69d8bb8954d",
@@ -2931,7 +2251,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "27d2288bde10",
@@ -2948,7 +2268,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "59decb9d6067",
@@ -2965,7 +2285,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "f4d2e523921c",
@@ -2982,7 +2302,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "70b3b5f2e667",
@@ -2999,7 +2319,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "6abd717ebf09",
@@ -3016,7 +2336,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "6ec98c87f145",
@@ -3033,7 +2353,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "51e674955b84",
@@ -3050,7 +2370,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "6b5f729a95b2",
@@ -3067,7 +2387,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "99385e083831",
@@ -3084,7 +2404,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "70e7abf72a88",
@@ -3101,7 +2421,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "1d6ea49aefde",
@@ -3118,7 +2438,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "bd6f5e9b9ef0",
@@ -3135,7 +2455,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "5f47ab0ab7af",
@@ -3152,7 +2472,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "34d7534b3085",
@@ -3169,7 +2489,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "3187c1c26ed8",
@@ -3186,7 +2506,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "60fdb2fadd08",
@@ -3203,7 +2523,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "467860016825",
@@ -3220,7 +2540,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "00527eb65ef5",
@@ -3238,7 +2558,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "becf5c92d1cd",
@@ -3256,7 +2576,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "874d5f355e13",
@@ -3274,7 +2594,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "726bdd58bc59",
@@ -3292,25 +2612,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "cc1d43f463a2",
-      "title": "Job Title Project Analyst, NPSA-9, DS - Kyiv, National Position Post level NPSA-9 Apply by Jun-22-26 Agency UNDP Location Kyiv, Ukraine",
-      "org": "UNDP",
-      "org_tags": [
-        "un",
-        "development",
-        "governance",
-        "global"
-      ],
-      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34735",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "d90a4c5d810b",
@@ -3328,11 +2630,11 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
-      "id": "c0a64d0aa43a",
-      "title": "Job Title Asistente de Proyecto en Planeación, Organización y Administración (CDMX) Post level NPSA-5 Apply by Jun-23-26 Agency UNDP Location Mexico",
+      "id": "cc1d43f463a2",
+      "title": "Job Title Project Analyst, NPSA-9, DS - Kyiv, National Position Post level NPSA-9 Apply by Jun-22-26 Agency UNDP Location Kyiv, Ukraine",
       "org": "UNDP",
       "org_tags": [
         "un",
@@ -3340,13 +2642,13 @@
         "governance",
         "global"
       ],
-      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34961",
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34735",
       "location": "",
       "snippet": "",
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "65eed37d9733",
@@ -3364,7 +2666,25 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
+    },
+    {
+      "id": "c0a64d0aa43a",
+      "title": "Job Title Asistente de Proyecto en Planeación, Organización y Administración (CDMX) Post level NPSA-5 Apply by Jun-23-26 Agency UNDP Location Mexico",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34961",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": false,
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "e14fbf476e19",
@@ -3382,7 +2702,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "4d75a92be77d",
@@ -3400,7 +2720,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "a7a59b5da14a",
@@ -3418,7 +2738,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "cd02cee86778",
@@ -3436,7 +2756,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "2aa7eca29ea1",
@@ -3454,7 +2774,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "246e12ee5270",
@@ -3472,7 +2792,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "5f9196e1a609",
@@ -3490,7 +2810,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "3dc7ebb58543",
@@ -3508,7 +2828,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "6a81cad0dba8",
@@ -3526,7 +2846,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "2de6f04097a1",
@@ -3544,7 +2864,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "d516e8781a82",
@@ -3562,7 +2882,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "83e51d6caa0a",
@@ -3580,7 +2900,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "d387ca97a15a",
@@ -3598,7 +2918,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "698dc4c2835e",
@@ -3616,7 +2936,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "2b8ffd52302b",
@@ -3634,7 +2954,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "eb94c74813ff",
@@ -3652,7 +2972,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "c4ad2fbbad9b",
@@ -3670,7 +2990,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "c290b0b51c5f",
@@ -3688,7 +3008,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "6e71102eb13a",
@@ -3706,7 +3026,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "6420f4bf8317",
@@ -3724,7 +3044,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "07e9d3c9c537",
@@ -3742,7 +3062,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "666f44c0dd57",
@@ -3760,7 +3080,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "6a4735e4109f",
@@ -3778,7 +3098,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "4bd41bdc7508",
@@ -3796,7 +3116,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "83b3b923c35c",
@@ -3814,25 +3134,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "f30ff298277e",
-      "title": "Job Title On-call Security Guard Post level NB1 Apply by Jun-22-26 Agency UNDP Location Sarajevo, Bosnia and Herzegovina",
-      "org": "UNDP",
-      "org_tags": [
-        "un",
-        "development",
-        "governance",
-        "global"
-      ],
-      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34466",
-      "location": "Global",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "0598cac878cc",
@@ -3850,7 +3152,25 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
+    },
+    {
+      "id": "7fe40534fe89",
+      "title": "Job Title On-call Security Guard Post level NB1 Apply by Jun-23-26 Agency UNDP Location Sarajevo, Bosnia and Herzegovina",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34466",
+      "location": "Global",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "73545eee34bb",
@@ -3868,7 +3188,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "98b4a75e0371",
@@ -3886,7 +3206,43 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
+    },
+    {
+      "id": "7283c8283637",
+      "title": "Job Title Cleaner/Logistician (Roster, Nationals Only) Post level NPSA-1 Apply by Jun-28-26 Agency UNDP Location Bishkek, Kyrgyzstan",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34695",
+      "location": "Global",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-06-22T11:32:24.550716"
+    },
+    {
+      "id": "bf36ddb5b252",
+      "title": "Job Title Monitoring, Evaluation and Reporting Analyst (Open to Internal and external candidates) Post level NPSA-8 Apply by Jul-6-26 Agency UNDP Location India",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35035",
+      "location": "Global",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "cf23f3b55798",
@@ -3904,7 +3260,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "57c8c85f4907",
@@ -3922,7 +3278,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "0b1d87b0e0b5",
@@ -3940,25 +3296,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "f555d310826b",
-      "title": "Job Title Médecin Généraliste (Intérimaire) Post level NPSA-10 Apply by Jul-4-26 Agency UNDP Location Brazzaville, Congo",
-      "org": "UNDP",
-      "org_tags": [
-        "un",
-        "development",
-        "governance",
-        "global"
-      ],
-      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34646",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "6acfeff832f0",
@@ -3976,25 +3314,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "f5bc86d77b37",
-      "title": "Job Title Research and Partnership Analyst (Home based) [Open to All applicants] Post level IPSA-8 Apply by Jun-22-26 Agency UNDP Location Panama City, Panama",
-      "org": "UNDP",
-      "org_tags": [
-        "un",
-        "development",
-        "governance",
-        "global"
-      ],
-      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33019",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "d9bd0f45c5f9",
@@ -4011,7 +3331,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "d67e617ca82d",
@@ -4028,7 +3348,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "6a899755ac42",
@@ -4045,7 +3365,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "5a51f92620d3",
@@ -4063,7 +3383,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "e27014a23b79",
@@ -4081,7 +3401,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "5603562715fe",
@@ -4099,7 +3419,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "01b252b668d5",
@@ -4117,7 +3437,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "b0379a20de01",
@@ -4135,7 +3455,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "972995d78753",
@@ -4153,7 +3473,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "b696aba1c3d8",
@@ -4171,7 +3491,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "6895d4044636",
@@ -4189,7 +3509,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "24b244ce2eb0",
@@ -4207,7 +3527,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "b6b23ed61bcc",
@@ -4225,7 +3545,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "9b3ddc88f09b",
@@ -4243,7 +3563,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "f6cdcf766856",
@@ -4256,7 +3576,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "16e24efb76ea",
@@ -4269,7 +3589,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "3e85d25b5983",
@@ -4282,7 +3602,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "a7d78d8bfdaa",
@@ -4295,7 +3615,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "91c647e96ae8",
@@ -4308,7 +3628,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "338c64d074dc",
@@ -4321,7 +3641,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "34da3ca22e00",
@@ -4334,7 +3654,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "c5aa531991e1",
@@ -4347,7 +3667,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "808f127d9e94",
@@ -4360,7 +3680,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "92abb98ecb05",
@@ -4373,7 +3693,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "f2fa242aa6cd",
@@ -4386,7 +3706,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "656654adf86b",
@@ -4399,7 +3719,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "6f0d8ac72cdf",
@@ -4412,7 +3732,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "bc8acb2d09f3",
@@ -4425,7 +3745,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "a9e8259ffb77",
@@ -4438,7 +3758,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "2de34912d7b6",
@@ -4451,7 +3771,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "0f1d89ca10f6",
@@ -4464,7 +3784,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "10756d3a6ab4",
@@ -4477,7 +3797,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "c6b815ba46d2",
@@ -4490,7 +3810,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "a8dc8cdc562c",
@@ -4503,7 +3823,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "d7641e8b46c4",
@@ -4516,7 +3836,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "517785ef9c34",
@@ -4529,7 +3849,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "1d6b796cef51",
@@ -4542,7 +3862,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "f9875eb080be",
@@ -4555,7 +3875,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "8a519e160069",
@@ -4568,7 +3888,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "edf6f50fc176",
@@ -4581,7 +3901,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "4e5bb867b718",
@@ -4594,7 +3914,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "e01bc000bce7",
@@ -4607,7 +3927,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "762b54531cc0",
@@ -4620,7 +3940,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "de3d60ce8bde",
@@ -4633,7 +3953,7 @@
       "posted": "",
       "source": "Bundesverband",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "4a32f9bf0e3b",
@@ -4646,7 +3966,7 @@
       "posted": "",
       "source": "Bundesverband",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "84a875f7eaf9",
@@ -4659,7 +3979,7 @@
       "posted": "",
       "source": "Bundesverband",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "87876380f586",
@@ -4672,7 +3992,7 @@
       "posted": "",
       "source": "Bundesverband",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "ffbaddff5490",
@@ -4685,7 +4005,7 @@
       "posted": "",
       "source": "Bundesverband",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "12f05202e3e2",
@@ -4698,7 +4018,7 @@
       "posted": "",
       "source": "Bundesverband",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "62de1065760c",
@@ -4711,7 +4031,7 @@
       "posted": "",
       "source": "Bundesverband",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "9ca12b11fb3c",
@@ -4724,7 +4044,7 @@
       "posted": "",
       "source": "Bundesverband",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "b6088c0b11cb",
@@ -4737,7 +4057,7 @@
       "posted": "",
       "source": "Bundesverband",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "d577dac24752",
@@ -4750,7 +4070,7 @@
       "posted": "",
       "source": "Bundesverband",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "dbaf387c7ce3",
@@ -4763,7 +4083,7 @@
       "posted": "",
       "source": "Bundesverband",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "57c99aa4103a",
@@ -4776,7 +4096,7 @@
       "posted": "",
       "source": "Bundesverband",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "b5b7e8883e0d",
@@ -4789,7 +4109,7 @@
       "posted": "",
       "source": "Bundesverband",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "5d216a469b6d",
@@ -4802,7 +4122,7 @@
       "posted": "",
       "source": "Stiftungswelt",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "1b0af71343b1",
@@ -4815,7 +4135,7 @@
       "posted": "",
       "source": "Stiftungswelt",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "f2d8ec977bc8",
@@ -4828,7 +4148,7 @@
       "posted": "",
       "source": "Stiftungswelt",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "ef31f3c8c720",
@@ -4841,7 +4161,7 @@
       "posted": "",
       "source": "Stiftungswelt",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "e08ae983494a",
@@ -4854,7 +4174,7 @@
       "posted": "",
       "source": "Stiftungswelt",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "4b64db235433",
@@ -4867,7 +4187,7 @@
       "posted": "",
       "source": "Stiftungswelt",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "b96f6c1174a6",
@@ -4880,7 +4200,7 @@
       "posted": "",
       "source": "Stiftungswelt",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "23ac1e5321da",
@@ -4893,7 +4213,7 @@
       "posted": "",
       "source": "Stiftungswelt",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "787bca0153fc",
@@ -4906,7 +4226,7 @@
       "posted": "",
       "source": "Stiftungswelt",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "9b4abd40318f",
@@ -4919,7 +4239,7 @@
       "posted": "",
       "source": "Stiftungswelt",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "e27343a9aa90",
@@ -4932,7 +4252,7 @@
       "posted": "",
       "source": "Stiftungswelt",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "8ab27e811af8",
@@ -4945,7 +4265,46 @@
       "posted": "",
       "source": "Stiftungswelt",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
+    },
+    {
+      "id": "31f95d581579",
+      "title": "Surrey Peer Programme Manager",
+      "org": "CharityJob",
+      "org_tags": [],
+      "url": "https://www.charityjob.co.uk/jobs/the-hepatitis-c-trust/surrey-peer-programme-manager/1073725?tsId=6",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "CharityJob",
+      "is_new": true,
+      "scraped_at": "2026-06-22T11:32:24.550716"
+    },
+    {
+      "id": "04dd935887c8",
+      "title": "Wales Programme Coordinator",
+      "org": "CharityJob",
+      "org_tags": [],
+      "url": "https://www.charityjob.co.uk/jobs/futures-for-all/wales-programme-coordinator/1071821?tsId=6",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "CharityJob",
+      "is_new": false,
+      "scraped_at": "2026-06-22T11:32:24.550716"
+    },
+    {
+      "id": "2a0031f54b47",
+      "title": "Senior Project Officer",
+      "org": "CharityJob",
+      "org_tags": [],
+      "url": "https://www.charityjob.co.uk/jobs/youth-futures-foundation/senior-project-officer/1073654?tsId=6",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "CharityJob",
+      "is_new": true,
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "c3ceb32114e9",
@@ -4958,7 +4317,7 @@
       "posted": "",
       "source": "CharityJob",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "e1781b538d5d",
@@ -4971,7 +4330,20 @@
       "posted": "",
       "source": "CharityJob",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
+    },
+    {
+      "id": "0c5840a64786",
+      "title": "Manager, Physics Workforce",
+      "org": "CharityJob",
+      "org_tags": [],
+      "url": "https://www.charityjob.co.uk/jobs/institute-of-physics/manager-physics-workforce/1073689?tsId=6",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "CharityJob",
+      "is_new": true,
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "d0cb0ffb7d36",
@@ -4984,7 +4356,7 @@
       "posted": "",
       "source": "CharityJob",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "16440ad3b408",
@@ -4997,33 +4369,7 @@
       "posted": "",
       "source": "CharityJob",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "3deb2f3b74f5",
-      "title": "Homelessness Project Manager",
-      "org": "CharityJob",
-      "org_tags": [],
-      "url": "https://www.charityjob.co.uk/jobs/housing-justice/homelessness-project-manager/1070659?tsId=2",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "CharityJob",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "804cc5b22382",
-      "title": "Project Manager (Commissioned Service)",
-      "org": "CharityJob",
-      "org_tags": [],
-      "url": "https://www.charityjob.co.uk/jobs/safe-haven-sussex-cic/project-manager-commissioned-service-/1070674?tsId=2",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "CharityJob",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "3b758d6708c0",
@@ -5036,33 +4382,20 @@
       "posted": "",
       "source": "CharityJob",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
-      "id": "4d67dd4bdb4f",
-      "title": "London Project Officer",
+      "id": "3f3ec01a0f8a",
+      "title": "Operations Manager",
       "org": "CharityJob",
       "org_tags": [],
-      "url": "https://www.charityjob.co.uk/jobs/samaritans/london-project-officer/1073329?tsId=2",
+      "url": "https://www.charityjob.co.uk/jobs/action-for-refugees-in-lewisham/operations-manager/1073646?tsId=2",
       "location": "",
       "snippet": "",
       "posted": "",
       "source": "CharityJob",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "110568e1a1e1",
-      "title": "Programme and Finance Manager",
-      "org": "CharityJob",
-      "org_tags": [],
-      "url": "https://www.charityjob.co.uk/jobs/not-for-profit-people/programme-and-finance-manager/1073544?tsId=1",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "CharityJob",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "is_new": true,
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "cb2c020bfe2b",
@@ -5075,7 +4408,7 @@
       "posted": "",
       "source": "CharityJob",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "3c40fb513f9c",
@@ -5087,8 +4420,21 @@
       "snippet": "",
       "posted": "",
       "source": "CharityJob",
-      "is_new": true,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "is_new": false,
+      "scraped_at": "2026-06-22T11:32:24.550716"
+    },
+    {
+      "id": "110568e1a1e1",
+      "title": "Programme and Finance Manager",
+      "org": "CharityJob",
+      "org_tags": [],
+      "url": "https://www.charityjob.co.uk/jobs/not-for-profit-people/programme-and-finance-manager/1073544?tsId=1",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "CharityJob",
+      "is_new": false,
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "e1f202aab013",
@@ -5101,33 +4447,7 @@
       "posted": "",
       "source": "CharityJob",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "a115a0d5ead4",
-      "title": "Project Administrator, Headstart",
-      "org": "CharityJob",
-      "org_tags": [],
-      "url": "https://www.charityjob.co.uk/jobs/freshwater-habitats-trust/project-administrator-headstart/1070633?tsId=2",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "CharityJob",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "3312fa55bea5",
-      "title": "Global Education and Partnerships Manager (Maternity Cover)",
-      "org": "CharityJob",
-      "org_tags": [],
-      "url": "https://www.charityjob.co.uk/jobs/peas-promoting-equality-in-african-schools-/global-education-and-partnerships-manager-maternity-cover-/1073608?tsId=2",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "CharityJob",
-      "is_new": true,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "0241391c3467",
@@ -5140,7 +4460,7 @@
       "posted": "",
       "source": "CharityJob",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "33f11db9a518",
@@ -5153,7 +4473,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "82dd57299e7e",
@@ -5166,7 +4486,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "0eb5913874d8",
@@ -5179,7 +4499,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "26eaab370f82",
@@ -5192,7 +4512,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "fb566531dbb2",
@@ -5205,7 +4525,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "3320102810eb",
@@ -5218,7 +4538,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "418fb82225cf",
@@ -5231,7 +4551,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "25a3a6c46283",
@@ -5244,20 +4564,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
-    },
-    {
-      "id": "ba790104bcf2",
-      "title": "Policy Officer – Energy",
-      "org": "Euractiv",
-      "org_tags": [],
-      "url": "https://jobs.euractiv.com/jobs/policy-officer-energy/",
-      "location": "Brussels",
-      "snippet": "",
-      "posted": "",
-      "source": "Euractiv",
-      "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "723abd27d560",
@@ -5270,7 +4577,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "b51433c1aadd",
@@ -5283,7 +4590,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "ad007c8a76ce",
@@ -5296,7 +4603,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "1db16499180e",
@@ -5309,7 +4616,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "1c6abb4583ac",
@@ -5322,7 +4629,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "e2bdb9feb34d",
@@ -5335,7 +4642,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "dc4a4d972fc9",
@@ -5348,7 +4655,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "736e6925cf5b",
@@ -5361,7 +4668,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "10022453d249",
@@ -5374,7 +4681,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "8ce5a002df29",
@@ -5387,7 +4694,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "3e3f94ea9f06",
@@ -5400,7 +4707,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "6cf02f1413a4",
@@ -5413,7 +4720,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "4065ae64769b",
@@ -5426,7 +4733,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "c2b5b4180a7c",
@@ -5439,7 +4746,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "2fd62e0bdf73",
@@ -5452,7 +4759,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     },
     {
       "id": "3e5f9f2bd3ec",
@@ -5465,7 +4772,7 @@
       "posted": "",
       "source": "UNjobs",
       "is_new": false,
-      "scraped_at": "2026-06-21T09:34:18.065851"
+      "scraped_at": "2026-06-22T11:32:24.550716"
     }
   ]
 }
