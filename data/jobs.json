@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-21T11:22:09.673519",
-  "total": 327,
-  "new_count": 16,
+  "scraped_at": "2026-09-22T10:31:27.048724",
+  "total": 313,
+  "new_count": 39,
   "jobs": [
     {
       "id": "eeb44d017ab1",
@@ -18,7 +18,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "f5bcf4bf693e",
@@ -35,7 +35,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "911507072d24",
@@ -52,7 +52,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "679f2f82a64d",
@@ -69,7 +69,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "184e6856cea8",
@@ -86,7 +86,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "848d0144c3e0",
@@ -103,7 +103,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "56a1ca484173",
@@ -120,7 +120,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "482351c1c166",
@@ -137,7 +137,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "af601e5a33e3",
@@ -154,7 +154,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "77758fc68e6b",
@@ -171,7 +171,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "e45445384951",
@@ -188,7 +188,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "b7e17e710463",
@@ -205,7 +205,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "9b6f4486853b",
@@ -222,7 +222,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "22d3c52516d7",
@@ -239,7 +239,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "4ae6aef4ff9a",
@@ -256,7 +256,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "8e722f64c8b7",
@@ -273,7 +273,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "d2f93ff4dd7b",
@@ -290,7 +290,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "766f078b03b6",
@@ -306,8 +306,8 @@
       "snippet": "",
       "posted": "",
       "source": "direct",
-      "is_new": true,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "is_new": false,
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "0901304752f2",
@@ -324,7 +324,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "55619a1f429b",
@@ -340,12 +340,12 @@
       "snippet": "",
       "posted": "",
       "source": "direct",
-      "is_new": true,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "is_new": false,
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
-      "id": "c97581dbd187",
-      "title": "Political (349)",
+      "id": "4557408e477e",
+      "title": "Political (350)",
       "org": "EEAS",
       "org_tags": [
         "eu",
@@ -358,7 +358,7 @@
       "posted": "",
       "source": "direct",
       "is_new": true,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "4ee97ee8e3f4",
@@ -375,11 +375,11 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
-      "id": "ddc866b2b0e2",
-      "title": "Security (37)",
+      "id": "d3e08b155835",
+      "title": "Security (38)",
       "org": "EEAS",
       "org_tags": [
         "eu",
@@ -392,7 +392,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "d62aad18e940",
@@ -409,7 +409,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "7a25cdeb4097",
@@ -426,7 +426,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "731d37cc1b77",
@@ -443,7 +443,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "f6ec8514df44",
@@ -460,7 +460,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "77f34fd04ad4",
@@ -477,7 +477,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "967d0e7fb83a",
@@ -494,7 +494,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "ac5a7c18ba11",
@@ -511,7 +511,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "435a118b8bec",
@@ -528,7 +528,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "ece9ae75e651",
@@ -545,7 +545,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "07939f3b1770",
@@ -562,7 +562,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "12161e337738",
@@ -579,7 +579,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "185b165c893a",
@@ -596,7 +596,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "76d82c6c4065",
@@ -613,7 +613,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "9352fd0693c1",
@@ -630,7 +630,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "5d45e2e86d47",
@@ -647,7 +647,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "a7b32cae28db",
@@ -664,7 +664,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "cae030a4a415",
@@ -681,7 +681,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "be8274b2c8f2",
@@ -698,7 +698,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "1a4a859ef148",
@@ -715,7 +715,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "ecca470d49af",
@@ -732,7 +732,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "4d0c61d7c923",
@@ -749,7 +749,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "8d2fe20b8c31",
@@ -766,7 +766,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "f46beb7ecb66",
@@ -783,7 +783,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "e599118d2d47",
@@ -800,7 +800,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "def58e6f8c07",
@@ -817,7 +817,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "a143569e1a16",
@@ -834,7 +834,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "282599d2dce8",
@@ -851,7 +851,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "19275e1ad2ef",
@@ -868,7 +868,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "e3e6fef2cfd4",
@@ -885,7 +885,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "98f194e21cf5",
@@ -902,7 +902,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "7fff6b98521f",
@@ -919,7 +919,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "5cfef37288cb",
@@ -936,7 +936,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "67aa084a6a13",
@@ -953,7 +953,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "370d7ea55ecf",
@@ -970,7 +970,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "41069dd98181",
@@ -987,7 +987,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "62c0bebacc08",
@@ -1004,7 +1004,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "08ab18a64c43",
@@ -1021,7 +1021,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "6eb0513f7c2a",
@@ -1038,7 +1038,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "151d55a1f4c7",
@@ -1055,7 +1055,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "e033d2839cec",
@@ -1072,7 +1072,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "5b64795a755f",
@@ -1089,7 +1089,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "287eb2e65a22",
@@ -1106,7 +1106,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "6ef9cb06db9d",
@@ -1123,7 +1123,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "b1127d595ee6",
@@ -1140,7 +1140,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "ff7efcca6475",
@@ -1157,7 +1157,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "850e144a68ed",
@@ -1173,7 +1173,39 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "3a6fddacb9e5",
+      "title": "Skip to main content",
+      "org": "EU Fundamental Rights Agency",
+      "org_tags": [
+        "human rights",
+        "eu"
+      ],
+      "url": "https://fra.europa.eu/en/about-fra/recruitment/vacancies#main-content",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": false,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "0aa4c405e1ed",
+      "title": "Subscribe to Previous Vacancies",
+      "org": "EU Fundamental Rights Agency",
+      "org_tags": [
+        "human rights",
+        "eu"
+      ],
+      "url": "https://fra.europa.eu/en/about-fra/recruitment/vacancies.rss.xml",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": false,
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "c0f5d9eb4b7d",
@@ -1191,7 +1223,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "56bdf11766ac",
@@ -1209,7 +1241,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "948f4d698429",
@@ -1227,7 +1259,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "8fa0f81a3ea7",
@@ -1245,7 +1277,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "a607ae9e373f",
@@ -1263,7 +1295,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "7d65b509c548",
@@ -1281,7 +1313,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "dae049673b39",
@@ -1299,7 +1331,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "f0f8b7ea760d",
@@ -1317,7 +1349,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "de37ba60a650",
@@ -1335,7 +1367,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "40c1b4252126",
@@ -1353,7 +1385,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "9cfa7e2217ac",
@@ -1371,7 +1403,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "f658ed601826",
@@ -1389,7 +1421,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "d7534895b791",
@@ -1407,7 +1439,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "0c92a7cc3570",
@@ -1425,7 +1457,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "3413f114d07f",
@@ -1443,7 +1475,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "d3a947d1c55d",
@@ -1461,7 +1493,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "cf4191089d63",
@@ -1479,7 +1511,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "796ec1577760",
@@ -1497,7 +1529,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "dcaf0d870010",
@@ -1515,7 +1547,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "693175f8246c",
@@ -1533,7 +1565,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "3050a4b73a7d",
@@ -1551,7 +1583,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "63125189b973",
@@ -1569,7 +1601,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "068e2ac743cb",
@@ -1587,7 +1619,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "2a3c61bf1d25",
@@ -1605,7 +1637,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "bce7b75b7a00",
@@ -1623,7 +1655,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "ad4941d7832a",
@@ -1640,7 +1672,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "cbabba1cf15a",
@@ -1657,7 +1689,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "03f708845873",
@@ -1674,7 +1706,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "f95a2d59fd94",
@@ -1691,7 +1723,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "6f98b162a024",
@@ -1708,7 +1740,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "bca1ed148b4c",
@@ -1725,7 +1757,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "b77e6762c211",
@@ -1742,7 +1774,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "4390a2017032",
@@ -1759,7 +1791,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "91aad08a3ae6",
@@ -1776,7 +1808,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "ca6ea90931a7",
@@ -1793,7 +1825,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "80602ff9fedf",
@@ -1810,7 +1842,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "1b4429da7be0",
@@ -1827,7 +1859,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "2426600ca413",
@@ -1844,7 +1876,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "8b1dbc0b4a09",
@@ -1861,7 +1893,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "0ef73c72ba39",
@@ -1878,7 +1910,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "849e9bd91210",
@@ -1895,24 +1927,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "2e624fd5fcee",
-      "title": "Finance Assistant - EU projects (deadline: 3 July 2025)",
-      "org": "EUISS",
-      "org_tags": [
-        "security",
-        "eu",
-        "research"
-      ],
-      "url": "https://www.iss.europa.eu/about-us/opportunities/finance-assistant-eu-projects-deadline-3-july-2025",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "c1586a999198",
@@ -1930,7 +1945,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "4a03723215de",
@@ -1948,7 +1963,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "c1364c42f2d7",
@@ -1966,7 +1981,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "171d2dee55de",
@@ -1984,7 +1999,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "f2341ab75904",
@@ -2001,7 +2016,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "0929e4755102",
@@ -2018,7 +2033,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "b27a9a6a6fc3",
@@ -2035,7 +2050,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "315c78bcae4e",
@@ -2052,7 +2067,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "57fd6f46c0cb",
@@ -2069,7 +2084,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "d55d970eb73a",
@@ -2086,7 +2101,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "9e9c607b7546",
@@ -2103,7 +2118,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "0b0d31114335",
@@ -2120,7 +2135,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "564d71b7bad1",
@@ -2138,7 +2153,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "bce729b23d8f",
@@ -2156,7 +2171,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "1e61140cd93c",
@@ -2174,7 +2189,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "78f6c200ba1e",
@@ -2192,7 +2207,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "d441342c9e60",
@@ -2210,7 +2225,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "836822d1b0c0",
@@ -2228,7 +2243,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "253a455b652b",
@@ -2246,7 +2261,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "49d9a736d615",
@@ -2264,7 +2279,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "543ee1799112",
@@ -2282,7 +2297,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "6573280d583b",
@@ -2300,7 +2315,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "f3e8e7b8976d",
@@ -2318,7 +2333,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "ad0ad1e2cfae",
@@ -2336,7 +2351,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "4220a739c4aa",
@@ -2354,7 +2369,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "560a56fb0abb",
@@ -2372,7 +2387,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "22624ad10141",
@@ -2390,7 +2405,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "aa905d58364e",
@@ -2408,7 +2423,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "7f07f82c4999",
@@ -2424,8 +2439,8 @@
       "snippet": "",
       "posted": "",
       "source": "direct",
-      "is_new": true,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "is_new": false,
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "cd5d48ad9f23",
@@ -2442,7 +2457,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "57fc5324cb03",
@@ -2459,7 +2474,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "9db8c822d989",
@@ -2476,7 +2491,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "04ef81391eb9",
@@ -2494,7 +2509,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "5749b85dbf22",
@@ -2511,7 +2526,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "22b854f4df7b",
@@ -2528,7 +2543,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "1935a685e705",
@@ -2545,7 +2560,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "42314a2e1d03",
@@ -2562,7 +2577,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "2db5a4b7ed9b",
@@ -2579,7 +2594,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "75c05e53fab7",
@@ -2596,7 +2611,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "909a5792032c",
@@ -2613,7 +2628,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "dc476eff816c",
@@ -2630,7 +2645,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "af52825aea6a",
@@ -2647,7 +2662,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "2f813d7e5021",
@@ -2664,7 +2679,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "3fa4100155ef",
@@ -2681,7 +2696,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "0da241238655",
@@ -2698,7 +2713,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "1b78e245a0b1",
@@ -2715,7 +2730,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "09d05e3cbe28",
@@ -2732,7 +2747,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "e6a5e8cd5c8a",
@@ -2750,7 +2765,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "ed1463fb3450",
@@ -2767,7 +2782,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "d4751f9c73ff",
@@ -2784,7 +2799,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "6a38a139e27c",
@@ -2801,7 +2816,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "a69d8bb8954d",
@@ -2818,7 +2833,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "27d2288bde10",
@@ -2835,7 +2850,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "59decb9d6067",
@@ -2852,7 +2867,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "f4d2e523921c",
@@ -2869,7 +2884,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "70b3b5f2e667",
@@ -2886,7 +2901,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "6abd717ebf09",
@@ -2903,7 +2918,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "6ec98c87f145",
@@ -2920,7 +2935,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "51e674955b84",
@@ -2937,7 +2952,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "6b5f729a95b2",
@@ -2954,7 +2969,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "99385e083831",
@@ -2971,7 +2986,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "70e7abf72a88",
@@ -2988,7 +3003,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "f51a839c86ba",
@@ -3005,7 +3020,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "b73995c0c66d",
@@ -3022,7 +3037,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "1d6ea49aefde",
@@ -3039,7 +3054,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "bd6f5e9b9ef0",
@@ -3056,7 +3071,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "5f47ab0ab7af",
@@ -3073,7 +3088,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "34d7534b3085",
@@ -3090,7 +3105,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "3187c1c26ed8",
@@ -3107,7 +3122,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "60fdb2fadd08",
@@ -3124,7 +3139,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "467860016825",
@@ -3141,7 +3156,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "00527eb65ef5",
@@ -3159,7 +3174,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "becf5c92d1cd",
@@ -3177,7 +3192,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "874d5f355e13",
@@ -3195,7 +3210,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "726bdd58bc59",
@@ -3213,115 +3228,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "4a863df614e5",
-      "title": "Job Title Asistente en Desarrollo de Industrias Intensivas en Conocimiento Post level NPSA-4 Apply by Sep-21-26 Agency UNDP Location Mexico",
-      "org": "UNDP",
-      "org_tags": [
-        "un",
-        "development",
-        "governance",
-        "global"
-      ],
-      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36904",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "1773d68ec3be",
-      "title": "Job Title Auxiliar Operativo de Proyecto en Procesos de Decretos de ANP Post level NPSA-4 Apply by Sep-21-26 Agency UNDP Location Mexico",
-      "org": "UNDP",
-      "org_tags": [
-        "un",
-        "development",
-        "governance",
-        "global"
-      ],
-      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36905",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "e3a02628ff0b",
-      "title": "Job Title Asociado(a) en Implementación de Proyectos Estratégicos Post level NPSA-6 Apply by Sep-21-26 Agency UNDP Location Mexico",
-      "org": "UNDP",
-      "org_tags": [
-        "un",
-        "development",
-        "governance",
-        "global"
-      ],
-      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36920",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "abbb6c6d239a",
-      "title": "Job Title Asociado(a) en Innovación para el Desarrollo Productivo Post level NPSA-6 Apply by Sep-21-26 Agency UNDP Location Mexico",
-      "org": "UNDP",
-      "org_tags": [
-        "un",
-        "development",
-        "governance",
-        "global"
-      ],
-      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36927",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "04ba8e366a74",
-      "title": "Job Title Asociado(a) en Comunicación Estratégica Post level NPSA-6 Apply by Sep-21-26 Agency UNDP Location Mexico",
-      "org": "UNDP",
-      "org_tags": [
-        "un",
-        "development",
-        "governance",
-        "global"
-      ],
-      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36928",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "237caf6a1924",
-      "title": "Job Title Project Manager [Open to internal and external applicants] Post level NPSA-10 Apply by Sep-23-26 Agency UNDP Location Cotabato City, Philippines",
-      "org": "UNDP",
-      "org_tags": [
-        "un",
-        "development",
-        "governance",
-        "global"
-      ],
-      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36639",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "b50e8def17d0",
@@ -3339,7 +3246,25 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "237caf6a1924",
+      "title": "Job Title Project Manager [Open to internal and external applicants] Post level NPSA-10 Apply by Sep-23-26 Agency UNDP Location Cotabato City, Philippines",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36639",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": false,
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "24fc88740a7e",
@@ -3357,7 +3282,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "0ea7055f6101",
@@ -3375,7 +3300,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "19c84472c162",
@@ -3393,7 +3318,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "ee3729292a9e",
@@ -3411,7 +3336,43 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "5da2d070fab7",
+      "title": "Job Title Asistente Tutor(a) E-Learning - NPSA4 Short-Term Post level NPSA-4 Apply by Sep-28-26 Agency UNDP Location Santiago, Chile",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36851",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "a17e08fea0f8",
+      "title": "Job Title Asistente Tutor(a) Docente Académico(a) - NPSA5 Short-Term Post level NPSA-5 Apply by Sep-28-26 Agency UNDP Location Santiago, Chile",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36853",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "66b895e90c8a",
@@ -3429,7 +3390,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "ec5504b9314a",
@@ -3446,8 +3407,8 @@
       "snippet": "",
       "posted": "",
       "source": "direct",
-      "is_new": true,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "is_new": false,
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "02a0674af9da",
@@ -3464,62 +3425,8 @@
       "snippet": "",
       "posted": "",
       "source": "direct",
-      "is_new": true,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "bed3d602a37b",
-      "title": "Job Title Asistente de Vinculación en Movilidad, Asentamiento y Desarrollo Humano Post level NPSA-4 Apply by Sep-21-26 Agency UNDP Location Mexico",
-      "org": "UNDP",
-      "org_tags": [
-        "un",
-        "development",
-        "governance",
-        "global"
-      ],
-      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36109",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "180ac878dcbf",
-      "title": "Job Title Auxiliar en Revisión de Registros y de Sistema Post level NPSA-3 Apply by Sep-21-26 Agency UNDP Location Mexico",
-      "org": "UNDP",
-      "org_tags": [
-        "un",
-        "development",
-        "governance",
-        "global"
-      ],
-      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36926",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "131f77013221",
-      "title": "Job Title Auxiliar de Gestión de Iniciativas de Confianza - Área Infraestructura_NPSA3 Post level NPSA-3 Apply by Sep-22-26 Agency UNDP Location Valdivia, Chile",
-      "org": "UNDP",
-      "org_tags": [
-        "un",
-        "development",
-        "governance",
-        "global"
-      ],
-      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36765",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "b9754fc8aae3",
@@ -3537,43 +3444,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "b656d51d2a7b",
-      "title": "Job Title Asistente de Promoción Comercial - 2 posiciones Post level NPSA-4 Apply by Sep-23-26 Agency UNDP Location Mexico",
-      "org": "UNDP",
-      "org_tags": [
-        "un",
-        "development",
-        "governance",
-        "global"
-      ],
-      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36977",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "eea1039b2edc",
-      "title": "Job Title Asistente de Investigación Económica Post level NPSA-4 Apply by Sep-23-26 Agency UNDP Location Mexico",
-      "org": "UNDP",
-      "org_tags": [
-        "un",
-        "development",
-        "governance",
-        "global"
-      ],
-      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36979",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "0fa9dbf81584",
@@ -3591,7 +3462,43 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "b656d51d2a7b",
+      "title": "Job Title Asistente de Promoción Comercial - 2 posiciones Post level NPSA-4 Apply by Sep-23-26 Agency UNDP Location Mexico",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36977",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": false,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "eea1039b2edc",
+      "title": "Job Title Asistente de Investigación Económica Post level NPSA-4 Apply by Sep-23-26 Agency UNDP Location Mexico",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36979",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": false,
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "a7dd601d1886",
@@ -3609,7 +3516,25 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "49e52afd2546",
+      "title": "Job Title Auxiliar de Gestión de Iniciativas de Confianza - Área Infraestructura_NPSA3 Post level NPSA-3 Apply by Sep-29-26 Agency UNDP Location Valdivia, Chile",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36765",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "51096b26b662",
@@ -3627,7 +3552,25 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "8b3990bb7567",
+      "title": "Job Title Associé(e) Analyse des Données et Suivi-Evaluation Post level NPSA-6 Apply by Oct-5-26 Agency UNDP Location San Pedro, Cote d'Ivoire",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37029",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "404831efc079",
@@ -3645,7 +3588,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "52f8b28d7f39",
@@ -3663,7 +3606,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "83b3e232db0a",
@@ -3681,7 +3624,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "4f91f5258bc3",
@@ -3699,7 +3642,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "fff81a1fa107",
@@ -3717,7 +3660,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "cf23f3b55798",
@@ -3735,7 +3678,25 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "fb033d9f7fe6",
+      "title": "Job Title Graphic Design and Communications Intern Post level IN Apply by Oct-6-26 Agency UNDP Location Copenhagen, Denmark",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37023",
+      "location": "Global",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "b2f631e5a8d3",
@@ -3753,7 +3714,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "57c8c85f4907",
@@ -3771,7 +3732,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "22c245f55e7a",
@@ -3788,26 +3749,8 @@
       "snippet": "",
       "posted": "",
       "source": "direct",
-      "is_new": true,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "6d810d361afe",
-      "title": "Job Title Project Manager (Open to Internal & External Applicants) Post level NPSA-10 Apply by Sep-21-26 Agency UNDP Location Dhaka, Bangladesh",
-      "org": "UNDP",
-      "org_tags": [
-        "un",
-        "development",
-        "governance",
-        "global"
-      ],
-      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36733",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "abf650abd72f",
@@ -3825,7 +3768,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "8e41449413c1",
@@ -3843,7 +3786,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "41823744baf0",
@@ -3861,7 +3804,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "decf29f0405d",
@@ -3879,7 +3822,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "1f7580fcf46a",
@@ -3897,7 +3840,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "f2a8a0c2f7b0",
@@ -3914,8 +3857,80 @@
       "snippet": "",
       "posted": "",
       "source": "direct",
+      "is_new": false,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "bbd65f1cb557",
+      "title": "Job Title Programme Analyst, Climate and Nature [Open to internal and external applicants] Post level NOA Apply by Sep-30-26 Agency UNDP Location Cairo, Egypt",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33635",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
       "is_new": true,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "054233cedf0a",
+      "title": "Job Title Project Manager [Open to internal and external candidates] Post level NPSA-9 Apply by Oct-1-26 Agency UNDP Location Sarajevo, Bosnia and Herzegovina",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36935",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "ea768a707526",
+      "title": "Job Title Project Associate (Abierto a Candidatos internos y externos) Post level NPSA-7 Apply by Oct-1-26 Agency UNDP Location San Jose, Costa Rica",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36970",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "44f3fc3940c2",
+      "title": "Job Title SGP National Coordinator [Open to Internal and External Applicants] Post level NPSA-9 Apply by Oct-2-26 Agency UNDP Location Suva, Fiji",
+      "org": "UNDP",
+      "org_tags": [
+        "un",
+        "development",
+        "governance",
+        "global"
+      ],
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36980",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "d9bd0f45c5f9",
@@ -3932,7 +3947,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "d67e617ca82d",
@@ -3949,7 +3964,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "6a899755ac42",
@@ -3966,7 +3981,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "5a51f92620d3",
@@ -3984,7 +3999,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "e27014a23b79",
@@ -4002,7 +4017,7 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "5603562715fe",
@@ -4020,7 +4035,473 @@
       "posted": "",
       "source": "direct",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "01b252b668d5",
+      "title": "Skip to main content",
+      "org": "Committee of the Regions",
+      "org_tags": [
+        "eu",
+        "regional",
+        "local government",
+        "brussels"
+      ],
+      "url": "https://cor.europa.eu/en/about/jobs#main-content",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": false,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "4b94cbac90d6",
+      "title": "CoR Local Authorisations Manager",
+      "org": "Committee of the Regions",
+      "org_tags": [
+        "eu",
+        "regional",
+        "local government",
+        "brussels"
+      ],
+      "url": "https://cor.europa.eu/en/about/work-us/jobs/cor-local-authorisations-manager",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": false,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "d676b4695cd0",
+      "title": "Financial Initiating Agent",
+      "org": "Committee of the Regions",
+      "org_tags": [
+        "eu",
+        "regional",
+        "local government",
+        "brussels"
+      ],
+      "url": "https://cor.europa.eu/en/about/work-us/jobs/financial-initiating-agent-2",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": false,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "b0379a20de01",
+      "title": "recruitment@cor.europa.eu",
+      "org": "Committee of the Regions",
+      "org_tags": [
+        "eu",
+        "regional",
+        "local government",
+        "brussels"
+      ],
+      "url": "mailto:recruitment@cor.europa.eu",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": false,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "972995d78753",
+      "title": "Learn more",
+      "org": "Committee of the Regions",
+      "org_tags": [
+        "eu",
+        "regional",
+        "local government",
+        "brussels"
+      ],
+      "url": "https://cor.europa.eu/en/about/work-us/recruitment-process",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": false,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "b696aba1c3d8",
+      "title": "recruitment-official@cor.europa.eu",
+      "org": "Committee of the Regions",
+      "org_tags": [
+        "eu",
+        "regional",
+        "local government",
+        "brussels"
+      ],
+      "url": "mailto:recruitment-official@cor.europa.eu",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": false,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "6895d4044636",
+      "title": "Facebook",
+      "org": "Committee of the Regions",
+      "org_tags": [
+        "eu",
+        "regional",
+        "local government",
+        "brussels"
+      ],
+      "url": "https://www.facebook.com/share.php?u=https://www.cor.europa.eu/en/about/work-us/jobs&title=Jobs",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": false,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "24b244ce2eb0",
+      "title": "Linkedin",
+      "org": "Committee of the Regions",
+      "org_tags": [
+        "eu",
+        "regional",
+        "local government",
+        "brussels"
+      ],
+      "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.cor.europa.eu/en/about/work-us/jobs&title=Jobs",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": false,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "b6b23ed61bcc",
+      "title": "Whatsapp",
+      "org": "Committee of the Regions",
+      "org_tags": [
+        "eu",
+        "regional",
+        "local government",
+        "brussels"
+      ],
+      "url": "https://wa.me/?text=https://www.cor.europa.eu/en/about/work-us/jobs",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": false,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "9b3ddc88f09b",
+      "title": "Back to top",
+      "org": "Committee of the Regions",
+      "org_tags": [
+        "eu",
+        "regional",
+        "local government",
+        "brussels"
+      ],
+      "url": "https://cor.europa.eu/en/about/jobs#page-top",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "direct",
+      "is_new": false,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "ab3bdf842ba8",
+      "title": "Wissenschaftlicher Referent (m/w/d) Geschäftsstelle ZiviZ",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://stifterverband.talention.com/talention/stellenangebote/257920735?ref=8010141000",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "ea95432c6356",
+      "title": "Sozialpädagog*in/Sozialarbeiter*in im Kinder- und Jugendbeteiligungsbüro",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://hvd-bb.softgarden.io/job/66879560?l=de",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "a712759f6abc",
+      "title": "(Lead) Consultant im Bereich Strategie-, Team und Organisationsentwicklung im In- und Ausland",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://syspons.softgarden.io/job/67549182/-Lead-Consultant-im-Bereich-Strategie-,-Team-und-Organisationsentwicklung-im-In-und-Ausland-?jobDbPVId=285327272&l=de",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "44a2ffe38d99",
+      "title": "Wissenschaftliche/r Mitarbeiter/in (d/w/m) Medizinhistorisches Museum - Kuration und Forschung",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://karriere.charite.de/stellenangebote/detail/7729",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "6b9943f4ee5f",
+      "title": "Project Manager (all genders) on Security Transition and Community Violence Reduction",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://berghof-foundation-operations-ggmbh.jobs.personio.de/job/2800024",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "661911ed0203",
+      "title": "Fachreferent/-in für internationale Kurzzeitprogramme (w/m/d)",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.uni-potsdam.de/fileadmin/projects/verwaltung/docs/Dezernat3/Ausschreibungen/3_MTV/078_Referent_IO_2.pdf",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "9a440e031090",
+      "title": "Bundesgeschäftsführung",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.profamilia.de/fachinfos/stellenangebote",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "445d94cbb1ac",
+      "title": "Referent/in (w/m/d*) für das Referat 22 „Bildung, Jugend und Sport (MBJS), Wissenschaft, Forschung und Kultur (MWFK), Arbeit, Soziales, Gesundheit und gesellschaftlicher Zusammenhalt (MASGZ)“",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://karriere-in-brandenburg.de/stellenangebote/21033",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "0f61f28b36d8",
+      "title": "Koordination Gesundheitsförderung und Prävention (m/w/d)",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.karriereportal-stellen.berlin.de/Koordination-Gesundheitsfoerderung-und-Praevention-mwd-de-j69163.html",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "7a661de00088",
+      "title": "Wiss. Volontär:in (w/m/d)",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://liebermann-villa.de/wp-content/uploads/Liebermann-Villa-am-Wannsee_Ausschreibung_Volontariat.pdf",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "2b06107defe0",
+      "title": "Jugendreferent:in für den Jungen ADFC (w/m/d)",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.adfc.de/ueber-uns/person/adfc-bundesgeschaeftsstelle-sucht-jugendreferentin-fuer-den-jungen-adfc-w-m-d",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "d212fa55971e",
+      "title": "Re­fe­rent/-in (m/w/d)",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.bafza.de/karriere/stellenangebote/details/referent-in-w-m-d-fachbereich-demokratie-leben-berlin-dienstort-berlin",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "c9d384e29f05",
+      "title": "Tarifbeschäftigte/r (m/w/d)",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.karriereportal-stellen.berlin.de/Tarifbeschaeftigter-mwd-de-j70194.html",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "a584f86d5307",
+      "title": "Referent/in im Referat IV A (Newsroom: Presse und Digitale Kommunikation) des Presse- und Informationsamtes des Landes Berlin (PIA) (m/w/d)",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.karriereportal-stellen.berlin.de/Referentin-im-Referat-IV-A-Newsroom-Presse-und-Digitale-Ko-de-j69809.html",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "626da38e4003",
+      "title": "Co-Projektleitung Kinder- und Jugendbüro Neukölln",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.demokratie-dialog.de/wp-content/uploads/2026/09/KiJuB_Ausschreibung-PL_2026.pdf",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "17c81e7e1bdd",
+      "title": "Projektreferent*in Organisationsentwicklung",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.ijgd.de/newsdetail/projektreferentin-organisationsentwicklung-in-berlin",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "c29afa743249",
+      "title": "Projektleitung Organsiationsentwicklung",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.ijgd.de/newsdetail/projektleitung-organisationsentwicklung-in-berlin",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "408a074a52ac",
+      "title": "türkisch sprechende*r Projektmitarbeiter *in Fachberatung Berufsabschlüsse",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.johannesstift-diakonie.de/karriere-bildung/stellenangebote-bewerbung/stellenangebot/6399-projektmitarbeiter-in-fachberatung-berufsabschluesse",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "7456a67a7eec",
+      "title": "Mitarbeiter/in (w/m/d) für Kommunikation und Veranstaltungen",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.stiftung-berliner-mauer.de/de/ueber-uns/team#stellenausschreibungen",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "47d72fd329f5",
+      "title": "Hospitationsstellen im deutschen Stiftungswesen (w/m/d) im Rahmen des Förderprogramms \"Vielfalt stiften\"",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://gesinesjobtipps.de/wp-content/uploads/job-pdfs/Vielfalt-stiften_Ausschreibungstext_2027.pdf",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "60aca4bff87f",
+      "title": "Broker/ Transferkoordination Teamleitung",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.uni-potsdam.de/fileadmin/projects/verwaltung/docs/Dezernat3/Ausschreibungen/3_MTV/111_2026_Broker.pdf",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "34dc0b2078ee",
+      "title": "Referent*in (w/m/d) für den Bereich Naturschutz und Biologische Vielfalt, Themenschwerpunkt Ernährungspolitik",
+      "org": "Gesine's Jobtipps",
+      "org_tags": [],
+      "url": "https://www.duh-jobs.de/jobs/67548577/Referent-in-w-m-d-f%C3%BCr-den-Bereich-Naturschutz-und-Biologische-Vielfalt-Themenschwerpunkt-Ern%C3%A4hrungspolitik-/",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "Gesine's Jobtipps",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "567e99fc2ed7",
@@ -4033,7 +4514,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "52e2cbb4244a",
@@ -4046,7 +4527,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "dd569455ed93",
@@ -4059,7 +4540,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "bbfd203b7ba9",
@@ -4072,7 +4553,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "c9e0b00ab8f2",
@@ -4085,7 +4566,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "7516dccf269d",
@@ -4098,7 +4579,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "b4cd54b7378c",
@@ -4111,7 +4592,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "dc75421c1749",
@@ -4124,618 +4605,7 @@
       "posted": "",
       "source": "Gesine's Jobtipps",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "d6f9ba944dbe",
-      "title": "Leitung der Bundeskoordination von INSEA aktiv Deutschland (m/w/d)",
-      "org": "Gesine's Jobtipps",
-      "org_tags": [],
-      "url": "https://www.dag-shg.de/data/Texte/2026/INSEA_Ausschreibung_Leitung-Bundeskoordination.pdf",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Gesine's Jobtipps",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "b275244703cf",
-      "title": "Mitarbeiter*in (m/w/d) für das Wissenschaftliche Volontariat",
-      "org": "Gesine's Jobtipps",
-      "org_tags": [],
-      "url": "https://www.schwulesmuseum.de/jobs/",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Gesine's Jobtipps",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "fd5255da90f6",
-      "title": "Mitarbeiter*in (m/w/d) für Presse und politische Kommunikation",
-      "org": "Gesine's Jobtipps",
-      "org_tags": [],
-      "url": "https://simone-fischer-stuttgart.de/news/mitarbeiter-in-m-w-d-fur-presse-und-politische-kommunikation/",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Gesine's Jobtipps",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "074a2fc57758",
-      "title": "Redakteur/in für die Zeitschrift Internationale Politik (m/w/d)",
-      "org": "Gesine's Jobtipps",
-      "org_tags": [],
-      "url": "https://dgap.org/de/dgap/jobs/redakteur-fuer-die-zeitschrift-internationale-politik-m-w-d",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Gesine's Jobtipps",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "a04a7a1a064a",
-      "title": "Mitarbeiter/in für Presse & Medien (m/w/d)",
-      "org": "Gesine's Jobtipps",
-      "org_tags": [],
-      "url": "https://dgap.org/de/dgap/jobs/mitarbeiter-fuer-presse-medien-m-w-d",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Gesine's Jobtipps",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "085a417dd0a2",
-      "title": "Wis­sen­schaft­li­che Mit­ar­beit für das Ge­denk­stät­ten­re­fe­rat mit dem Schwer­punkt di­gi­ta­le Er­in­ne­rungs­kul­tur",
-      "org": "Gesine's Jobtipps",
-      "org_tags": [],
-      "url": "https://topographie-des-terrors.kenjo.io/wissenschaftliche-mitarbeit-fur-das-gedenkstattenreferat-m-w-d-schwerpunkt-digitale-erinnerungskultur-399173",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Gesine's Jobtipps",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "dbd022ef32ca",
-      "title": "Leitung der Abteilung Studienangelegenheiten (m/w/d)",
-      "org": "Gesine's Jobtipps",
-      "org_tags": [],
-      "url": "https://www.bht-berlin.de/3334/article/10549",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Gesine's Jobtipps",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "6379ad711589",
-      "title": "Mitarbeiter*in für Presse- und Öffentlichkeitsarbeit (m/w/d)",
-      "org": "Gesine's Jobtipps",
-      "org_tags": [],
-      "url": "https://spdfraktion-xhain.de/?p=12185&preview=true",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Gesine's Jobtipps",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "458d307b6822",
-      "title": "Fraktionsreferent*in (m/w/d)",
-      "org": "Gesine's Jobtipps",
-      "org_tags": [],
-      "url": "https://spdfraktion-xhain.de/2026/09/stellenausschreibungen/",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Gesine's Jobtipps",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "1c15d71c7799",
-      "title": "Pro­jekt­ma­na­ger*in für prä­ven­ti­ve Bil­dungs­ar­beit ge­gen An­ti­se­mi­tis­mus",
-      "org": "Gesine's Jobtipps",
-      "org_tags": [],
-      "url": "https://www.jmberlin.de/stellenangebot-projektmanagerin-bildungsarbeit-gegen-antisemitismus",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Gesine's Jobtipps",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "55fa3520f687",
-      "title": "Wissenschaftliche*r Mitarbeitende*r für den Bereich Wissen, Beratung, Innovation (w/m/d)",
-      "org": "Gesine's Jobtipps",
-      "org_tags": [],
-      "url": "https://www.bundesstiftung-gleichstellung.de/stellenausschreibung/wissenschaftlicher-mitarbeitender-als-elternzeitvertretung-fuer-den-bereich-wissen-beratung-innovation-100-w-m-d/",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Gesine's Jobtipps",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "caa715672b01",
-      "title": "Referent:in Ehrenamtskoordination (m/w/d)",
-      "org": "Gesine's Jobtipps",
-      "org_tags": [],
-      "url": "https://www.transparency.de/ueber-uns/stellenangebote",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Gesine's Jobtipps",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "0bb9e8176ac4",
-      "title": "Abteilungsleitung Tourismus und Veranstaltungen",
-      "org": "Gesine's Jobtipps",
-      "org_tags": [],
-      "url": "https://www.berlinerdom.de/jobs/",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Gesine's Jobtipps",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "8e6ce1a34178",
-      "title": "Fachreferent:in (m/w/d)",
-      "org": "Gesine's Jobtipps",
-      "org_tags": [],
-      "url": "https://kijubb.de/jobs/",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Gesine's Jobtipps",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "dee957d0112f",
-      "title": "Pressereferent:in / Referent:in Kommunikation (m/w/d)",
-      "org": "Gesine's Jobtipps",
-      "org_tags": [],
-      "url": "https://www.spd-wirtschaftsforum.de/wp-content/uploads/2026/09/Stellenausschreibung_PresseReferent_in-Wirtschaftsforum-09-26.pdf",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Gesine's Jobtipps",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "31dec6b0f64d",
-      "title": "GSCC | Strategic Communications Senior Associate, Super Pollutants",
-      "org": "Gesine's Jobtipps",
-      "org_tags": [],
-      "url": "https://careers.meliorefoundation.org/en/postings/6740260e-04a4-465c-8c1e-650268909c18",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Gesine's Jobtipps",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "f148c8b45d1f",
-      "title": "Leitung Öffentlichkeitsarbeit/Kommunikation und Marketing (m/w/d)",
-      "org": "Gesine's Jobtipps",
-      "org_tags": [],
-      "url": "https://www.schauspiel-leipzig.de/service/jobs/stellenausschreibung-leitung-oea/",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Gesine's Jobtipps",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "fa6f35ed362c",
-      "title": "Communications Officer (m/w/d)",
-      "org": "Gesine's Jobtipps",
-      "org_tags": [],
-      "url": "https://werkleitz.de/media/pages/stellen/8c75d3e720-1789400137/stellenausschreibung_communications-officer.pdf",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Gesine's Jobtipps",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "6b64378f26b5",
-      "title": "Referent(-in) (m/w/d) mit Schwerpunkt in Natur- und Technikwissenschaften",
-      "org": "Gesine's Jobtipps",
-      "org_tags": [],
-      "url": "https://karriere.leopoldina.org/jobposting/fe62a43ab2242d900db7279e6df92209825a379a0",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Gesine's Jobtipps",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "370e6345b66d",
-      "title": "Beauftragung für den Kirchlichen Entwicklungsdienst und den Themenbereich Gerechtigkeit",
-      "org": "Gesine's Jobtipps",
-      "org_tags": [],
-      "url": "https://weltverantwortung-evlks.de/news/stelle-beauftragung-fuer-den-kirchlichen-entwicklungsdienst-und-den-themenbereich-gerechtigkeit/",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Gesine's Jobtipps",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "016414bdb9cc",
-      "title": "Pädagogische Mitarbeit (m/w/d) für die 13. Kinderstadt 2027",
-      "org": "Gesine's Jobtipps",
-      "org_tags": [],
-      "url": "https://www.buehnen-halle.de/de/ueber-uns-jobs#padagogische-mitarbeit-mwd-fur-die-13-kinderstadt-2027-7424",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Gesine's Jobtipps",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "77e95da2a932",
-      "title": "Mitarbeiter Forschungsdatenmanagement (m/w/d)",
-      "org": "Gesine's Jobtipps",
-      "org_tags": [],
-      "url": "https://www.dubnow.de/ausschreibung/mitarbeiter-forschungsdatenmanagement-m-w-d",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Gesine's Jobtipps",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "de3d60ce8bde",
-      "title": "Stellenmarkt",
-      "org": "Bundesverband",
-      "org_tags": [],
-      "url": "https://www.stiftungen.org/service/jobs.html",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Bundesverband",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "4a32f9bf0e3b",
-      "title": "Programm Chancenpatenschaften",
-      "org": "Bundesverband",
-      "org_tags": [],
-      "url": "https://www.stiftungen.org/verband/was-wir-tun/initiativen-und-projekte/patenschaften-und-mentoring/patenschaftsprogramm-chancenpatenschaften.html",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Bundesverband",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "743d5cb3493a",
-      "title": "Leiter:in des Fachbereiches Gutes Wohnen für Alleinerziehende (Köln)",
-      "org": "Bundesverband",
-      "org_tags": [],
-      "url": "https://www.stiftungen.org/jobs/stellenanzeige/leiterin-des-fachbereiches-gutes-wohnen-fuer-alleinerziehende-16552.html",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Bundesverband",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "497b5214218f",
-      "title": "Sachbearbeiter/in Abteilung Länderprogramm (m/w/d) (Potsdam)",
-      "org": "Bundesverband",
-      "org_tags": [],
-      "url": "https://www.stiftungen.org/jobs/stellenanzeige/sachbearbeiter-in-abteilung-laenderprogramm-m-w-d-16548.html",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Bundesverband",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "a9629489a098",
-      "title": "Assistenz der kaufmännischen Geschäftsführung (m/w/d) (Berlin)",
-      "org": "Bundesverband",
-      "org_tags": [],
-      "url": "https://www.stiftungen.org/jobs/stellenanzeige/assistenz-der-kaufmaennischen-geschaeftsfuehrung-m-w-d-16547.html",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Bundesverband",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "7c9df447e875",
-      "title": "Grafikdesigner:in / Kommunikationsdesigner:in (m/w/d) (Berlin)",
-      "org": "Bundesverband",
-      "org_tags": [],
-      "url": "https://www.stiftungen.org/jobs/stellenanzeige/grafikdesignerin-kommunikationsdesignerin-m-w-d-16545.html",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Bundesverband",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "263cf9d5cac2",
-      "title": "Manager:in für das Bundesprogramm Initiative 100-Prozent-Schulen (m/w/d) (Berlin)",
-      "org": "Bundesverband",
-      "org_tags": [],
-      "url": "https://www.stiftungen.org/jobs/stellenanzeige/managerin-fuer-das-bundesprogramm-initiative-100-prozent-schulen-m-w-d-16543.html",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Bundesverband",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "f617738fadd2",
-      "title": "Medienpädagog*in für Bildungsangebote mit Games (m/w/d) (Berlin)",
-      "org": "Bundesverband",
-      "org_tags": [],
-      "url": "https://www.stiftungen.org/jobs/stellenanzeige/medienpaedagogin-fuer-bildungsangebote-mit-games-m-w-d-16542.html",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Bundesverband",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "a2f910c6f918",
-      "title": "Senior Projektmanager*in Sport & Demokratie (m/w/d) (Frankfurt am Main)",
-      "org": "Bundesverband",
-      "org_tags": [],
-      "url": "https://www.stiftungen.org/jobs/stellenanzeige/senior-projektmanagerin-sport-demokratie-m-w-d-16539.html",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Bundesverband",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "71444a373051",
-      "title": "(Senior) Manager Finanzbuchhaltung (m/w/d) (Frankfurt am Main)",
-      "org": "Bundesverband",
-      "org_tags": [],
-      "url": "https://www.stiftungen.org/jobs/stellenanzeige/senior-manager-finanzbuchhaltung-m-w-d-16537.html",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Bundesverband",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "0cd892dbfcc0",
-      "title": "Ehrenamtliche*r Fundraiser*in mit Schwerpunkt in der Online-Kommunikation (m/w/d) (Remote)",
-      "org": "Bundesverband",
-      "org_tags": [],
-      "url": "https://www.stiftungen.org/jobs/stellenanzeige/ehrenamtlicher-fundraiserin-mit-schwerpunkt-in-der-online-kommunikation-m-w-d-16536.html",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Bundesverband",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "a4fa5273f1df",
-      "title": "Museologe / Kunsthistoriker (m/w/d) für die digitale Erfassung und Inventarisierung von Baudenkmalen (Halle (Saale))",
-      "org": "Bundesverband",
-      "org_tags": [],
-      "url": "https://www.stiftungen.org/jobs/stellenanzeige/museologe-kunsthistoriker-m-w-d-fuer-die-digitale-erfassung-und-inventarisierung-von-baudenkmalen-16534.html",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Bundesverband",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "b5b7e8883e0d",
-      "title": "Cookie-Einstellungen",
-      "org": "Bundesverband",
-      "org_tags": [],
-      "url": "https://www.stiftungen.org/service/jobs.html?showOptIn=1",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Bundesverband",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "5d216a469b6d",
-      "title": "Stellenmarkt",
-      "org": "Stiftungswelt",
-      "org_tags": [],
-      "url": "https://www.stiftungswelt.de/service/jobs.html",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Stiftungswelt",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "1b0af71343b1",
-      "title": "Programm Chancenpatenschaften",
-      "org": "Stiftungswelt",
-      "org_tags": [],
-      "url": "https://www.stiftungswelt.de/verband/was-wir-tun/initiativen-und-projekte/patenschaften-und-mentoring/patenschaftsprogramm-chancenpatenschaften.html",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Stiftungswelt",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "f442f9719842",
-      "title": "Leiter:in des Fachbereiches Gutes Wohnen für Alleinerziehende (Köln)",
-      "org": "Stiftungswelt",
-      "org_tags": [],
-      "url": "https://www.stiftungswelt.de/jobs/stellenanzeige/leiterin-des-fachbereiches-gutes-wohnen-fuer-alleinerziehende-16552.html",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Stiftungswelt",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "643936d4e16b",
-      "title": "Sachbearbeiter/in Abteilung Länderprogramm (m/w/d) (Potsdam)",
-      "org": "Stiftungswelt",
-      "org_tags": [],
-      "url": "https://www.stiftungswelt.de/jobs/stellenanzeige/sachbearbeiter-in-abteilung-laenderprogramm-m-w-d-16548.html",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Stiftungswelt",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "642d0ce160de",
-      "title": "Assistenz der kaufmännischen Geschäftsführung (m/w/d) (Berlin)",
-      "org": "Stiftungswelt",
-      "org_tags": [],
-      "url": "https://www.stiftungswelt.de/jobs/stellenanzeige/assistenz-der-kaufmaennischen-geschaeftsfuehrung-m-w-d-16547.html",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Stiftungswelt",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "abb02498df3d",
-      "title": "Grafikdesigner:in / Kommunikationsdesigner:in (m/w/d) (Berlin)",
-      "org": "Stiftungswelt",
-      "org_tags": [],
-      "url": "https://www.stiftungswelt.de/jobs/stellenanzeige/grafikdesignerin-kommunikationsdesignerin-m-w-d-16545.html",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Stiftungswelt",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "5348c2330f33",
-      "title": "Manager:in für das Bundesprogramm Initiative 100-Prozent-Schulen (m/w/d) (Berlin)",
-      "org": "Stiftungswelt",
-      "org_tags": [],
-      "url": "https://www.stiftungswelt.de/jobs/stellenanzeige/managerin-fuer-das-bundesprogramm-initiative-100-prozent-schulen-m-w-d-16543.html",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Stiftungswelt",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "b85de4d106ee",
-      "title": "Medienpädagog*in für Bildungsangebote mit Games (m/w/d) (Berlin)",
-      "org": "Stiftungswelt",
-      "org_tags": [],
-      "url": "https://www.stiftungswelt.de/jobs/stellenanzeige/medienpaedagogin-fuer-bildungsangebote-mit-games-m-w-d-16542.html",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Stiftungswelt",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "63d87cd05d39",
-      "title": "Senior Projektmanager*in Sport & Demokratie (m/w/d) (Frankfurt am Main)",
-      "org": "Stiftungswelt",
-      "org_tags": [],
-      "url": "https://www.stiftungswelt.de/jobs/stellenanzeige/senior-projektmanagerin-sport-demokratie-m-w-d-16539.html",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Stiftungswelt",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "8d3c88bc5f60",
-      "title": "(Senior) Manager Finanzbuchhaltung (m/w/d) (Frankfurt am Main)",
-      "org": "Stiftungswelt",
-      "org_tags": [],
-      "url": "https://www.stiftungswelt.de/jobs/stellenanzeige/senior-manager-finanzbuchhaltung-m-w-d-16537.html",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Stiftungswelt",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "8e78837d4f06",
-      "title": "Ehrenamtliche*r Fundraiser*in mit Schwerpunkt in der Online-Kommunikation (m/w/d) (Remote)",
-      "org": "Stiftungswelt",
-      "org_tags": [],
-      "url": "https://www.stiftungswelt.de/jobs/stellenanzeige/ehrenamtlicher-fundraiserin-mit-schwerpunkt-in-der-online-kommunikation-m-w-d-16536.html",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Stiftungswelt",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "29cf6da5aabe",
-      "title": "Museologe / Kunsthistoriker (m/w/d) für die digitale Erfassung und Inventarisierung von Baudenkmalen (Halle (Saale))",
-      "org": "Stiftungswelt",
-      "org_tags": [],
-      "url": "https://www.stiftungswelt.de/jobs/stellenanzeige/museologe-kunsthistoriker-m-w-d-fuer-die-digitale-erfassung-und-inventarisierung-von-baudenkmalen-16534.html",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "Stiftungswelt",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "ed01eb707656",
@@ -4748,7 +4618,7 @@
       "posted": "",
       "source": "CharityJob",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "dd16eb383915",
@@ -4761,46 +4631,7 @@
       "posted": "",
       "source": "CharityJob",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "43d0fff87951",
-      "title": "Drive Service Manager",
-      "org": "CharityJob",
-      "org_tags": [],
-      "url": "https://www.charityjob.co.uk/jobs/rise-mutual-cic/drive-service-manager/1084309?tsId=6",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "CharityJob",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "caa300400c3b",
-      "title": "Project Officer",
-      "org": "CharityJob",
-      "org_tags": [],
-      "url": "https://www.charityjob.co.uk/jobs/london-gypsies-and-travellers/project-officer/1083763?tsId=6",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "CharityJob",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "de06690969b0",
-      "title": "Programme Manager",
-      "org": "CharityJob",
-      "org_tags": [],
-      "url": "https://www.charityjob.co.uk/jobs/university-of-the-built-environment/programme-manager/1083405?tsId=2",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "CharityJob",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "0f05099649aa",
@@ -4812,21 +4643,34 @@
       "snippet": "",
       "posted": "",
       "source": "CharityJob",
-      "is_new": true,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "is_new": false,
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
-      "id": "433d51c3519a",
-      "title": "Project Management Officer (Operations)",
+      "id": "f4b06674edb6",
+      "title": "Deputy Manager",
       "org": "CharityJob",
       "org_tags": [],
-      "url": "https://www.charityjob.co.uk/jobs/coram/project-management-officer-operations-/1084430?tsId=2",
+      "url": "https://www.charityjob.co.uk/jobs/the-woodfield-project/deputy-manager/1084608?tsId=2",
       "location": "",
       "snippet": "",
       "posted": "",
       "source": "CharityJob",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "2468e0a6e705",
+      "title": "Project Officer",
+      "org": "CharityJob",
+      "org_tags": [],
+      "url": "https://www.charityjob.co.uk/jobs/london-gypsies-and-travellers/project-officer/1083763?tsId=2",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "CharityJob",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "1722da710544",
@@ -4838,8 +4682,8 @@
       "snippet": "",
       "posted": "",
       "source": "CharityJob",
-      "is_new": true,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "is_new": false,
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "01cdcfa2447e",
@@ -4852,33 +4696,7 @@
       "posted": "",
       "source": "CharityJob",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "109fcd2c0c99",
-      "title": "Project Support Officer (Drive Partnership)",
-      "org": "CharityJob",
-      "org_tags": [],
-      "url": "https://www.charityjob.co.uk/jobs/safelives/project-support-officer-drive-partnership-/1084413?tsId=2",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "CharityJob",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "64b570124c53",
-      "title": "Programme Manager: Strengthening Activists and Defenders (STAND)",
-      "org": "CharityJob",
-      "org_tags": [],
-      "url": "https://www.charityjob.co.uk/jobs/womankind-worldwide/programme-manager-strengthening-activists-and-defenders-stand-/1084460?tsId=2",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "CharityJob",
-      "is_new": true,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "8388bf6b8a40",
@@ -4891,7 +4709,59 @@
       "posted": "",
       "source": "CharityJob",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "64b570124c53",
+      "title": "Programme Manager: Strengthening Activists and Defenders (STAND)",
+      "org": "CharityJob",
+      "org_tags": [],
+      "url": "https://www.charityjob.co.uk/jobs/womankind-worldwide/programme-manager-strengthening-activists-and-defenders-stand-/1084460?tsId=2",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "CharityJob",
+      "is_new": false,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "de06690969b0",
+      "title": "Programme Manager",
+      "org": "CharityJob",
+      "org_tags": [],
+      "url": "https://www.charityjob.co.uk/jobs/university-of-the-built-environment/programme-manager/1083405?tsId=2",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "CharityJob",
+      "is_new": false,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "3eb000875a63",
+      "title": "Lead Community Programmes & Development",
+      "org": "CharityJob",
+      "org_tags": [],
+      "url": "https://www.charityjob.co.uk/jobs/forever-young-people/lead-community-programmes-development/1082899?tsId=2",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "CharityJob",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "3e7d0541397c",
+      "title": "Catchment Partnership Manager – (Rural/ Thames Valley)",
+      "org": "CharityJob",
+      "org_tags": [],
+      "url": "https://www.charityjob.co.uk/jobs/thames21/catchment-partnership-manager-rural-thames-valley-/1084632?tsId=2",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "CharityJob",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "8641ae64da87",
@@ -4903,8 +4773,21 @@
       "snippet": "",
       "posted": "",
       "source": "CharityJob",
+      "is_new": false,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "dba03fb68384",
+      "title": "Senior Programme Manager",
+      "org": "CharityJob",
+      "org_tags": [],
+      "url": "https://www.charityjob.co.uk/jobs/lumos/senior-programme-manager/1084250?tsId=1",
+      "location": "",
+      "snippet": "",
+      "posted": "",
+      "source": "CharityJob",
       "is_new": true,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "f7d1a6c2941b",
@@ -4916,21 +4799,8 @@
       "snippet": "",
       "posted": "",
       "source": "CharityJob",
-      "is_new": true,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "3cb7e3840e6b",
-      "title": "Surrey Peer Programme Manager",
-      "org": "CharityJob",
-      "org_tags": [],
-      "url": "https://www.charityjob.co.uk/jobs/the-hepatitis-c-trust/surrey-peer-programme-manager/1083663?tsId=2",
-      "location": "",
-      "snippet": "",
-      "posted": "",
-      "source": "CharityJob",
-      "is_new": true,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "is_new": false,
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "33f11db9a518",
@@ -4943,7 +4813,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "82dd57299e7e",
@@ -4956,7 +4826,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "2c2df53766cc",
@@ -4969,7 +4839,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "26eaab370f82",
@@ -4982,7 +4852,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "79c8eda92e72",
@@ -4995,7 +4865,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "06c120eb4932",
@@ -5008,7 +4878,33 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "b3dc184c5111",
+      "title": "Campaign coordinator – Healthy Lungs for Life",
+      "org": "Euractiv",
+      "org_tags": [],
+      "url": "https://jobs.euractiv.com/jobs/campaign-coordinator-healthy-lungs-for-life-brussels-hybrid-lungs-europe/",
+      "location": "Brussels",
+      "snippet": "",
+      "posted": "",
+      "source": "Euractiv",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
+    },
+    {
+      "id": "73d985109568",
+      "title": "Space, Environmental & Geospatial Consultant",
+      "org": "Euractiv",
+      "org_tags": [],
+      "url": "https://jobs.euractiv.com/jobs/space-environmental-geospatial-consultant-brussels-hybrid-evenflow/",
+      "location": "Brussels",
+      "snippet": "",
+      "posted": "",
+      "source": "Euractiv",
+      "is_new": true,
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "88482eedae2a",
@@ -5020,8 +4916,8 @@
       "snippet": "",
       "posted": "",
       "source": "Euractiv",
-      "is_new": true,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "is_new": false,
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "f81f288d017d",
@@ -5033,8 +4929,8 @@
       "snippet": "",
       "posted": "",
       "source": "Euractiv",
-      "is_new": true,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "is_new": false,
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "b10a9abbe8f6",
@@ -5047,7 +4943,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "86ca0db82caa",
@@ -5060,33 +4956,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "7c64d6862557",
-      "title": "Assistant Accountant (m/f/d)",
-      "org": "Euractiv",
-      "org_tags": [],
-      "url": "https://jobs.euractiv.com/jobs/assistant-accountant-m-f-d-brussels-on-site-giz-gmbh-2/",
-      "location": "Brussels",
-      "snippet": "",
-      "posted": "",
-      "source": "Euractiv",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
-    },
-    {
-      "id": "9e08c7660c70",
-      "title": "Project Manager / Tender Acquisition – MENA Region (m/f/d)",
-      "org": "Euractiv",
-      "org_tags": [],
-      "url": "https://jobs.euractiv.com/jobs/project-manager-tender-acquisition-mena-region-m-f-d-brussels-on-site-giz-gmbh/",
-      "location": "Brussels",
-      "snippet": "",
-      "posted": "",
-      "source": "Euractiv",
-      "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "b51433c1aadd",
@@ -5099,7 +4969,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "ad007c8a76ce",
@@ -5112,7 +4982,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "1db16499180e",
@@ -5125,7 +4995,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "1c6abb4583ac",
@@ -5138,7 +5008,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "e2bdb9feb34d",
@@ -5151,7 +5021,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "a71e14655dd6",
@@ -5164,7 +5034,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "5ecd9710f04b",
@@ -5177,7 +5047,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "1f573d6aeb6a",
@@ -5190,7 +5060,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "736e6925cf5b",
@@ -5203,7 +5073,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "53971a8390d1",
@@ -5216,7 +5086,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "74a17413847e",
@@ -5229,7 +5099,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "6cf02f1413a4",
@@ -5242,7 +5112,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "4065ae64769b",
@@ -5255,7 +5125,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     },
     {
       "id": "c2b5b4180a7c",
@@ -5268,7 +5138,7 @@
       "posted": "",
       "source": "Euractiv",
       "is_new": false,
-      "scraped_at": "2026-09-21T11:22:09.673519"
+      "scraped_at": "2026-09-22T10:31:27.048724"
     }
   ]
 }
