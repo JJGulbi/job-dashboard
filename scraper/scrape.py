@@ -21,8 +21,9 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
                   "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
-TIMEOUT = 15
-DELAY   = 1.5   # seconds between requests — be polite
+TIMEOUT       = 15
+DELAY         = 1.5   # seconds between requests — be polite
+SNIPPET_LEN   = 1500  # characters of job description to store
 
 # Keywords that help identify a link as a job listing
 JOB_TITLE_SIGNALS = [
@@ -41,6 +42,61 @@ SKIP_TEXT = {
     "privacy", "terms", "cookies", "donate", "subscribe", "newsletter",
     "imprint", "impressum", "search", "sitemap", "back", "more", "read more"
 }
+
+# ── Junk title filter ─────────────────────────────────────────────────────────
+
+JUNK_TITLE_PATTERNS = [
+    re.compile(r"^jobs?\s*(list|portal|overview|page|board)?$", re.I),
+    re.compile(r"^(all\s+)?open\s+(positions|roles|vacancies|jobs)$", re.I),
+    re.compile(r"unsolicited\s+appli", re.I),
+    re.compile(r"initiative?bewerbung", re.I),
+    re.compile(r"zum\s+job\s*portal", re.I),
+    re.compile(r"job\s*portal$", re.I),
+    re.compile(r"^stellenangebote$", re.I),
+    re.compile(r"^offene\s+stellen$", re.I),
+    re.compile(r"^karriere(seite)?$", re.I),
+    re.compile(r"^(view\s+)?all\s+jobs?$", re.I),
+    re.compile(r"^current\s+(openings|vacancies|opportunities)$", re.I),
+    re.compile(r"^work\s+with\s+us$", re.I),
+    re.compile(r"^join\s+(the\s+)?team$", re.I),
+    re.compile(r"^(our\s+)?vacancies$", re.I),
+    re.compile(r"^(our\s+)?careers?$", re.I),
+]
+
+def is_junk_title(title: str) -> bool:
+    t = title.strip()
+    return any(p.search(t) for p in JUNK_TITLE_PATTERNS)
+
+# ── Location / language filter ────────────────────────────────────────────────
+
+# Locations where local-language requirements are very likely and Janek
+# doesn't speak the language — filter these out at source.
+BLOCKED_LOCATION_PATTERNS = [
+    re.compile(r"\bBangladesh\b", re.I),
+    re.compile(r"\bDhaka\b", re.I),
+    re.compile(r"\bKabul\b", re.I),
+    re.compile(r"\bKampala\b", re.I),
+    re.compile(r"\bAddis\s+Ababa\b", re.I),
+    re.compile(r"\bKhartoum\b", re.I),
+    re.compile(r"\bBamako\b", re.I),
+    re.compile(r"\bConakry\b", re.I),
+    re.compile(r"\bNiamey\b", re.I),
+    re.compile(r"\bOuagadougou\b", re.I),
+    re.compile(r"\bLome\b", re.I),
+    re.compile(r"\bCotonou\b", re.I),
+]
+
+# Description text that strongly implies a local-language requirement
+BLOCKED_LANGUAGE_PATTERNS = [
+    re.compile(r"\b(fluent|proficient|native|required).{0,40}(Arabic|Bengali|Bangla|Dari|Pashto|Amharic|Swahili|Hausa|Yoruba|Somali|Tigrinya)\b", re.I),
+    re.compile(r"\b(Arabic|Bengali|Bangla|Dari|Pashto|Amharic)\s+(language\s+)?(skills?\s+)?(required|essential|mandatory|necessary)\b", re.I),
+]
+
+def is_blocked_location(location: str) -> bool:
+    return any(p.search(location) for p in BLOCKED_LOCATION_PATTERNS)
+
+def has_blocked_language_req(text: str) -> bool:
+    return any(p.search(text) for p in BLOCKED_LANGUAGE_PATTERNS)
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
@@ -83,6 +139,58 @@ def save_json(path: str, data):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
+def extract_location(text: str) -> str:
+    LOCATIONS = [
+        "Berlin", "London", "Brussels", "Geneva", "Vienna", "New York",
+        "Washington", "Amsterdam", "The Hague", "Paris", "Stockholm",
+        "Nairobi", "remote", "Remote", "hybrid", "Hybrid", "global", "Global"
+    ]
+    for loc in LOCATIONS:
+        if loc in text:
+            return loc
+    return ""
+
+def fetch_job_description(url: str) -> str:
+    """
+    Fetch the full text of an individual job posting page.
+    Returns up to SNIPPET_LEN characters of the main content block.
+    Falls back to empty string on any error.
+    """
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+        r.raise_for_status()
+        soup = BeautifulSoup(r.text, "html.parser")
+
+        # Remove boilerplate
+        for tag in soup.find_all(["nav", "footer", "header", "script", "style",
+                                   "aside", "form", "noscript"]):
+            tag.decompose()
+
+        # Try common job-description container selectors first
+        SELECTORS = [
+            {"class": re.compile(r"job.?descri|position.?descri|vacancy.?descri|role.?descri", re.I)},
+            {"id":    re.compile(r"job.?descri|position.?descri|vacancy.?descri", re.I)},
+            {"class": re.compile(r"job.?detail|position.?detail|job.?content|posting.?content", re.I)},
+            {"class": re.compile(r"content.?main|main.?content|entry.?content", re.I)},
+        ]
+        for sel in SELECTORS:
+            el = soup.find(["div", "section", "article"], attrs=sel)
+            if el:
+                text = " ".join(el.get_text().split())
+                if len(text) > 100:
+                    return text[:SNIPPET_LEN]
+
+        # Fallback: take the largest text block on the page
+        blocks = soup.find_all(["div", "section", "article", "main"])
+        if blocks:
+            best = max(blocks, key=lambda b: len(b.get_text()))
+            text = " ".join(best.get_text().split())
+            return text[:SNIPPET_LEN]
+
+        return ""
+    except Exception:
+        return ""
+
 # ── ATS scrapers (use JSON APIs where available) ───────────────────────────────
 
 def scrape_greenhouse(slug: str) -> list:
@@ -91,11 +199,14 @@ def scrape_greenhouse(slug: str) -> list:
         r = requests.get(url, timeout=TIMEOUT)
         jobs = []
         for j in r.json().get("jobs", []):
+            # Greenhouse returns full HTML content — strip tags
+            content_html = j.get("content", "") or ""
+            snippet = BeautifulSoup(content_html, "html.parser").get_text()[:SNIPPET_LEN] if content_html else ""
             jobs.append({
                 "title":    j["title"],
                 "url":      j["absolute_url"],
                 "location": j.get("location", {}).get("name", ""),
-                "snippet":  "",
+                "snippet":  snippet,
                 "posted":   j.get("updated_at", "")[:10],
             })
         return jobs
@@ -111,11 +222,12 @@ def scrape_lever(slug: str) -> list:
         for j in r.json():
             ts = j.get("createdAt", 0)
             posted = datetime.fromtimestamp(ts / 1000).strftime("%Y-%m-%d") if ts else ""
+            snippet = (j.get("descriptionPlain") or "")[:SNIPPET_LEN]
             jobs.append({
                 "title":    j["text"],
                 "url":      j["hostedUrl"],
                 "location": j.get("categories", {}).get("location", ""),
-                "snippet":  (j.get("descriptionPlain") or "")[:250],
+                "snippet":  snippet,
                 "posted":   posted,
             })
         return jobs
@@ -141,16 +253,20 @@ def scrape_generic(base_url: str) -> list:
             href = abs_url(a["href"], base_url)
             if href in seen:
                 continue
+            if is_junk_title(text):
+                continue
             if is_job_link(text, href):
-                # Try to pick up a location hint from surrounding text
                 parent_text = clean_text(a.parent)
                 location = extract_location(parent_text)
+                if is_blocked_location(location):
+                    continue
                 jobs.append({
                     "title":    text,
                     "url":      href,
                     "location": location,
-                    "snippet":  "",
+                    "snippet":  "",   # fetched below
                     "posted":   "",
+                    "_fetch_description": True,
                 })
                 seen.add(href)
                 if len(jobs) >= 40:
@@ -159,17 +275,6 @@ def scrape_generic(base_url: str) -> list:
     except Exception as e:
         print(f"    [generic] {e}")
         return []
-
-def extract_location(text: str) -> str:
-    LOCATIONS = [
-        "Berlin", "London", "Brussels", "Geneva", "Vienna", "New York",
-        "Washington", "Amsterdam", "The Hague", "Paris", "Stockholm",
-        "Nairobi", "remote", "Remote", "hybrid", "Hybrid", "global", "Global"
-    ]
-    for loc in LOCATIONS:
-        if loc in text:
-            return loc
-    return ""
 
 # ── Aggregator scrapers ────────────────────────────────────────────────────────
 
@@ -182,7 +287,6 @@ def scrape_gesine() -> list:
         jobs = []
         seen = set()
 
-        # Gesine posts job listings as titled entries with external links
         for entry in soup.find_all(["article", "div"],
                                     class_=re.compile(r"post|entry|item|listing", re.I)):
             title_el = entry.find(re.compile(r"^h[1-4]$"))
@@ -190,18 +294,17 @@ def scrape_gesine() -> list:
             if title_el and link_el:
                 title = clean_text(title_el)
                 href  = link_el["href"]
-                if href not in seen and len(title) > 5:
+                if href not in seen and len(title) > 5 and not is_junk_title(title):
                     jobs.append({"title": title, "url": href,
                                  "location": "", "snippet": "", "posted": ""})
                     seen.add(href)
 
-        # Fallback — grab any meaningful external link
         if not jobs:
             for a in soup.find_all("a", href=True):
                 text = clean_text(a)
                 href = a["href"]
                 if (href.startswith("http") and href not in seen
-                        and 20 < len(text) < 150):
+                        and 20 < len(text) < 150 and not is_junk_title(text)):
                     jobs.append({"title": text, "url": href,
                                  "location": "", "snippet": "", "posted": ""})
                     seen.add(href)
@@ -222,7 +325,7 @@ def scrape_bundesverband() -> list:
         for a in soup.find_all("a", href=True):
             text = clean_text(a)
             href = abs_url(a["href"], url)
-            if href not in seen and is_job_link(text, href):
+            if href not in seen and is_job_link(text, href) and not is_junk_title(text):
                 jobs.append({"title": text, "url": href,
                              "location": "", "snippet": "", "posted": ""})
                 seen.add(href)
@@ -243,7 +346,7 @@ def scrape_stiftungswelt() -> list:
         for a in soup.find_all("a", href=True):
             text = clean_text(a)
             href = abs_url(a["href"], url)
-            if href not in seen and is_job_link(text, href):
+            if href not in seen and is_job_link(text, href) and not is_junk_title(text):
                 jobs.append({"title": text, "url": href,
                              "location": "", "snippet": "", "posted": ""})
                 seen.add(href)
@@ -264,7 +367,7 @@ def scrape_80k() -> list:
         for a in soup.find_all("a", href=True):
             text = clean_text(a)
             href = abs_url(a["href"], url)
-            if "/jobs/" in href and len(text) > 8 and href not in seen:
+            if "/jobs/" in href and len(text) > 8 and href not in seen and not is_junk_title(text):
                 jobs.append({"title": text, "url": href,
                              "location": "", "snippet": "", "posted": ""})
                 seen.add(href)
@@ -285,7 +388,7 @@ def scrape_charityjob() -> list:
         for a in soup.find_all("a", href=True):
             text = clean_text(a)
             href = abs_url(a["href"], url)
-            if "/jobs/" in href and len(text) > 8 and href not in seen:
+            if "/jobs/" in href and len(text) > 8 and href not in seen and not is_junk_title(text):
                 jobs.append({"title": text, "url": href,
                              "location": "", "snippet": "", "posted": ""})
                 seen.add(href)
@@ -306,7 +409,7 @@ def scrape_nfp() -> list:
         for a in soup.find_all("a", href=True):
             text = clean_text(a)
             href = abs_url(a["href"], url)
-            if href not in seen and is_job_link(text, href):
+            if href not in seen and is_job_link(text, href) and not is_junk_title(text):
                 jobs.append({"title": text, "url": href,
                              "location": "UK", "snippet": "", "posted": ""})
                 seen.add(href)
@@ -327,7 +430,7 @@ def scrape_euractiv() -> list:
         for a in soup.find_all("a", href=True):
             text = clean_text(a)
             href = abs_url(a["href"], url)
-            if href not in seen and is_job_link(text, href):
+            if href not in seen and is_job_link(text, href) and not is_junk_title(text):
                 jobs.append({"title": text, "url": href,
                              "location": "Brussels", "snippet": "", "posted": ""})
                 seen.add(href)
@@ -348,7 +451,7 @@ def scrape_unjobs() -> list:
         for a in soup.find_all("a", href=True):
             text = clean_text(a)
             href = abs_url(a["href"], url)
-            if "/vacancies/" in href and len(text) > 8 and href not in seen:
+            if "/vacancies/" in href and len(text) > 8 and href not in seen and not is_junk_title(text):
                 jobs.append({"title": text, "url": href,
                              "location": "", "snippet": "", "posted": ""})
                 seen.add(href)
@@ -369,7 +472,7 @@ def scrape_impactjobs() -> list:
         for a in soup.find_all("a", href=True):
             text = clean_text(a)
             href = abs_url(a["href"], url)
-            if href not in seen and is_job_link(text, href):
+            if href not in seen and is_job_link(text, href) and not is_junk_title(text):
                 jobs.append({"title": text, "url": href,
                              "location": "", "snippet": "", "posted": ""})
                 seen.add(href)
@@ -390,7 +493,7 @@ def scrape_devex() -> list:
         for a in soup.find_all("a", href=True):
             text = clean_text(a)
             href = abs_url(a["href"], url)
-            if "/jobs/" in href and len(text) > 8 and href not in seen:
+            if "/jobs/" in href and len(text) > 8 and href not in seen and not is_junk_title(text):
                 jobs.append({"title": text, "url": href,
                              "location": "", "snippet": "", "posted": ""})
                 seen.add(href)
@@ -422,8 +525,12 @@ def scrape_reliefweb() -> list:
             org     = sources[0].get("name", "Unknown") if sources else "Unknown"
             country = f.get("country", [{}])
             loc     = country[0].get("name", "") if country else ""
+            if is_blocked_location(loc):
+                continue
             snippet_html = f.get("body-html", "")
-            snippet = BeautifulSoup(snippet_html, "html.parser").get_text()[:250] if snippet_html else ""
+            snippet = BeautifulSoup(snippet_html, "html.parser").get_text()[:SNIPPET_LEN] if snippet_html else ""
+            if has_blocked_language_req(snippet):
+                continue
             jobs.append({
                 "title":    f.get("title", ""),
                 "url":      f.get("url", ""),
@@ -450,7 +557,7 @@ def scrape_idealist() -> list:
         for a in soup.find_all("a", href=True):
             text = clean_text(a)
             href = abs_url(a["href"], url)
-            if "/en/jobs/" in href and len(text) > 8 and href not in seen:
+            if "/en/jobs/" in href and len(text) > 8 and href not in seen and not is_junk_title(text):
                 jobs.append({
                     "title":    text,
                     "url":      href,
@@ -492,6 +599,24 @@ def main():
             raw = scrape_generic(url)
 
         for j in raw:
+            # Skip junk titles (extra guard for ATS sources)
+            if is_junk_title(j.get("title", "")):
+                continue
+            # Skip blocked locations
+            if is_blocked_location(j.get("location", "")):
+                continue
+
+            # Fetch full description for generic scraper entries that need it
+            snippet = j.get("snippet", "")
+            if j.get("_fetch_description") and not snippet:
+                print(f"    → fetching description: {j['title'][:60]}")
+                snippet = fetch_job_description(j["url"])
+                time.sleep(DELAY)
+
+            # Skip if full description reveals a blocked language requirement
+            if has_blocked_language_req(snippet):
+                continue
+
             jid = job_id(j["url"], j["title"])
             all_jobs.append({
                 "id":         jid,
@@ -500,7 +625,7 @@ def main():
                 "org_tags":   org.get("tags", []),
                 "url":        j.get("url", ""),
                 "location":   j.get("location", ""),
-                "snippet":    j.get("snippet", ""),
+                "snippet":    snippet,
                 "posted":     j.get("posted", ""),
                 "source":     "direct",
                 "is_new":     jid not in seen_ids,
@@ -527,6 +652,13 @@ def main():
     for source_name, fn in aggregators:
         print(f"  {source_name}")
         for j in fn():
+            if is_junk_title(j.get("title", "")):
+                continue
+            if is_blocked_location(j.get("location", "")):
+                continue
+            snippet = j.get("snippet", "")
+            if has_blocked_language_req(snippet):
+                continue
             jid = job_id(j["url"], j["title"])
             all_jobs.append({
                 "id":         jid,
@@ -535,7 +667,7 @@ def main():
                 "org_tags":   [],
                 "url":        j.get("url", ""),
                 "location":   j.get("location", ""),
-                "snippet":    j.get("snippet", ""),
+                "snippet":    snippet,
                 "posted":     j.get("posted", ""),
                 "source":     source_name,
                 "is_new":     jid not in seen_ids,
@@ -553,6 +685,13 @@ def main():
     for source_name, fn in api_sources:
         print(f"  {source_name}")
         for j in fn():
+            if is_junk_title(j.get("title", "")):
+                continue
+            if is_blocked_location(j.get("location", "")):
+                continue
+            snippet = j.get("snippet", "")
+            if has_blocked_language_req(snippet):
+                continue
             jid = job_id(j["url"], j["title"])
             all_jobs.append({
                 "id":         jid,
@@ -561,7 +700,7 @@ def main():
                 "org_tags":   [],
                 "url":        j.get("url", ""),
                 "location":   j.get("location", ""),
-                "snippet":    j.get("snippet", ""),
+                "snippet":    snippet,
                 "posted":     j.get("posted", ""),
                 "source":     source_name,
                 "is_new":     jid not in seen_ids,
